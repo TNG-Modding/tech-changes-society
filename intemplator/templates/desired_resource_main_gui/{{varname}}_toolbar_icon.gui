@@ -1,0 +1,72 @@
+﻿containerWindowType = {
+	name = "background_{{varname}}"
+	size = { width = 75 height = 33 }
+	position = { x = 995 y = 2 }
+
+	background = {
+		name = "background"
+		spriteType = "GFX_tiles_dark_area_cut_8"
+	}
+	iconType = {
+		name = "icon"
+		spriteType = "GFX_resource_{{varname}}"
+		position = { x = 28 y = -1 }
+		tooltip_mode_enabled = yes
+		alwaysTransparent = yes
+	}
+}
+
+containerWindowType = {
+	name = "tb_{{varname}}_current_value_group"
+	size = { width = 45 height = 33 }
+	position = { x = 995 y = 2 }
+
+	background = {
+		name = "background"
+		spriteType = "GFX_invisible"
+	}
+
+	instantTextBoxType={
+		name = "amount"
+		font = "cg_16b"
+		position = { x = -12 y = 14 }
+		maxWidth = 70
+		maxHeight = 16
+		text = "0 / 0"
+		format = center
+		alwaysTransparent = yes
+	}
+}
+
+containerWindowType = {
+	name = "tb_{{varname}}_desired_value_group"
+	size = { width = 30 height = 33 }
+	position = { x = 1040 y = 2 }
+
+	background = {
+		name = "background"
+		spriteType = "GFX_invisible"
+	}
+
+	instantTextBoxType={
+		name = "divider"
+		font = "cg_16b"
+		position = { x = -10 y = 14 }
+		maxWidth = 30
+		maxHeight = 16
+		text = "/"
+		format = center
+		alwaysTransparent = yes
+	}
+
+	instantTextBoxType={
+		name = "amount"
+		font = "cg_16b"
+		position = { x = 2 y = 14 }
+		maxWidth = 30
+		maxHeight = 16
+		text = "0 / 0"
+		format = center
+		alwaysTransparent = yes
+	}
+}

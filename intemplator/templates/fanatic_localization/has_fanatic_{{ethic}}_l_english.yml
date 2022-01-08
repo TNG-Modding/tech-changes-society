@@ -1,0 +1,4 @@
+l_english:
+
+ has_fanatic_{{ethic}}:0 "Fanatically {{Adjective}}"
+ has_fanatic_{{ethic}}_desc:0 "Only through taking a hard-line {{adjective}} stance can we rightly govern our people. We may never truly live up to our ideals, but realizing this difficult commitment in everything we do is who we are. {{EnemyAdjective}}s will find this hard to swallow, but in time, they too will see the light."

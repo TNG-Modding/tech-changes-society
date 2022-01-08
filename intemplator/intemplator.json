@@ -1,0 +1,85 @@
+{
+    "orders": [
+        {
+            "name": "Desired Resources",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_definitions",
+            "outputDirectoryPath": "../common/strategic_resources",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Groups",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_groups",
+            "outputDirectoryPath": "../interface/resource_groups",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource GFX",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_icons_gfx",
+            "outputDirectoryPath": "../interface/resources",
+            "disabled": true,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Icons",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_icons",
+            "outputDirectoryPath": "../gfx/interface/icons/resources",
+            "disabled": true,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Events",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_events",
+            "outputDirectoryPath": "../events",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Gui",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_main_gui",
+            "outputDirectoryPath": "../generated/desired_resources",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Event Static Modifiers",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_static_modifiers",
+            "outputDirectoryPath": "../common/static_modifiers",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Modifier Icons",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_all_modifier_icons",
+            "outputDirectoryPath": "../gfx/interface/icons/modifiers",
+            "disabled": true,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Desired Resource Localisation",
+            "specFilePath": "./specs/desiredResources.json",
+            "templateDirectoryPath": "./templates/desired_resource_localization",
+            "outputDirectoryPath": "../localisation/english/resources",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": true
+        }
+    ]
+}

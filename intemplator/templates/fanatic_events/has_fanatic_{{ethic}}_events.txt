@@ -1,0 +1,23 @@
+namespace = has_fanatic_{{ethic}}
+
+country_event = {
+	id = has_fanatic_{{ethic}}.1
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	immediate = {
+		if = {
+			limit = {
+				has_ethic = ethic_fanatic_{{ethic}}
+			}
+			add_modifier = {
+				modifier = has_fanatic_{{ethic}}
+				days = -1
+			}
+		}
+		else = {
+			remove_modifier = has_fanatic_{{ethic}}
+		}
+	}
+}

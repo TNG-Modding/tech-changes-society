@@ -1,0 +1,14 @@
+{
+    "specs" : [
+        {
+            "varname": "crisis",
+            "name": "crisis",
+            "Name": "Crisis",
+            "desc": "our empire is in chaos",
+            "Desc": "Our empire is in chaos",
+            "maxValue": 99,
+            "baseValue": 0,
+            "changePerMonth": 1
+        }
+    ]
+}

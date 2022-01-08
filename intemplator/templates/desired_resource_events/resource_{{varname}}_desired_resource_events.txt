@@ -1,0 +1,247 @@
+namespace = {{varname}}_desired_resource_events
+
+# Update {{varname}} current, desired resting point, and current monthly gain
+country_event = {
+    id = {{varname}}_desired_resource_events.1
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        country_event = { id = {{varname}}_desired_resource_events.2 }
+        country_event = { id = {{varname}}_desired_resource_events.3 }
+        country_event = { id = {{varname}}_desired_resource_events.4 }
+        country_event = { id = {{varname}}_desired_resource_events.5 }
+        country_event = { id = {{varname}}_desired_resource_events.6 }
+        country_event = { id = {{varname}}_desired_resource_events.7 }
+    }	
+}
+
+# Define {{varname}}_new_desired_value based on {{varname}} desired point change production
+country_event = {
+    id = {{varname}}_desired_resource_events.2
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        # Get the current production
+        export_resource_income_to_variable = {
+            resource = {{varname}}_desired_value_change
+            variable = dre_current_{{varname}}_desired_value_change
+        }
+
+        # Define new desired point
+        set_variable = {
+            which = dre_{{varname}}_new_desired_value
+            value = {{baseValue}}
+        }
+        change_variable = {
+            which = dre_{{varname}}_new_desired_value
+            value = dre_current_{{varname}}_desired_value_change
+        }
+
+        # Clamp desired value to 0 inclusive to {{maxValue}} inclusive
+        if = {
+            limit = {
+                check_variable = {
+                    which = dre_{{varname}}_new_desired_value
+                    value > {{maxValue}}
+                }
+            }
+            set_variable = {
+                which = dre_{{varname}}_new_desired_value
+                value = {{maxValue}}
+            }
+        }
+        else_if = {
+            limit = {
+                check_variable = {
+                    which = dre_{{varname}}_new_desired_value
+                    value < 0
+                }
+            }
+            set_variable = {
+                which = dre_{{varname}}_new_desired_value
+                value = 0
+            }
+        }
+        # {{varname}}_new_desired_value is now the new desired point
+    }
+}
+
+# Set {{varname}} resting point to {{varname}}_new_desired_value
+country_event = {
+    id = {{varname}}_desired_resource_events.3
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        # Old desired value
+        export_resource_stockpile_to_variable = {
+            resource = {{varname}}_desired_value
+            variable = dre_current_{{varname}}_desired_value
+        }
+
+        # Determine the delta needed to achieve new desired value
+        set_variable = {
+            which = dre_{{varname}}_desired_value_delta
+            value = dre_{{varname}}_new_desired_value 
+        }
+        subtract_variable = {
+            which = dre_{{varname}}_desired_value_delta
+            value = dre_current_{{varname}}_desired_value
+        }
+        # {{varname}}_desired_value_delta is now the delta between new and old desired point
+
+        # Set desired value to new desired value
+        add_resource = {
+            {{varname}}_desired_value = 1
+            mult = dre_{{varname}}_desired_value_delta
+        }
+    }
+}
+
+# Set delta_between_current_desired_{{varname}}
+country_event = {
+    id = {{varname}}_desired_resource_events.4
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        # Get current value of {{varname}}
+        export_resource_stockpile_to_variable = {
+            resource = {{varname}}_current_value
+            variable = dre_current_{{varname}}_current_value
+        }
+        set_variable = {
+            which = dre_delta_between_current_desired_{{varname}}
+            value = dre_{{varname}}_new_desired_value
+        }
+        subtract_variable = {
+            which = dre_delta_between_current_desired_{{varname}}
+            value = dre_current_{{varname}}_current_value
+        }
+        # delta_between_current_desired_{{varname}} now represents the difference between the values
+    }
+}
+
+# Set next_months_current_{{varname}}
+country_event = {
+    id = {{varname}}_desired_resource_events.5
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        set_variable = {
+            which = dre_next_months_current_{{varname}}
+            value = dre_current_{{varname}}_current_value
+        }
+        export_resource_income_to_variable = {
+            resource = {{varname}}_current_value
+            variable = dre_{{varname}}_current_value_production
+        }
+        change_variable = {
+            which = dre_next_months_current_{{varname}}
+            value = dre_{{varname}}_current_value_production
+        }
+    }
+}
+
+# Set floored_current_{{varname}}_value and floored_desired_{{varname}}_value
+country_event = {
+    id = {{varname}}_desired_resource_events.6
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        set_variable = {
+            which = dre_floored_current_{{varname}}_value
+            value = dre_current_{{varname}}_current_value
+        }
+        floor_variable = dre_floored_current_{{varname}}_value
+        
+        set_variable = {
+            which = dre_floored_desired_{{varname}}_value
+            value = dre_{{varname}}_new_desired_value
+        }
+        floor_variable = dre_floored_desired_{{varname}}_value
+    }
+}
+
+# Set trending current value
+country_event = {
+    id = {{varname}}_desired_resource_events.7
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        if = {
+            # If the value is close enough, do nothing
+            limit = {
+                check_variable = {
+                    which = dre_floored_current_{{varname}}_value
+                    value = dre_floored_desired_{{varname}}_value
+                }
+            }
+            remove_modifier = {{varname}}_current_value_trending_up
+            remove_modifier = {{varname}}_current_value_trending_down
+        }
+        else_if = {
+            # Adding this months resources would put us over the desired point, so just set it equal to the desired point
+            limit = {
+                OR = {
+                    AND = {
+                        check_variable = {
+                            which = dre_current_{{varname}}_current_value
+                            value < dre_{{varname}}_new_desired_value
+                        }
+                        check_variable = {
+                            which = dre_next_months_current_{{varname}}
+                            value >= dre_{{varname}}_new_desired_value
+                        }
+                    }
+
+                    AND = {
+                        check_variable = {
+                            which = dre_current_{{varname}}_current_value
+                            value > dre_{{varname}}_new_desired_value
+                        }
+                        check_variable = {
+                            which = dre_next_months_current_{{varname}}
+                            value <= dre_{{varname}}_new_desired_value
+                        }
+                    }
+                }
+                
+            }
+            remove_modifier = {{varname}}_current_value_trending_up
+            remove_modifier = {{varname}}_current_value_trending_down
+            add_resource = {
+                {{varname}}_current_value = 1
+                mult = dre_delta_between_current_desired_{{varname}}
+            }
+        }
+        else_if = {
+            # If we are far away from our desired value
+            if = {
+                limit = {
+                    check_variable = {
+                        which = dre_{{varname}}_new_desired_value
+                        value >= dre_current_{{varname}}_current_value
+                    }
+                }
+                remove_modifier = {{varname}}_current_value_trending_down
+                add_modifier = {
+                    modifier = {{varname}}_current_value_trending_up
+                    days = -1
+                }
+            }
+            else = {
+                remove_modifier = {{varname}}_current_value_trending_up
+                add_modifier = {
+                    modifier = {{varname}}_current_value_trending_down
+                    days = -1
+                }
+            }
+        }
+    }
+}

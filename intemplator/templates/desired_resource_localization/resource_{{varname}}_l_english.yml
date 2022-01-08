@@ -1,0 +1,21 @@
+l_english:
+
+ {{varname}}_desired_value_change:0 "{{Name}} Resting Point Change"
+ {{varname}}_desired_value_change_desc:0 "The amount we raise the resting point of our {{name}}, {{desc}}."
+ mod_country_base_{{varname}}_desired_value_change_produces_add:0 "{{Name}} Resting Point Change"
+ mod_country_{{varname}}_desired_value_change_produces_add:0 "{{Name}} Resting Point Change"
+
+ {{varname}}_current_value:0 "{{Name}}"
+ {{varname}}_current_value_desc:0 "{{Desc}}."
+ mod_country_base_{{varname}}_current_value_produces_add:0 "Monthly {{Name}} Production"
+ mod_country_{{varname}}_current_value_produces_add:0 "Monthly {{Name}} Production"
+ {{varname}}_current_value_trending_up:0 "{{Name}} Trending Up"
+ {{varname}}_current_value_trending_down:0 "{{Name}} Trending Down"
+
+ {{varname}}_desired_value:0 "{{Name}} Resting Point"
+ {{varname}}_desired_value_desc:0 "The {{name}} value we trend towards over time. It has a base value of {{baseValue}}."
+ mod_country_base_{{varname}}_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_{{varname}}_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_{{varname}}_values_updated:0 "{{Name}} Values Updated"
+ {{varname}}_values_updated_message:0 "{{varname}} Current [Root.current_{{varname}}_current_value]\nDesired [Root.{{varname}}_new_desired_value]\nChange [Root.current_{{varname}}_desired_value_change]\nDelta [Root.delta_between_current_desired_{{varname}}]"

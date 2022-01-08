@@ -1,0 +1,9 @@
+﻿message_type = {
+	key = "{{varname}}_values_updated"
+	icon = "GFX_message_system_survey_complete"
+	icon_frame = 1
+
+	name = "message_{{varname}}_values_updated"
+	sound = "survey_complete"
+	ping = "ping_notification_green"
+}
