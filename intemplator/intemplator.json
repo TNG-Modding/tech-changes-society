@@ -80,6 +80,42 @@
             "disabled": false,
             "dumpContents": true,
             "isBom": true
+        },
+        {
+            "name": "Tech Triggers Crisis Events",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/tech_triggers_crisis_events",
+            "outputDirectoryPath": "../events",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Crisis Static Modifiers",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_static_modifiers",
+            "outputDirectoryPath": "../common/static_modifiers",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Crisis Faction Support",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_faction_support_oppose",
+            "outputDirectoryPath": "../generated/crisis_faction_support",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Crisis Localizations",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_localization",
+            "outputDirectoryPath": "../localisation/english",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": true
         }
     ]
 }

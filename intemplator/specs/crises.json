@@ -4,13 +4,17 @@
             "varname": "zro_huffing",
             "name": "zro huffing crisis",
             "Name": "Zro Huffing Crisis",
-            "Desc": "Many of our pops have taken to inhaling zro reactionally. Widespread dependence means many have come to identify with the mystical hallucinations it causes.",
+            "resouceName": "zro huffing crisis contribution",
+            "ResouceName": "Zro Huffing Crisis Contribution",
+            "Desc": "With the advent of zro distillation, many of our citizens are experimenting with recreational zro.",
             "maxValue": 99,
             "baseValue": 0,
             "changePerMonth": 1,
             "triggeredByTechnology": "tech_mine_zro",
-            "brewingCrisisName": "Zro Distillation contributes to Zro Huffing Crisis",
-            "brewingCrisisDesc": "With the advent of zro distillation, many of our citizens are experimenting with zro huffing."
+            "brewingCrisisName": "Zro Distillation Contributes to Zro Huffing Crisis",
+            "brewingCrisisDesc": "With the advent of zro distillation, many of our citizens are experimenting with recreational zro.",
+            "supportingFaction": "traditionalist",
+            "opposingFaction": "totalitarians"
         }
     ]
 }

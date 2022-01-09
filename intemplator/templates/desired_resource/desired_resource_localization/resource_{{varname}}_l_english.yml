@@ -9,10 +9,9 @@ l_english:
  {{varname}}_current_value_desc:0 "{{Desc}}."
  mod_country_base_{{varname}}_current_value_produces_add:0 "Monthly {{Name}} Production"
  mod_country_{{varname}}_current_value_produces_add:0 "Monthly {{Name}} Production"
+
  {{varname}}_current_value_trending_up:0 "{{Name}} Trending Up"
  {{varname}}_current_value_trending_down:0 "{{Name}} Trending Down"
- {{triggeredByTechnology}}_causes_{{varname}}:0 "{{brewingCrisisName}}"
-
 
  {{varname}}_desired_value:0 "{{Name}} Resting Point"
  {{varname}}_desired_value_desc:0 "The {{name}} value we trend towards over time. It has a base value of {{baseValue}}."

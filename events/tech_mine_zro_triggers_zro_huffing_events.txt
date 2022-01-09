@@ -1,0 +1,58 @@
+namespace = tech_mine_zro_triggers_zro_huffing_events
+
+country_event = {
+	id = tech_mine_zro_triggers_zro_huffing_events.1
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+	fire_only_once = yes
+
+	trigger = {
+		has_technology = tech_mine_zro
+		is_country_type = default
+	}
+
+	immediate = {
+		add_modifier = {
+			modifier = tech_mine_zro_causes_zro_huffing_static_modifier
+			years = 10
+		}
+	}
+}
+
+country_event = {
+	id = tech_mine_zro_triggers_zro_huffing_events.2
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = zro_huffing_current_value amount > 75 }
+		is_country_type = default
+	}
+
+	immediate = {
+		add_modifier = {
+			modifier = zro_huffing_static_modifier
+		}
+	}
+}
+
+country_event = {
+	id = tech_mine_zro_triggers_zro_huffing_events.3
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = zro_huffing_current_value amount < 50 }
+		is_country_type = default
+	}
+
+	immediate = {
+		remove_modifier = zro_huffing_static_modifier
+	}
+}

@@ -1,0 +1,58 @@
+namespace = {{triggeredByTechnology}}_triggers_{{varname}}_events
+
+country_event = {
+	id = {{triggeredByTechnology}}_triggers_{{varname}}_events.1
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+	fire_only_once = yes
+
+	trigger = {
+		has_technology = {{triggeredByTechnology}}
+		is_country_type = default
+	}
+
+	immediate = {
+		add_modifier = {
+			modifier = {{triggeredByTechnology}}_causes_{{varname}}_static_modifier
+			years = 10
+		}
+	}
+}
+
+country_event = {
+	id = {{triggeredByTechnology}}_triggers_{{varname}}_events.2
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = {{varname}}_current_value amount > 75 }
+		is_country_type = default
+	}
+
+	immediate = {
+		add_modifier = {
+			modifier = {{varname}}_static_modifier
+		}
+	}
+}
+
+country_event = {
+	id = {{triggeredByTechnology}}_triggers_{{varname}}_events.3
+	hide_window = yes
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = {{varname}}_current_value amount < 50 }
+		is_country_type = default
+	}
+
+	immediate = {
+		remove_modifier = {{varname}}_static_modifier
+	}
+}

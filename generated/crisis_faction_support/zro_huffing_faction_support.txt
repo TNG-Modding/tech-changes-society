@@ -1,0 +1,11 @@
+﻿# traditionalist
+produces = {
+  trigger = { owner = { has_technology = "tech_mine_zro" } }
+  zro_huffing_desired_value_change = 50
+}
+ 
+# totalitarians
+produces = {
+  trigger = { owner = { has_technology = "tech_mine_zro" } }
+  zro_huffing_desired_value_change = -50
+}

@@ -1,0 +1,11 @@
+﻿# {{supportingFaction}}
+produces = {
+  trigger = { owner = { has_technology = "{{triggeredByTechnology}}" } }
+  {{varname}}_desired_value_change = 50
+}
+ 
+# {{opposingFaction}}
+produces = {
+  trigger = { owner = { has_technology = "{{triggeredByTechnology}}" } }
+  {{varname}}_desired_value_change = -50
+}
