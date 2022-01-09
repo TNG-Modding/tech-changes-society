@@ -1,4 +1,4 @@
 ﻿l_english:
 
- tech_mine_zro_causes_zro_huffing_static_modifier:0 "Zro Distillation Contributes to Zro Huffing"
- zro_huffing_static_modifier:0 "Zro Huffing Crisis"
+ tech_mine_zro_causes_zro_huffing_static_modifier:0 "$tech_mine_zro$ Contributes to Zro Huffing"
+ zro_huffing_static_modifier:0 "Zro Huffing Crisis!"

@@ -1,10 +1,10 @@
 l_english:
 
- {{triggeredByTechnology}}_triggers_{{varname}}_events.1.title:0 "{{brewingCrisisName}}"
+ {{triggeredByTechnology}}_triggers_{{varname}}_events.1.title:0 "${{triggeredByTechnology}}$ Contributes to {{Name}}"
  {{triggeredByTechnology}}_triggers_{{varname}}_events.1.desc:0 "{{brewingCrisisDesc}}"
 
- {{triggeredByTechnology}}_triggers_{{varname}}_events.2.title:0 "{{crisisName}}"
+ {{triggeredByTechnology}}_triggers_{{varname}}_events.2.title:0 "{{Name}} Crisis!"
  {{triggeredByTechnology}}_triggers_{{varname}}_events.2.desc:0 "{{crisisDesc}}"
 
- {{triggeredByTechnology}}_triggers_{{varname}}_events.3.title:0 "{{crisisResolutionName}}"
+ {{triggeredByTechnology}}_triggers_{{varname}}_events.3.title:0 "{{Name}} Crisis Under Control"
  {{triggeredByTechnology}}_triggers_{{varname}}_events.3.desc:0 "{{crisisResolutionDesc}}"

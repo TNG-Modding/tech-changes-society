@@ -3,6 +3,5 @@
 }
 
 {{varname}}_static_modifier = {
-	country_zro_produces_mult = -0.05
 	job_criminal_per_pop = 0.05
 }
