@@ -5,3 +5,7 @@
 {{varname}}_current_value_trending_down = {
 	country_base_{{varname}}_current_value_produces_add = -{{changePerMonth}}
 }
+
+{{triggeredByTechnology}}_causes_{{varname}} = {
+	country_base_{{varname}}_current_value_produces_add = {{changePerMonth}}
+}
