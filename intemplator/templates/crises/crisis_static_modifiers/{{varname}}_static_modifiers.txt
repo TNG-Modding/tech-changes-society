@@ -1,7 +1,8 @@
 {{triggeredByTechnology}}_causes_{{varname}}_static_modifier = {
-	country_base_{{varname}}_desired_value_change_produces_add = 50
+	country_base_{{varname}}_desired_value_change_produces_add = 75
 }
 
 {{varname}}_static_modifier = {
-	all_technology_research_speed = -0.1
+	country_zro_produces_mult = -0.05
+	job_criminal_per_pop = 0.05
 }

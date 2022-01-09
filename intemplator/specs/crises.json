@@ -2,19 +2,21 @@
     "specs" : [
         {
             "varname": "zro_huffing",
-            "name": "zro huffing crisis",
-            "Name": "Zro Huffing Crisis",
-            "resouceName": "zro huffing crisis contribution",
-            "ResouceName": "Zro Huffing Crisis Contribution",
-            "Desc": "With the advent of zro distillation, many of our citizens are experimenting with recreational zro.",
+            "name": "zro huffing",
+            "Name": "Zro Huffing",
+            "eventPicture": "zro_2",
             "maxValue": 99,
             "baseValue": 0,
-            "changePerMonth": 1,
+            "changePerMonth": 2,
             "triggeredByTechnology": "tech_mine_zro",
-            "brewingCrisisName": "Zro Distillation Contributes to Zro Huffing Crisis",
-            "brewingCrisisDesc": "With the advent of zro distillation, many of our citizens are experimenting with recreational zro.",
             "supportingFaction": "traditionalist",
-            "opposingFaction": "totalitarians"
+            "opposingFaction": "totalitarians",
+            "brewingCrisisName": "Zro Distillation Contributes to Zro Huffing",
+            "brewingCrisisDesc": "With the advent of §YZro Distillation§!, many within the §H[Root.GetName]§! have begun experimenting with recreational §YZro§!. The inhalation of §YZro§! aerosol induces vivid hallucinations, and in others it is known to unlock psychic abilities. Many are scrambling to find out if they are among the psyionic elite. §HTraditionalists§! encourage it's use, while those inclined towards §Hauthoritarianism§! are calling for us to clamp down on usage. If it's usage becomes widespread, many will come to identify with this new §Hspiritual§! reality.",
+            "crisisName": "Zro Huffing Crisis!",
+            "crisisDesc": "The §YZro Huffing Crisis§! is reaching a boiling point. A §YZro§! underground has grown in prominence, and many within the §H[Root.GetName]§! have become addicted. This will greatly reduce our ability to acquire and hold stores of §YZro§!. What's more, citizens addicted to the substance are forming secretive cults centered around §YZro§! use. We've already apprehended a few cultists, but the greater part of our work remains undone.",
+            "crisisResolutionName": "Zro Huffing Under Control",
+            "crisisResolutionDesc": "In a flurry of sting operations, a number of prominent underground §YZro§! dealers have been arrested. Informational campaigns led by §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! run around the clock educating our people about the proper applications of §YZro§! and our stance on the matter. We can truly say that §YZro Huffing Crisis§! as a national phenomena is at an end."
         }
     ]
 }

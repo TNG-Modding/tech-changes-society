@@ -1,11 +1,11 @@
 ﻿# {{supportingFaction}}
 produces = {
-  trigger = { owner = { has_technology = "{{triggeredByTechnology}}" } }
+  trigger = { owner = { has_technology = "{{triggeredByTechnology}}_causes_{{varname}}_static_modifier" } }
   {{varname}}_desired_value_change = 50
 }
  
 # {{opposingFaction}}
 produces = {
-  trigger = { owner = { has_technology = "{{triggeredByTechnology}}" } }
+  trigger = { owner = { has_modifier = "{{triggeredByTechnology}}_causes_{{varname}}_static_modifier" } }
   {{varname}}_desired_value_change = -50
 }

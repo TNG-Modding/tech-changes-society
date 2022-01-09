@@ -109,10 +109,19 @@
             "isBom": false
         },
         {
-            "name": "Crisis Localizations",
+            "name": "Crisis Event Localizations",
             "specFilePath": "./specs/crises.json",
-            "templateDirectoryPath": "./templates/crises/crisis_localization",
-            "outputDirectoryPath": "../localisation/english",
+            "templateDirectoryPath": "./templates/crises/crisis_event_localization",
+            "outputDirectoryPath": "../localisation/english/events",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": true
+        },
+        {
+            "name": "Crisis Static Modifiers Localizations",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_static_modifiers_localization",
+            "outputDirectoryPath": "../localisation/english/modifiers",
             "disabled": false,
             "dumpContents": true,
             "isBom": true

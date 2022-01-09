@@ -1,0 +1,4 @@
+l_english:
+
+ {{triggeredByTechnology}}_causes_{{varname}}_static_modifier:0 "{{brewingCrisisName}}"
+ {{varname}}_static_modifier:0 "{{Name}} Crisis"
