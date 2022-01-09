@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_resource_zro_huffing"
+		texturefile = "gfx/interface/icons/resources/zro_huffing_desired_value_change.dds"
+	}
+}

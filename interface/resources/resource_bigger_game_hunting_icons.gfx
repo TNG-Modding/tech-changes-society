@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_resource_bigger_game_hunting"
+		texturefile = "gfx/interface/icons/resources/bigger_game_hunting_desired_value_change.dds"
+	}
+}
