@@ -1,6 +1,6 @@
 l_english:
 
- {{triggeredByTechnology}}_triggers_{{varname}}_events.1.title:0 "${{triggeredByTechnology}}$ Contributes to {{Name}}"
+ {{triggeredByTechnology}}_triggers_{{varname}}_events.1.title:0 "{{Name}}"
  {{triggeredByTechnology}}_triggers_{{varname}}_events.1.desc:0 "{{brewingCrisisDesc}}"
 
  {{triggeredByTechnology}}_triggers_{{varname}}_events.2.title:0 "{{Name}} Crisis!"
