@@ -7,5 +7,6 @@ country_event = {
 
 	immediate = {
 		country_event = { id =  zro_huffing_desired_resource_events.1 }
+		country_event = { id =  bigger_game_hunting_desired_resource_events.1 }
 	}
 }
