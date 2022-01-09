@@ -1,3 +1,4 @@
 ### Todo
 
-* Trending up isn't working
+* Add graphics
+* Add remaining crises
