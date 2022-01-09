@@ -1,7 +1,8 @@
 tech_mine_zro_causes_zro_huffing_static_modifier = {
-	country_base_zro_huffing_desired_value_change_produces_add = 50
+	country_base_zro_huffing_desired_value_change_produces_add = 75
 }
 
 zro_huffing_static_modifier = {
-	all_technology_research_speed = -0.1
+	country_zro_produces_mult = -0.05
+	job_criminal_per_pop = 0.05
 }

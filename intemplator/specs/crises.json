@@ -7,7 +7,7 @@
             "eventPicture": "zro_2",
             "maxValue": 99,
             "baseValue": 0,
-            "changePerMonth": 2,
+            "changePerMonth": 1,
             "triggeredByTechnology": "tech_mine_zro",
             "supportingFaction": "traditionalist",
             "opposingFaction": "totalitarians",

@@ -7,9 +7,7 @@ tb_others_group = {
 		sr_zro
 		sr_dark_matter
 		nanites
-		zro_huffing_desired_value_change,
 		zro_huffing_current_value,
-		zro_huffing_desired_value,
 	}
 	localization = {
 		"RESOURCE_GROUP_DEFAULT" = default

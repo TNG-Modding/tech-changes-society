@@ -19,8 +19,13 @@ country_event = {
 		NOT = { has_modifier = {{triggeredByTechnology}}_causes_{{varname}}_static_modifier }
 	}
 
+	immediate = {
+		add_resource = { {{varname}}_current_value = 25 }
+	}
+
 	option = {
 		name = OK
+		
 		add_modifier = {
 			modifier = {{triggeredByTechnology}}_causes_{{varname}}_static_modifier
 			years = 10
