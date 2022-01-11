@@ -1,0 +1,22 @@
+﻿l_english:
+
+ civilian_mega_shipping_desired_value_change:0 "Civilian Mega Shipping Resting Point Change"
+ civilian_mega_shipping_desired_value_change_desc:0 "The amount we raise the resting point of our civilian mega shipping, ."
+ mod_country_base_civilian_mega_shipping_desired_value_change_produces_add:0 "Civilian Mega Shipping Resting Point Change"
+ mod_country_civilian_mega_shipping_desired_value_change_produces_add:0 "Civilian Mega Shipping Resting Point Change"
+
+ civilian_mega_shipping_current_value:0 "Civilian Mega Shipping"
+ civilian_mega_shipping_current_value_desc:0 "."
+ mod_country_base_civilian_mega_shipping_current_value_produces_add:0 "Monthly Civilian Mega Shipping Production"
+ mod_country_civilian_mega_shipping_current_value_produces_add:0 "Monthly Civilian Mega Shipping Production"
+
+ civilian_mega_shipping_current_value_trending_up:0 "Civilian Mega Shipping Trending Up"
+ civilian_mega_shipping_current_value_trending_down:0 "Civilian Mega Shipping Trending Down"
+
+ civilian_mega_shipping_desired_value:0 "Civilian Mega Shipping Resting Point"
+ civilian_mega_shipping_desired_value_desc:0 "The civilian mega shipping value we trend towards over time. It has a base value of 0."
+ mod_country_base_civilian_mega_shipping_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_civilian_mega_shipping_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_civilian_mega_shipping_values_updated:0 "Civilian Mega Shipping Values Updated"
+ civilian_mega_shipping_values_updated_message:0 "civilian_mega_shipping Current [Root.current_civilian_mega_shipping_current_value]\nDesired [Root.civilian_mega_shipping_new_desired_value]\nChange [Root.current_civilian_mega_shipping_desired_value_change]\nDelta [Root.delta_between_current_desired_civilian_mega_shipping]"

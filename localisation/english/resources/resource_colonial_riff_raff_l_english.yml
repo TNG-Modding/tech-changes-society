@@ -1,0 +1,22 @@
+﻿l_english:
+
+ colonial_riff_raff_desired_value_change:0 "Colonial Riff Raff Resting Point Change"
+ colonial_riff_raff_desired_value_change_desc:0 "The amount we raise the resting point of our colonial riff raff, ."
+ mod_country_base_colonial_riff_raff_desired_value_change_produces_add:0 "Colonial Riff Raff Resting Point Change"
+ mod_country_colonial_riff_raff_desired_value_change_produces_add:0 "Colonial Riff Raff Resting Point Change"
+
+ colonial_riff_raff_current_value:0 "Colonial Riff Raff"
+ colonial_riff_raff_current_value_desc:0 "."
+ mod_country_base_colonial_riff_raff_current_value_produces_add:0 "Monthly Colonial Riff Raff Production"
+ mod_country_colonial_riff_raff_current_value_produces_add:0 "Monthly Colonial Riff Raff Production"
+
+ colonial_riff_raff_current_value_trending_up:0 "Colonial Riff Raff Trending Up"
+ colonial_riff_raff_current_value_trending_down:0 "Colonial Riff Raff Trending Down"
+
+ colonial_riff_raff_desired_value:0 "Colonial Riff Raff Resting Point"
+ colonial_riff_raff_desired_value_desc:0 "The colonial riff raff value we trend towards over time. It has a base value of 0."
+ mod_country_base_colonial_riff_raff_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_colonial_riff_raff_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_colonial_riff_raff_values_updated:0 "Colonial Riff Raff Values Updated"
+ colonial_riff_raff_values_updated_message:0 "colonial_riff_raff Current [Root.current_colonial_riff_raff_current_value]\nDesired [Root.colonial_riff_raff_new_desired_value]\nChange [Root.current_colonial_riff_raff_desired_value_change]\nDelta [Root.delta_between_current_desired_colonial_riff_raff]"

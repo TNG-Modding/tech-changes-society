@@ -1,0 +1,7 @@
+tech_psi_jump_drive_causes_psi_jump_to_nowhere_static_modifier = {
+	country_base_psi_jump_to_nowhere_desired_value_change_produces_add = 75
+}
+
+psi_jump_to_nowhere_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

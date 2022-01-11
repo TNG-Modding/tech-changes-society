@@ -1,0 +1,11 @@
+﻿# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_morphogenetic_field_mastery_causes_mutant_horde_static_modifier" } }
+  mutant_horde_desired_value_change = 50
+}
+ 
+# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_morphogenetic_field_mastery_causes_mutant_horde_static_modifier" } }
+  mutant_horde_desired_value_change = -50
+}

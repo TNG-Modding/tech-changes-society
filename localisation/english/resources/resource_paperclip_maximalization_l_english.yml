@@ -1,0 +1,22 @@
+﻿l_english:
+
+ paperclip_maximalization_desired_value_change:0 "Paperclip Maximalization Resting Point Change"
+ paperclip_maximalization_desired_value_change_desc:0 "The amount we raise the resting point of our paperclip maximalization, ."
+ mod_country_base_paperclip_maximalization_desired_value_change_produces_add:0 "Paperclip Maximalization Resting Point Change"
+ mod_country_paperclip_maximalization_desired_value_change_produces_add:0 "Paperclip Maximalization Resting Point Change"
+
+ paperclip_maximalization_current_value:0 "Paperclip Maximalization"
+ paperclip_maximalization_current_value_desc:0 "."
+ mod_country_base_paperclip_maximalization_current_value_produces_add:0 "Monthly Paperclip Maximalization Production"
+ mod_country_paperclip_maximalization_current_value_produces_add:0 "Monthly Paperclip Maximalization Production"
+
+ paperclip_maximalization_current_value_trending_up:0 "Paperclip Maximalization Trending Up"
+ paperclip_maximalization_current_value_trending_down:0 "Paperclip Maximalization Trending Down"
+
+ paperclip_maximalization_desired_value:0 "Paperclip Maximalization Resting Point"
+ paperclip_maximalization_desired_value_desc:0 "The paperclip maximalization value we trend towards over time. It has a base value of 0."
+ mod_country_base_paperclip_maximalization_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_paperclip_maximalization_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_paperclip_maximalization_values_updated:0 "Paperclip Maximalization Values Updated"
+ paperclip_maximalization_values_updated_message:0 "paperclip_maximalization Current [Root.current_paperclip_maximalization_current_value]\nDesired [Root.paperclip_maximalization_new_desired_value]\nChange [Root.current_paperclip_maximalization_desired_value_change]\nDelta [Root.delta_between_current_desired_paperclip_maximalization]"

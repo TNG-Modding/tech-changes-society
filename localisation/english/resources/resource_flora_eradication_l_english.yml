@@ -1,0 +1,22 @@
+﻿l_english:
+
+ flora_eradication_desired_value_change:0 "Flora Eradication Resting Point Change"
+ flora_eradication_desired_value_change_desc:0 "The amount we raise the resting point of our flora eradication, ."
+ mod_country_base_flora_eradication_desired_value_change_produces_add:0 "Flora Eradication Resting Point Change"
+ mod_country_flora_eradication_desired_value_change_produces_add:0 "Flora Eradication Resting Point Change"
+
+ flora_eradication_current_value:0 "Flora Eradication"
+ flora_eradication_current_value_desc:0 "."
+ mod_country_base_flora_eradication_current_value_produces_add:0 "Monthly Flora Eradication Production"
+ mod_country_flora_eradication_current_value_produces_add:0 "Monthly Flora Eradication Production"
+
+ flora_eradication_current_value_trending_up:0 "Flora Eradication Trending Up"
+ flora_eradication_current_value_trending_down:0 "Flora Eradication Trending Down"
+
+ flora_eradication_desired_value:0 "Flora Eradication Resting Point"
+ flora_eradication_desired_value_desc:0 "The flora eradication value we trend towards over time. It has a base value of 0."
+ mod_country_base_flora_eradication_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_flora_eradication_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_flora_eradication_values_updated:0 "Flora Eradication Values Updated"
+ flora_eradication_values_updated_message:0 "flora_eradication Current [Root.current_flora_eradication_current_value]\nDesired [Root.flora_eradication_new_desired_value]\nChange [Root.current_flora_eradication_desired_value_change]\nDelta [Root.delta_between_current_desired_flora_eradication]"

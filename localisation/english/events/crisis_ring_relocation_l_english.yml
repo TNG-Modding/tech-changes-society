@@ -1,0 +1,10 @@
+﻿l_english:
+
+ tech_ring_world_triggers_ring_relocation_events.1.title:0 "Ring Relocation"
+ tech_ring_world_triggers_ring_relocation_events.1.desc:0 "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!."
+
+ tech_ring_world_triggers_ring_relocation_events.2.title:0 "Ring Relocation Crisis!"
+ tech_ring_world_triggers_ring_relocation_events.2.desc:0 "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit."
+
+ tech_ring_world_triggers_ring_relocation_events.3.title:0 "Ring Relocation Crisis Under Control"
+ tech_ring_world_triggers_ring_relocation_events.3.desc:0 "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end."

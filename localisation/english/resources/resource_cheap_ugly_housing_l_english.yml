@@ -1,0 +1,22 @@
+﻿l_english:
+
+ cheap_ugly_housing_desired_value_change:0 "Cheap Ugly Housing Resting Point Change"
+ cheap_ugly_housing_desired_value_change_desc:0 "The amount we raise the resting point of our cheap ugly housing, ."
+ mod_country_base_cheap_ugly_housing_desired_value_change_produces_add:0 "Cheap Ugly Housing Resting Point Change"
+ mod_country_cheap_ugly_housing_desired_value_change_produces_add:0 "Cheap Ugly Housing Resting Point Change"
+
+ cheap_ugly_housing_current_value:0 "Cheap Ugly Housing"
+ cheap_ugly_housing_current_value_desc:0 "."
+ mod_country_base_cheap_ugly_housing_current_value_produces_add:0 "Monthly Cheap Ugly Housing Production"
+ mod_country_cheap_ugly_housing_current_value_produces_add:0 "Monthly Cheap Ugly Housing Production"
+
+ cheap_ugly_housing_current_value_trending_up:0 "Cheap Ugly Housing Trending Up"
+ cheap_ugly_housing_current_value_trending_down:0 "Cheap Ugly Housing Trending Down"
+
+ cheap_ugly_housing_desired_value:0 "Cheap Ugly Housing Resting Point"
+ cheap_ugly_housing_desired_value_desc:0 "The cheap ugly housing value we trend towards over time. It has a base value of 0."
+ mod_country_base_cheap_ugly_housing_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_cheap_ugly_housing_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_cheap_ugly_housing_values_updated:0 "Cheap Ugly Housing Values Updated"
+ cheap_ugly_housing_values_updated_message:0 "cheap_ugly_housing Current [Root.current_cheap_ugly_housing_current_value]\nDesired [Root.cheap_ugly_housing_new_desired_value]\nChange [Root.current_cheap_ugly_housing_desired_value_change]\nDelta [Root.delta_between_current_desired_cheap_ugly_housing]"

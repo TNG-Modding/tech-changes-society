@@ -1,0 +1,11 @@
+﻿# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_thrall_worlds_causes_thrall_debt_slavery_static_modifier" } }
+  thrall_debt_slavery_desired_value_change = 50
+}
+ 
+# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_thrall_worlds_causes_thrall_debt_slavery_static_modifier" } }
+  thrall_debt_slavery_desired_value_change = -50
+}

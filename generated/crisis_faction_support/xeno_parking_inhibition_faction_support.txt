@@ -1,0 +1,11 @@
+﻿# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_ftl_inhibition_causes_xeno_parking_inhibition_static_modifier" } }
+  xeno_parking_inhibition_desired_value_change = 50
+}
+ 
+# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_ftl_inhibition_causes_xeno_parking_inhibition_static_modifier" } }
+  xeno_parking_inhibition_desired_value_change = -50
+}

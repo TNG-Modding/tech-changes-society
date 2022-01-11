@@ -1,0 +1,22 @@
+﻿l_english:
+
+ waiting_game_desired_value_change:0 "Waiting Game Resting Point Change"
+ waiting_game_desired_value_change_desc:0 "The amount we raise the resting point of our waiting game, ."
+ mod_country_base_waiting_game_desired_value_change_produces_add:0 "Waiting Game Resting Point Change"
+ mod_country_waiting_game_desired_value_change_produces_add:0 "Waiting Game Resting Point Change"
+
+ waiting_game_current_value:0 "Waiting Game"
+ waiting_game_current_value_desc:0 "."
+ mod_country_base_waiting_game_current_value_produces_add:0 "Monthly Waiting Game Production"
+ mod_country_waiting_game_current_value_produces_add:0 "Monthly Waiting Game Production"
+
+ waiting_game_current_value_trending_up:0 "Waiting Game Trending Up"
+ waiting_game_current_value_trending_down:0 "Waiting Game Trending Down"
+
+ waiting_game_desired_value:0 "Waiting Game Resting Point"
+ waiting_game_desired_value_desc:0 "The waiting game value we trend towards over time. It has a base value of 0."
+ mod_country_base_waiting_game_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_waiting_game_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_waiting_game_values_updated:0 "Waiting Game Values Updated"
+ waiting_game_values_updated_message:0 "waiting_game Current [Root.current_waiting_game_current_value]\nDesired [Root.waiting_game_new_desired_value]\nChange [Root.current_waiting_game_desired_value_change]\nDelta [Root.delta_between_current_desired_waiting_game]"

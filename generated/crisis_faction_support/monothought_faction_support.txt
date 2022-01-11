@@ -1,0 +1,11 @@
+﻿# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_thought_enforcement_causes_monothought_static_modifier" } }
+  monothought_desired_value_change = 50
+}
+ 
+# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_thought_enforcement_causes_monothought_static_modifier" } }
+  monothought_desired_value_change = -50
+}

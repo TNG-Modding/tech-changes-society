@@ -1,0 +1,22 @@
+﻿l_english:
+
+ entrenched_academia_desired_value_change:0 "Entrenched Academia Resting Point Change"
+ entrenched_academia_desired_value_change_desc:0 "The amount we raise the resting point of our entrenched academia, ."
+ mod_country_base_entrenched_academia_desired_value_change_produces_add:0 "Entrenched Academia Resting Point Change"
+ mod_country_entrenched_academia_desired_value_change_produces_add:0 "Entrenched Academia Resting Point Change"
+
+ entrenched_academia_current_value:0 "Entrenched Academia"
+ entrenched_academia_current_value_desc:0 "."
+ mod_country_base_entrenched_academia_current_value_produces_add:0 "Monthly Entrenched Academia Production"
+ mod_country_entrenched_academia_current_value_produces_add:0 "Monthly Entrenched Academia Production"
+
+ entrenched_academia_current_value_trending_up:0 "Entrenched Academia Trending Up"
+ entrenched_academia_current_value_trending_down:0 "Entrenched Academia Trending Down"
+
+ entrenched_academia_desired_value:0 "Entrenched Academia Resting Point"
+ entrenched_academia_desired_value_desc:0 "The entrenched academia value we trend towards over time. It has a base value of 0."
+ mod_country_base_entrenched_academia_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_entrenched_academia_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_entrenched_academia_values_updated:0 "Entrenched Academia Values Updated"
+ entrenched_academia_values_updated_message:0 "entrenched_academia Current [Root.current_entrenched_academia_current_value]\nDesired [Root.entrenched_academia_new_desired_value]\nChange [Root.current_entrenched_academia_desired_value_change]\nDelta [Root.delta_between_current_desired_entrenched_academia]"

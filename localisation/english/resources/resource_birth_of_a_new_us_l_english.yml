@@ -1,0 +1,22 @@
+﻿l_english:
+
+ birth_of_a_new_us_desired_value_change:0 "Birth of a New Us Resting Point Change"
+ birth_of_a_new_us_desired_value_change_desc:0 "The amount we raise the resting point of our birth of a new us, ."
+ mod_country_base_birth_of_a_new_us_desired_value_change_produces_add:0 "Birth of a New Us Resting Point Change"
+ mod_country_birth_of_a_new_us_desired_value_change_produces_add:0 "Birth of a New Us Resting Point Change"
+
+ birth_of_a_new_us_current_value:0 "Birth of a New Us"
+ birth_of_a_new_us_current_value_desc:0 "."
+ mod_country_base_birth_of_a_new_us_current_value_produces_add:0 "Monthly Birth of a New Us Production"
+ mod_country_birth_of_a_new_us_current_value_produces_add:0 "Monthly Birth of a New Us Production"
+
+ birth_of_a_new_us_current_value_trending_up:0 "Birth of a New Us Trending Up"
+ birth_of_a_new_us_current_value_trending_down:0 "Birth of a New Us Trending Down"
+
+ birth_of_a_new_us_desired_value:0 "Birth of a New Us Resting Point"
+ birth_of_a_new_us_desired_value_desc:0 "The birth of a new us value we trend towards over time. It has a base value of 0."
+ mod_country_base_birth_of_a_new_us_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_birth_of_a_new_us_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_birth_of_a_new_us_values_updated:0 "Birth of a New Us Values Updated"
+ birth_of_a_new_us_values_updated_message:0 "birth_of_a_new_us Current [Root.current_birth_of_a_new_us_current_value]\nDesired [Root.birth_of_a_new_us_new_desired_value]\nChange [Root.current_birth_of_a_new_us_desired_value_change]\nDelta [Root.delta_between_current_desired_birth_of_a_new_us]"

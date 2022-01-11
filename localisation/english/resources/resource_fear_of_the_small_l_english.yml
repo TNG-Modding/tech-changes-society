@@ -1,0 +1,22 @@
+﻿l_english:
+
+ fear_of_the_small_desired_value_change:0 "Fear of the Small Resting Point Change"
+ fear_of_the_small_desired_value_change_desc:0 "The amount we raise the resting point of our fear of the small, ."
+ mod_country_base_fear_of_the_small_desired_value_change_produces_add:0 "Fear of the Small Resting Point Change"
+ mod_country_fear_of_the_small_desired_value_change_produces_add:0 "Fear of the Small Resting Point Change"
+
+ fear_of_the_small_current_value:0 "Fear of the Small"
+ fear_of_the_small_current_value_desc:0 "."
+ mod_country_base_fear_of_the_small_current_value_produces_add:0 "Monthly Fear of the Small Production"
+ mod_country_fear_of_the_small_current_value_produces_add:0 "Monthly Fear of the Small Production"
+
+ fear_of_the_small_current_value_trending_up:0 "Fear of the Small Trending Up"
+ fear_of_the_small_current_value_trending_down:0 "Fear of the Small Trending Down"
+
+ fear_of_the_small_desired_value:0 "Fear of the Small Resting Point"
+ fear_of_the_small_desired_value_desc:0 "The fear of the small value we trend towards over time. It has a base value of 0."
+ mod_country_base_fear_of_the_small_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_fear_of_the_small_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_fear_of_the_small_values_updated:0 "Fear of the Small Values Updated"
+ fear_of_the_small_values_updated_message:0 "fear_of_the_small Current [Root.current_fear_of_the_small_current_value]\nDesired [Root.fear_of_the_small_new_desired_value]\nChange [Root.current_fear_of_the_small_desired_value_change]\nDelta [Root.delta_between_current_desired_fear_of_the_small]"

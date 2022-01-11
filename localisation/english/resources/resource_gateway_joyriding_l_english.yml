@@ -1,0 +1,22 @@
+﻿l_english:
+
+ gateway_joyriding_desired_value_change:0 "Gateway Joyriding Resting Point Change"
+ gateway_joyriding_desired_value_change_desc:0 "The amount we raise the resting point of our gateway joyriding, ."
+ mod_country_base_gateway_joyriding_desired_value_change_produces_add:0 "Gateway Joyriding Resting Point Change"
+ mod_country_gateway_joyriding_desired_value_change_produces_add:0 "Gateway Joyriding Resting Point Change"
+
+ gateway_joyriding_current_value:0 "Gateway Joyriding"
+ gateway_joyriding_current_value_desc:0 "."
+ mod_country_base_gateway_joyriding_current_value_produces_add:0 "Monthly Gateway Joyriding Production"
+ mod_country_gateway_joyriding_current_value_produces_add:0 "Monthly Gateway Joyriding Production"
+
+ gateway_joyriding_current_value_trending_up:0 "Gateway Joyriding Trending Up"
+ gateway_joyriding_current_value_trending_down:0 "Gateway Joyriding Trending Down"
+
+ gateway_joyriding_desired_value:0 "Gateway Joyriding Resting Point"
+ gateway_joyriding_desired_value_desc:0 "The gateway joyriding value we trend towards over time. It has a base value of 0."
+ mod_country_base_gateway_joyriding_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_gateway_joyriding_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_gateway_joyriding_values_updated:0 "Gateway Joyriding Values Updated"
+ gateway_joyriding_values_updated_message:0 "gateway_joyriding Current [Root.current_gateway_joyriding_current_value]\nDesired [Root.gateway_joyriding_new_desired_value]\nChange [Root.current_gateway_joyriding_desired_value_change]\nDelta [Root.delta_between_current_desired_gateway_joyriding]"

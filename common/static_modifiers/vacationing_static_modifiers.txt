@@ -1,0 +1,7 @@
+tech_resort_worlds_causes_vacationing_static_modifier = {
+	country_base_vacationing_desired_value_change_produces_add = 75
+}
+
+vacationing_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

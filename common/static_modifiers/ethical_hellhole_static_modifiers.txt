@@ -1,0 +1,7 @@
+tech_artificial_moral_codes_causes_ethical_hellhole_static_modifier = {
+	country_base_ethical_hellhole_desired_value_change_produces_add = 75
+}
+
+ethical_hellhole_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

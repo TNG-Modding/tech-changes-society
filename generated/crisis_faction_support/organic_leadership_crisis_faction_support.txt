@@ -1,0 +1,11 @@
+﻿# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_synthetic_personality_matrix_causes_organic_leadership_crisis_static_modifier" } }
+  organic_leadership_crisis_desired_value_change = 50
+}
+ 
+# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_synthetic_personality_matrix_causes_organic_leadership_crisis_static_modifier" } }
+  organic_leadership_crisis_desired_value_change = -50
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ gaudy_art_desired_value_change:0 "Gaudy Art Resting Point Change"
+ gaudy_art_desired_value_change_desc:0 "The amount we raise the resting point of our gaudy art, ."
+ mod_country_base_gaudy_art_desired_value_change_produces_add:0 "Gaudy Art Resting Point Change"
+ mod_country_gaudy_art_desired_value_change_produces_add:0 "Gaudy Art Resting Point Change"
+
+ gaudy_art_current_value:0 "Gaudy Art"
+ gaudy_art_current_value_desc:0 "."
+ mod_country_base_gaudy_art_current_value_produces_add:0 "Monthly Gaudy Art Production"
+ mod_country_gaudy_art_current_value_produces_add:0 "Monthly Gaudy Art Production"
+
+ gaudy_art_current_value_trending_up:0 "Gaudy Art Trending Up"
+ gaudy_art_current_value_trending_down:0 "Gaudy Art Trending Down"
+
+ gaudy_art_desired_value:0 "Gaudy Art Resting Point"
+ gaudy_art_desired_value_desc:0 "The gaudy art value we trend towards over time. It has a base value of 0."
+ mod_country_base_gaudy_art_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_gaudy_art_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_gaudy_art_values_updated:0 "Gaudy Art Values Updated"
+ gaudy_art_values_updated_message:0 "gaudy_art Current [Root.current_gaudy_art_current_value]\nDesired [Root.gaudy_art_new_desired_value]\nChange [Root.current_gaudy_art_desired_value_change]\nDelta [Root.delta_between_current_desired_gaudy_art]"

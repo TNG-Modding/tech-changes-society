@@ -1,0 +1,22 @@
+﻿l_english:
+
+ foreign_corvee_desired_value_change:0 "Foreign Corvee Resting Point Change"
+ foreign_corvee_desired_value_change_desc:0 "The amount we raise the resting point of our foreign corvee, ."
+ mod_country_base_foreign_corvee_desired_value_change_produces_add:0 "Foreign Corvee Resting Point Change"
+ mod_country_foreign_corvee_desired_value_change_produces_add:0 "Foreign Corvee Resting Point Change"
+
+ foreign_corvee_current_value:0 "Foreign Corvee"
+ foreign_corvee_current_value_desc:0 "."
+ mod_country_base_foreign_corvee_current_value_produces_add:0 "Monthly Foreign Corvee Production"
+ mod_country_foreign_corvee_current_value_produces_add:0 "Monthly Foreign Corvee Production"
+
+ foreign_corvee_current_value_trending_up:0 "Foreign Corvee Trending Up"
+ foreign_corvee_current_value_trending_down:0 "Foreign Corvee Trending Down"
+
+ foreign_corvee_desired_value:0 "Foreign Corvee Resting Point"
+ foreign_corvee_desired_value_desc:0 "The foreign corvee value we trend towards over time. It has a base value of 0."
+ mod_country_base_foreign_corvee_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_foreign_corvee_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_foreign_corvee_values_updated:0 "Foreign Corvee Values Updated"
+ foreign_corvee_values_updated_message:0 "foreign_corvee Current [Root.current_foreign_corvee_current_value]\nDesired [Root.foreign_corvee_new_desired_value]\nChange [Root.current_foreign_corvee_desired_value_change]\nDelta [Root.delta_between_current_desired_foreign_corvee]"

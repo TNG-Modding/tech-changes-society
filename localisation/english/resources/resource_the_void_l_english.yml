@@ -1,0 +1,22 @@
+﻿l_english:
+
+ the_void_desired_value_change:0 "The Void Resting Point Change"
+ the_void_desired_value_change_desc:0 "The amount we raise the resting point of our the void, ."
+ mod_country_base_the_void_desired_value_change_produces_add:0 "The Void Resting Point Change"
+ mod_country_the_void_desired_value_change_produces_add:0 "The Void Resting Point Change"
+
+ the_void_current_value:0 "The Void"
+ the_void_current_value_desc:0 "."
+ mod_country_base_the_void_current_value_produces_add:0 "Monthly The Void Production"
+ mod_country_the_void_current_value_produces_add:0 "Monthly The Void Production"
+
+ the_void_current_value_trending_up:0 "The Void Trending Up"
+ the_void_current_value_trending_down:0 "The Void Trending Down"
+
+ the_void_desired_value:0 "The Void Resting Point"
+ the_void_desired_value_desc:0 "The the void value we trend towards over time. It has a base value of 0."
+ mod_country_base_the_void_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_the_void_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_the_void_values_updated:0 "The Void Values Updated"
+ the_void_values_updated_message:0 "the_void Current [Root.current_the_void_current_value]\nDesired [Root.the_void_new_desired_value]\nChange [Root.current_the_void_desired_value_change]\nDelta [Root.delta_between_current_desired_the_void]"

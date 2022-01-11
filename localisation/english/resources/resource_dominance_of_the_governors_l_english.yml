@@ -1,0 +1,22 @@
+﻿l_english:
+
+ dominance_of_the_governors_desired_value_change:0 "Dominance of the Governors Resting Point Change"
+ dominance_of_the_governors_desired_value_change_desc:0 "The amount we raise the resting point of our dominance of the governors, ."
+ mod_country_base_dominance_of_the_governors_desired_value_change_produces_add:0 "Dominance of the Governors Resting Point Change"
+ mod_country_dominance_of_the_governors_desired_value_change_produces_add:0 "Dominance of the Governors Resting Point Change"
+
+ dominance_of_the_governors_current_value:0 "Dominance of the Governors"
+ dominance_of_the_governors_current_value_desc:0 "."
+ mod_country_base_dominance_of_the_governors_current_value_produces_add:0 "Monthly Dominance of the Governors Production"
+ mod_country_dominance_of_the_governors_current_value_produces_add:0 "Monthly Dominance of the Governors Production"
+
+ dominance_of_the_governors_current_value_trending_up:0 "Dominance of the Governors Trending Up"
+ dominance_of_the_governors_current_value_trending_down:0 "Dominance of the Governors Trending Down"
+
+ dominance_of_the_governors_desired_value:0 "Dominance of the Governors Resting Point"
+ dominance_of_the_governors_desired_value_desc:0 "The dominance of the governors value we trend towards over time. It has a base value of 0."
+ mod_country_base_dominance_of_the_governors_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_dominance_of_the_governors_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_dominance_of_the_governors_values_updated:0 "Dominance of the Governors Values Updated"
+ dominance_of_the_governors_values_updated_message:0 "dominance_of_the_governors Current [Root.current_dominance_of_the_governors_current_value]\nDesired [Root.dominance_of_the_governors_new_desired_value]\nChange [Root.current_dominance_of_the_governors_desired_value_change]\nDelta [Root.delta_between_current_desired_dominance_of_the_governors]"

@@ -1,0 +1,7 @@
+entrenched_academia_current_value_trending_up = {
+	country_base_entrenched_academia_current_value_produces_add = 1
+}
+
+entrenched_academia_current_value_trending_down = {
+	country_base_entrenched_academia_current_value_produces_add = -1
+}

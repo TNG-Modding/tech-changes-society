@@ -1,0 +1,22 @@
+﻿l_english:
+
+ tomb_shift_suicides_desired_value_change:0 "Tomb Shift Suicides Resting Point Change"
+ tomb_shift_suicides_desired_value_change_desc:0 "The amount we raise the resting point of our tomb shift suicides, ."
+ mod_country_base_tomb_shift_suicides_desired_value_change_produces_add:0 "Tomb Shift Suicides Resting Point Change"
+ mod_country_tomb_shift_suicides_desired_value_change_produces_add:0 "Tomb Shift Suicides Resting Point Change"
+
+ tomb_shift_suicides_current_value:0 "Tomb Shift Suicides"
+ tomb_shift_suicides_current_value_desc:0 "."
+ mod_country_base_tomb_shift_suicides_current_value_produces_add:0 "Monthly Tomb Shift Suicides Production"
+ mod_country_tomb_shift_suicides_current_value_produces_add:0 "Monthly Tomb Shift Suicides Production"
+
+ tomb_shift_suicides_current_value_trending_up:0 "Tomb Shift Suicides Trending Up"
+ tomb_shift_suicides_current_value_trending_down:0 "Tomb Shift Suicides Trending Down"
+
+ tomb_shift_suicides_desired_value:0 "Tomb Shift Suicides Resting Point"
+ tomb_shift_suicides_desired_value_desc:0 "The tomb shift suicides value we trend towards over time. It has a base value of 0."
+ mod_country_base_tomb_shift_suicides_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_tomb_shift_suicides_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_tomb_shift_suicides_values_updated:0 "Tomb Shift Suicides Values Updated"
+ tomb_shift_suicides_values_updated_message:0 "tomb_shift_suicides Current [Root.current_tomb_shift_suicides_current_value]\nDesired [Root.tomb_shift_suicides_new_desired_value]\nChange [Root.current_tomb_shift_suicides_desired_value_change]\nDelta [Root.delta_between_current_desired_tomb_shift_suicides]"

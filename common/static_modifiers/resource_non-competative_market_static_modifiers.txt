@@ -1,0 +1,7 @@
+non-competative_market_current_value_trending_up = {
+	country_base_non-competative_market_current_value_produces_add = 1
+}
+
+non-competative_market_current_value_trending_down = {
+	country_base_non-competative_market_current_value_produces_add = -1
+}

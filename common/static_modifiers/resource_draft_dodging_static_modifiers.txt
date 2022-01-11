@@ -1,0 +1,7 @@
+draft_dodging_current_value_trending_up = {
+	country_base_draft_dodging_current_value_produces_add = 1
+}
+
+draft_dodging_current_value_trending_down = {
+	country_base_draft_dodging_current_value_produces_add = -1
+}

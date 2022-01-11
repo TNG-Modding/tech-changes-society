@@ -1,0 +1,23 @@
+bureau_of_bureaus_desired_value_change = {
+	max = 1000000
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+bureau_of_bureaus_current_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+bureau_of_bureaus_desired_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}

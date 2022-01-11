@@ -1,0 +1,7 @@
+tech_speculative_hyperlane_breaching_causes_speculative_border_planning_static_modifier = {
+	country_base_speculative_border_planning_desired_value_change_produces_add = 75
+}
+
+speculative_border_planning_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

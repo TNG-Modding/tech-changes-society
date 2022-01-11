@@ -1,0 +1,23 @@
+wasteful_decompression_desired_value_change = {
+	max = 1000000
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+wasteful_decompression_current_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+wasteful_decompression_desired_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}

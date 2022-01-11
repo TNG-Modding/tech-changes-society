@@ -1,0 +1,22 @@
+﻿l_english:
+
+ acceptable_xeno_casualities_desired_value_change:0 "Acceptable Xeno Casualities Resting Point Change"
+ acceptable_xeno_casualities_desired_value_change_desc:0 "The amount we raise the resting point of our acceptable xeno casualities, ."
+ mod_country_base_acceptable_xeno_casualities_desired_value_change_produces_add:0 "Acceptable Xeno Casualities Resting Point Change"
+ mod_country_acceptable_xeno_casualities_desired_value_change_produces_add:0 "Acceptable Xeno Casualities Resting Point Change"
+
+ acceptable_xeno_casualities_current_value:0 "Acceptable Xeno Casualities"
+ acceptable_xeno_casualities_current_value_desc:0 "."
+ mod_country_base_acceptable_xeno_casualities_current_value_produces_add:0 "Monthly Acceptable Xeno Casualities Production"
+ mod_country_acceptable_xeno_casualities_current_value_produces_add:0 "Monthly Acceptable Xeno Casualities Production"
+
+ acceptable_xeno_casualities_current_value_trending_up:0 "Acceptable Xeno Casualities Trending Up"
+ acceptable_xeno_casualities_current_value_trending_down:0 "Acceptable Xeno Casualities Trending Down"
+
+ acceptable_xeno_casualities_desired_value:0 "Acceptable Xeno Casualities Resting Point"
+ acceptable_xeno_casualities_desired_value_desc:0 "The acceptable xeno casualities value we trend towards over time. It has a base value of 0."
+ mod_country_base_acceptable_xeno_casualities_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_acceptable_xeno_casualities_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_acceptable_xeno_casualities_values_updated:0 "Acceptable Xeno Casualities Values Updated"
+ acceptable_xeno_casualities_values_updated_message:0 "acceptable_xeno_casualities Current [Root.current_acceptable_xeno_casualities_current_value]\nDesired [Root.acceptable_xeno_casualities_new_desired_value]\nChange [Root.current_acceptable_xeno_casualities_desired_value_change]\nDelta [Root.delta_between_current_desired_acceptable_xeno_casualities]"

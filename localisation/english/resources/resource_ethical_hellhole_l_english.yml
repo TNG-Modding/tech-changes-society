@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ethical_hellhole_desired_value_change:0 "Ethical Hellhole Resting Point Change"
+ ethical_hellhole_desired_value_change_desc:0 "The amount we raise the resting point of our ethical hellhole, ."
+ mod_country_base_ethical_hellhole_desired_value_change_produces_add:0 "Ethical Hellhole Resting Point Change"
+ mod_country_ethical_hellhole_desired_value_change_produces_add:0 "Ethical Hellhole Resting Point Change"
+
+ ethical_hellhole_current_value:0 "Ethical Hellhole"
+ ethical_hellhole_current_value_desc:0 "."
+ mod_country_base_ethical_hellhole_current_value_produces_add:0 "Monthly Ethical Hellhole Production"
+ mod_country_ethical_hellhole_current_value_produces_add:0 "Monthly Ethical Hellhole Production"
+
+ ethical_hellhole_current_value_trending_up:0 "Ethical Hellhole Trending Up"
+ ethical_hellhole_current_value_trending_down:0 "Ethical Hellhole Trending Down"
+
+ ethical_hellhole_desired_value:0 "Ethical Hellhole Resting Point"
+ ethical_hellhole_desired_value_desc:0 "The ethical hellhole value we trend towards over time. It has a base value of 0."
+ mod_country_base_ethical_hellhole_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_ethical_hellhole_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_ethical_hellhole_values_updated:0 "Ethical Hellhole Values Updated"
+ ethical_hellhole_values_updated_message:0 "ethical_hellhole Current [Root.current_ethical_hellhole_current_value]\nDesired [Root.ethical_hellhole_new_desired_value]\nChange [Root.current_ethical_hellhole_desired_value_change]\nDelta [Root.delta_between_current_desired_ethical_hellhole]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ disgusting_synth_ethics_desired_value_change:0 "Disgusting Synth Ethics Resting Point Change"
+ disgusting_synth_ethics_desired_value_change_desc:0 "The amount we raise the resting point of our disgusting synth ethics, ."
+ mod_country_base_disgusting_synth_ethics_desired_value_change_produces_add:0 "Disgusting Synth Ethics Resting Point Change"
+ mod_country_disgusting_synth_ethics_desired_value_change_produces_add:0 "Disgusting Synth Ethics Resting Point Change"
+
+ disgusting_synth_ethics_current_value:0 "Disgusting Synth Ethics"
+ disgusting_synth_ethics_current_value_desc:0 "."
+ mod_country_base_disgusting_synth_ethics_current_value_produces_add:0 "Monthly Disgusting Synth Ethics Production"
+ mod_country_disgusting_synth_ethics_current_value_produces_add:0 "Monthly Disgusting Synth Ethics Production"
+
+ disgusting_synth_ethics_current_value_trending_up:0 "Disgusting Synth Ethics Trending Up"
+ disgusting_synth_ethics_current_value_trending_down:0 "Disgusting Synth Ethics Trending Down"
+
+ disgusting_synth_ethics_desired_value:0 "Disgusting Synth Ethics Resting Point"
+ disgusting_synth_ethics_desired_value_desc:0 "The disgusting synth ethics value we trend towards over time. It has a base value of 0."
+ mod_country_base_disgusting_synth_ethics_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_disgusting_synth_ethics_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_disgusting_synth_ethics_values_updated:0 "Disgusting Synth Ethics Values Updated"
+ disgusting_synth_ethics_values_updated_message:0 "disgusting_synth_ethics Current [Root.current_disgusting_synth_ethics_current_value]\nDesired [Root.disgusting_synth_ethics_new_desired_value]\nChange [Root.current_disgusting_synth_ethics_desired_value_change]\nDelta [Root.delta_between_current_desired_disgusting_synth_ethics]"

@@ -1,0 +1,7 @@
+tech_tomb_world_adapation_causes_tomb_shift_suicides_static_modifier = {
+	country_base_tomb_shift_suicides_desired_value_change_produces_add = 75
+}
+
+tomb_shift_suicides_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

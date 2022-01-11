@@ -1,0 +1,22 @@
+﻿l_english:
+
+ gateway_fiends_desired_value_change:0 "Gateway Fiends Resting Point Change"
+ gateway_fiends_desired_value_change_desc:0 "The amount we raise the resting point of our gateway fiends, ."
+ mod_country_base_gateway_fiends_desired_value_change_produces_add:0 "Gateway Fiends Resting Point Change"
+ mod_country_gateway_fiends_desired_value_change_produces_add:0 "Gateway Fiends Resting Point Change"
+
+ gateway_fiends_current_value:0 "Gateway Fiends"
+ gateway_fiends_current_value_desc:0 "."
+ mod_country_base_gateway_fiends_current_value_produces_add:0 "Monthly Gateway Fiends Production"
+ mod_country_gateway_fiends_current_value_produces_add:0 "Monthly Gateway Fiends Production"
+
+ gateway_fiends_current_value_trending_up:0 "Gateway Fiends Trending Up"
+ gateway_fiends_current_value_trending_down:0 "Gateway Fiends Trending Down"
+
+ gateway_fiends_desired_value:0 "Gateway Fiends Resting Point"
+ gateway_fiends_desired_value_desc:0 "The gateway fiends value we trend towards over time. It has a base value of 0."
+ mod_country_base_gateway_fiends_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_gateway_fiends_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_gateway_fiends_values_updated:0 "Gateway Fiends Values Updated"
+ gateway_fiends_values_updated_message:0 "gateway_fiends Current [Root.current_gateway_fiends_current_value]\nDesired [Root.gateway_fiends_new_desired_value]\nChange [Root.current_gateway_fiends_desired_value_change]\nDelta [Root.delta_between_current_desired_gateway_fiends]"

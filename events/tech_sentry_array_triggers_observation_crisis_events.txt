@@ -1,0 +1,88 @@
+namespace = tech_sentry_array_triggers_observation_crisis_events
+
+country_event = {
+	id = tech_sentry_array_triggers_observation_crisis_events.1
+	hide_window = no
+
+	title = tech_sentry_array_triggers_observation_crisis_events.1.title
+	desc = tech_sentry_array_triggers_observation_crisis_events.1.desc
+	picture = GFX_evt_zro_1
+	show_sound = event_factions
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+	fire_only_once = yes
+
+	trigger = {
+		has_technology = tech_sentry_array
+		is_country_type = default
+		NOT = { has_modifier = tech_sentry_array_causes_observation_crisis_static_modifier }
+	}
+
+	immediate = {
+		add_resource = { observation_crisis_current_value = 25 }
+	}
+
+	option = {
+		name = OK
+		
+		add_modifier = {
+			modifier = tech_sentry_array_causes_observation_crisis_static_modifier
+			years = 10
+		}
+		log = "TCS: Added tech_sentry_array_causes_observation_crisis_static_modifier"
+	}
+}
+
+country_event = {
+	id = tech_sentry_array_triggers_observation_crisis_events.2
+	hide_window = no
+
+	title = tech_sentry_array_triggers_observation_crisis_events.2.title
+	desc = tech_sentry_array_triggers_observation_crisis_events.2.desc
+	picture = GFX_evt_zro_1
+	show_sound = event_factions
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = observation_crisis_current_value amount > 75 }
+		is_country_type = default
+		NOT = { has_modifier = observation_crisis_static_modifier }
+	}
+
+	option = {
+		name = OK
+		add_modifier = {
+			modifier = observation_crisis_static_modifier
+		}
+		log = "TCS: Added observation_crisis_crisis_modifier"
+	}
+}
+
+country_event = {
+	id = tech_sentry_array_triggers_observation_crisis_events.3
+	hide_window = no
+
+	title = tech_sentry_array_triggers_observation_crisis_events.3.title
+	desc = tech_sentry_array_triggers_observation_crisis_events.3.desc
+	picture = GFX_evt_zro_1
+	show_sound = event_factions
+
+	is_triggered_only = no
+	mean_time_to_happen = { months = 1 }
+
+	trigger = {
+		has_resource = { type = observation_crisis_current_value amount < 50 }
+		is_country_type = default
+		has_modifier =  observation_crisis_static_modifier
+	}
+
+	option = {
+		name = OK
+		remove_modifier = observation_crisis_static_modifier
+		remove_modifier = tech_sentry_array_causes_observation_crisis_static_modifier
+		log = "TCS: Removed observation_crisis_crisis_modifier"
+	}
+}

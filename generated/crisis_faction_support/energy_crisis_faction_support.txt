@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_dyson_sphere_causes_energy_crisis_static_modifier" } }
+  energy_crisis_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_dyson_sphere_causes_energy_crisis_static_modifier" } }
+  energy_crisis_desired_value_change = -50
+}

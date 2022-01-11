@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_self_aware_colony_ships_causes_colonial_riff_raff_static_modifier" } }
+  colonial_riff_raff_desired_value_change = 50
+}
+ 
+# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_self_aware_colony_ships_causes_colonial_riff_raff_static_modifier" } }
+  colonial_riff_raff_desired_value_change = -50
+}

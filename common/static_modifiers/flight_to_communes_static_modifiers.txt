@@ -1,0 +1,7 @@
+tech_agrarian_utopias_causes_flight_to_communes_static_modifier = {
+	country_base_flight_to_communes_desired_value_change_produces_add = 75
+}
+
+flight_to_communes_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

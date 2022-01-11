@@ -1,0 +1,11 @@
+﻿# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_assembly_patterns_causes_cheap_ugly_housing_static_modifier" } }
+  cheap_ugly_housing_desired_value_change = 50
+}
+ 
+# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_assembly_patterns_causes_cheap_ugly_housing_static_modifier" } }
+  cheap_ugly_housing_desired_value_change = -50
+}

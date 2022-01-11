@@ -1,0 +1,7 @@
+tech_self_aware_colony_ships_causes_colonial_riff_raff_static_modifier = {
+	country_base_colonial_riff_raff_desired_value_change_produces_add = 75
+}
+
+colonial_riff_raff_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

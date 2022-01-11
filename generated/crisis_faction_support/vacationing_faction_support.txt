@@ -1,0 +1,11 @@
+﻿# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_resort_worlds_causes_vacationing_static_modifier" } }
+  vacationing_desired_value_change = 50
+}
+ 
+# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_resort_worlds_causes_vacationing_static_modifier" } }
+  vacationing_desired_value_change = -50
+}

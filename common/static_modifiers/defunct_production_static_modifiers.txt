@@ -1,0 +1,7 @@
+tech_global_production_strategy_causes_defunct_production_static_modifier = {
+	country_base_defunct_production_desired_value_change_produces_add = 75
+}
+
+defunct_production_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

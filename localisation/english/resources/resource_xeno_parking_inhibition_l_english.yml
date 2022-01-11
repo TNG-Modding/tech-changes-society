@@ -1,0 +1,22 @@
+﻿l_english:
+
+ xeno_parking_inhibition_desired_value_change:0 "Xeno Parking Inhibition Resting Point Change"
+ xeno_parking_inhibition_desired_value_change_desc:0 "The amount we raise the resting point of our xeno parking inhibition, ."
+ mod_country_base_xeno_parking_inhibition_desired_value_change_produces_add:0 "Xeno Parking Inhibition Resting Point Change"
+ mod_country_xeno_parking_inhibition_desired_value_change_produces_add:0 "Xeno Parking Inhibition Resting Point Change"
+
+ xeno_parking_inhibition_current_value:0 "Xeno Parking Inhibition"
+ xeno_parking_inhibition_current_value_desc:0 "."
+ mod_country_base_xeno_parking_inhibition_current_value_produces_add:0 "Monthly Xeno Parking Inhibition Production"
+ mod_country_xeno_parking_inhibition_current_value_produces_add:0 "Monthly Xeno Parking Inhibition Production"
+
+ xeno_parking_inhibition_current_value_trending_up:0 "Xeno Parking Inhibition Trending Up"
+ xeno_parking_inhibition_current_value_trending_down:0 "Xeno Parking Inhibition Trending Down"
+
+ xeno_parking_inhibition_desired_value:0 "Xeno Parking Inhibition Resting Point"
+ xeno_parking_inhibition_desired_value_desc:0 "The xeno parking inhibition value we trend towards over time. It has a base value of 0."
+ mod_country_base_xeno_parking_inhibition_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_xeno_parking_inhibition_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_xeno_parking_inhibition_values_updated:0 "Xeno Parking Inhibition Values Updated"
+ xeno_parking_inhibition_values_updated_message:0 "xeno_parking_inhibition Current [Root.current_xeno_parking_inhibition_current_value]\nDesired [Root.xeno_parking_inhibition_new_desired_value]\nChange [Root.current_xeno_parking_inhibition_desired_value_change]\nDelta [Root.delta_between_current_desired_xeno_parking_inhibition]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ jump_crime_desired_value_change:0 "Jump Crime Resting Point Change"
+ jump_crime_desired_value_change_desc:0 "The amount we raise the resting point of our jump crime, ."
+ mod_country_base_jump_crime_desired_value_change_produces_add:0 "Jump Crime Resting Point Change"
+ mod_country_jump_crime_desired_value_change_produces_add:0 "Jump Crime Resting Point Change"
+
+ jump_crime_current_value:0 "Jump Crime"
+ jump_crime_current_value_desc:0 "."
+ mod_country_base_jump_crime_current_value_produces_add:0 "Monthly Jump Crime Production"
+ mod_country_jump_crime_current_value_produces_add:0 "Monthly Jump Crime Production"
+
+ jump_crime_current_value_trending_up:0 "Jump Crime Trending Up"
+ jump_crime_current_value_trending_down:0 "Jump Crime Trending Down"
+
+ jump_crime_desired_value:0 "Jump Crime Resting Point"
+ jump_crime_desired_value_desc:0 "The jump crime value we trend towards over time. It has a base value of 0."
+ mod_country_base_jump_crime_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_jump_crime_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_jump_crime_values_updated:0 "Jump Crime Values Updated"
+ jump_crime_values_updated_message:0 "jump_crime Current [Root.current_jump_crime_current_value]\nDesired [Root.jump_crime_new_desired_value]\nChange [Root.current_jump_crime_desired_value_change]\nDelta [Root.delta_between_current_desired_jump_crime]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ai_warlordism_desired_value_change:0 "AI Warlordism Resting Point Change"
+ ai_warlordism_desired_value_change_desc:0 "The amount we raise the resting point of our ai warlordism, ."
+ mod_country_base_ai_warlordism_desired_value_change_produces_add:0 "AI Warlordism Resting Point Change"
+ mod_country_ai_warlordism_desired_value_change_produces_add:0 "AI Warlordism Resting Point Change"
+
+ ai_warlordism_current_value:0 "AI Warlordism"
+ ai_warlordism_current_value_desc:0 "."
+ mod_country_base_ai_warlordism_current_value_produces_add:0 "Monthly AI Warlordism Production"
+ mod_country_ai_warlordism_current_value_produces_add:0 "Monthly AI Warlordism Production"
+
+ ai_warlordism_current_value_trending_up:0 "AI Warlordism Trending Up"
+ ai_warlordism_current_value_trending_down:0 "AI Warlordism Trending Down"
+
+ ai_warlordism_desired_value:0 "AI Warlordism Resting Point"
+ ai_warlordism_desired_value_desc:0 "The ai warlordism value we trend towards over time. It has a base value of 0."
+ mod_country_base_ai_warlordism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_ai_warlordism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_ai_warlordism_values_updated:0 "AI Warlordism Values Updated"
+ ai_warlordism_values_updated_message:0 "ai_warlordism Current [Root.current_ai_warlordism_current_value]\nDesired [Root.ai_warlordism_new_desired_value]\nChange [Root.current_ai_warlordism_desired_value_change]\nDelta [Root.delta_between_current_desired_ai_warlordism]"

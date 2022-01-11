@@ -1,0 +1,22 @@
+﻿l_english:
+
+ flight_to_communes_desired_value_change:0 "Flight to Communes Resting Point Change"
+ flight_to_communes_desired_value_change_desc:0 "The amount we raise the resting point of our flight to communes, ."
+ mod_country_base_flight_to_communes_desired_value_change_produces_add:0 "Flight to Communes Resting Point Change"
+ mod_country_flight_to_communes_desired_value_change_produces_add:0 "Flight to Communes Resting Point Change"
+
+ flight_to_communes_current_value:0 "Flight to Communes"
+ flight_to_communes_current_value_desc:0 "."
+ mod_country_base_flight_to_communes_current_value_produces_add:0 "Monthly Flight to Communes Production"
+ mod_country_flight_to_communes_current_value_produces_add:0 "Monthly Flight to Communes Production"
+
+ flight_to_communes_current_value_trending_up:0 "Flight to Communes Trending Up"
+ flight_to_communes_current_value_trending_down:0 "Flight to Communes Trending Down"
+
+ flight_to_communes_desired_value:0 "Flight to Communes Resting Point"
+ flight_to_communes_desired_value_desc:0 "The flight to communes value we trend towards over time. It has a base value of 0."
+ mod_country_base_flight_to_communes_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_flight_to_communes_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_flight_to_communes_values_updated:0 "Flight to Communes Values Updated"
+ flight_to_communes_values_updated_message:0 "flight_to_communes Current [Root.current_flight_to_communes_current_value]\nDesired [Root.flight_to_communes_new_desired_value]\nChange [Root.current_flight_to_communes_desired_value_change]\nDelta [Root.delta_between_current_desired_flight_to_communes]"

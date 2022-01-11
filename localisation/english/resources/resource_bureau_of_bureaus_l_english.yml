@@ -1,0 +1,22 @@
+﻿l_english:
+
+ bureau_of_bureaus_desired_value_change:0 "Bureau of Bureaus Resting Point Change"
+ bureau_of_bureaus_desired_value_change_desc:0 "The amount we raise the resting point of our bureau of bureaus, ."
+ mod_country_base_bureau_of_bureaus_desired_value_change_produces_add:0 "Bureau of Bureaus Resting Point Change"
+ mod_country_bureau_of_bureaus_desired_value_change_produces_add:0 "Bureau of Bureaus Resting Point Change"
+
+ bureau_of_bureaus_current_value:0 "Bureau of Bureaus"
+ bureau_of_bureaus_current_value_desc:0 "."
+ mod_country_base_bureau_of_bureaus_current_value_produces_add:0 "Monthly Bureau of Bureaus Production"
+ mod_country_bureau_of_bureaus_current_value_produces_add:0 "Monthly Bureau of Bureaus Production"
+
+ bureau_of_bureaus_current_value_trending_up:0 "Bureau of Bureaus Trending Up"
+ bureau_of_bureaus_current_value_trending_down:0 "Bureau of Bureaus Trending Down"
+
+ bureau_of_bureaus_desired_value:0 "Bureau of Bureaus Resting Point"
+ bureau_of_bureaus_desired_value_desc:0 "The bureau of bureaus value we trend towards over time. It has a base value of 0."
+ mod_country_base_bureau_of_bureaus_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_bureau_of_bureaus_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_bureau_of_bureaus_values_updated:0 "Bureau of Bureaus Values Updated"
+ bureau_of_bureaus_values_updated_message:0 "bureau_of_bureaus Current [Root.current_bureau_of_bureaus_current_value]\nDesired [Root.bureau_of_bureaus_new_desired_value]\nChange [Root.current_bureau_of_bureaus_desired_value_change]\nDelta [Root.delta_between_current_desired_bureau_of_bureaus]"

@@ -1,0 +1,11 @@
+﻿# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_gene_seed_purification_causes_dominance_of_the_gene_seed_static_modifier" } }
+  dominance_of_the_gene_seed_desired_value_change = 50
+}
+ 
+# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_gene_seed_purification_causes_dominance_of_the_gene_seed_static_modifier" } }
+  dominance_of_the_gene_seed_desired_value_change = -50
+}

@@ -1,0 +1,11 @@
+﻿# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_mega_engineering_causes_sheapish_engineers_static_modifier" } }
+  sheapish_engineers_desired_value_change = 50
+}
+ 
+# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_mega_engineering_causes_sheapish_engineers_static_modifier" } }
+  sheapish_engineers_desired_value_change = -50
+}

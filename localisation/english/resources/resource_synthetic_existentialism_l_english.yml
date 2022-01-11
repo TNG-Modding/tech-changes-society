@@ -1,0 +1,22 @@
+﻿l_english:
+
+ synthetic_existentialism_desired_value_change:0 "Synthetic Existentialism Resting Point Change"
+ synthetic_existentialism_desired_value_change_desc:0 "The amount we raise the resting point of our synthetic existentialism, ."
+ mod_country_base_synthetic_existentialism_desired_value_change_produces_add:0 "Synthetic Existentialism Resting Point Change"
+ mod_country_synthetic_existentialism_desired_value_change_produces_add:0 "Synthetic Existentialism Resting Point Change"
+
+ synthetic_existentialism_current_value:0 "Synthetic Existentialism"
+ synthetic_existentialism_current_value_desc:0 "."
+ mod_country_base_synthetic_existentialism_current_value_produces_add:0 "Monthly Synthetic Existentialism Production"
+ mod_country_synthetic_existentialism_current_value_produces_add:0 "Monthly Synthetic Existentialism Production"
+
+ synthetic_existentialism_current_value_trending_up:0 "Synthetic Existentialism Trending Up"
+ synthetic_existentialism_current_value_trending_down:0 "Synthetic Existentialism Trending Down"
+
+ synthetic_existentialism_desired_value:0 "Synthetic Existentialism Resting Point"
+ synthetic_existentialism_desired_value_desc:0 "The synthetic existentialism value we trend towards over time. It has a base value of 0."
+ mod_country_base_synthetic_existentialism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_synthetic_existentialism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_synthetic_existentialism_values_updated:0 "Synthetic Existentialism Values Updated"
+ synthetic_existentialism_values_updated_message:0 "synthetic_existentialism Current [Root.current_synthetic_existentialism_current_value]\nDesired [Root.synthetic_existentialism_new_desired_value]\nChange [Root.current_synthetic_existentialism_desired_value_change]\nDelta [Root.delta_between_current_desired_synthetic_existentialism]"

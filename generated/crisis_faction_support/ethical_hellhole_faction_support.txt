@@ -1,0 +1,11 @@
+﻿# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_artificial_moral_codes_causes_ethical_hellhole_static_modifier" } }
+  ethical_hellhole_desired_value_change = 50
+}
+ 
+# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_artificial_moral_codes_causes_ethical_hellhole_static_modifier" } }
+  ethical_hellhole_desired_value_change = -50
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ foreign_scientist_craze_desired_value_change:0 "Foreign Scientist Craze Resting Point Change"
+ foreign_scientist_craze_desired_value_change_desc:0 "The amount we raise the resting point of our foreign scientist craze, ."
+ mod_country_base_foreign_scientist_craze_desired_value_change_produces_add:0 "Foreign Scientist Craze Resting Point Change"
+ mod_country_foreign_scientist_craze_desired_value_change_produces_add:0 "Foreign Scientist Craze Resting Point Change"
+
+ foreign_scientist_craze_current_value:0 "Foreign Scientist Craze"
+ foreign_scientist_craze_current_value_desc:0 "."
+ mod_country_base_foreign_scientist_craze_current_value_produces_add:0 "Monthly Foreign Scientist Craze Production"
+ mod_country_foreign_scientist_craze_current_value_produces_add:0 "Monthly Foreign Scientist Craze Production"
+
+ foreign_scientist_craze_current_value_trending_up:0 "Foreign Scientist Craze Trending Up"
+ foreign_scientist_craze_current_value_trending_down:0 "Foreign Scientist Craze Trending Down"
+
+ foreign_scientist_craze_desired_value:0 "Foreign Scientist Craze Resting Point"
+ foreign_scientist_craze_desired_value_desc:0 "The foreign scientist craze value we trend towards over time. It has a base value of 0."
+ mod_country_base_foreign_scientist_craze_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_foreign_scientist_craze_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_foreign_scientist_craze_values_updated:0 "Foreign Scientist Craze Values Updated"
+ foreign_scientist_craze_values_updated_message:0 "foreign_scientist_craze Current [Root.current_foreign_scientist_craze_current_value]\nDesired [Root.foreign_scientist_craze_new_desired_value]\nChange [Root.current_foreign_scientist_craze_desired_value_change]\nDelta [Root.delta_between_current_desired_foreign_scientist_craze]"

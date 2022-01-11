@@ -1,0 +1,7 @@
+tech_droids_causes_droids_challenge_sprecialists_static_modifier = {
+	country_base_droids_challenge_sprecialists_desired_value_change_produces_add = 75
+}
+
+droids_challenge_sprecialists_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

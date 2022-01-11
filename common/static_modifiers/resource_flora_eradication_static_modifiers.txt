@@ -1,0 +1,7 @@
+flora_eradication_current_value_trending_up = {
+	country_base_flora_eradication_current_value_produces_add = 1
+}
+
+flora_eradication_current_value_trending_down = {
+	country_base_flora_eradication_current_value_produces_add = -1
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ ring_relocation_desired_value_change:0 "Ring Relocation Resting Point Change"
+ ring_relocation_desired_value_change_desc:0 "The amount we raise the resting point of our ring relocation, ."
+ mod_country_base_ring_relocation_desired_value_change_produces_add:0 "Ring Relocation Resting Point Change"
+ mod_country_ring_relocation_desired_value_change_produces_add:0 "Ring Relocation Resting Point Change"
+
+ ring_relocation_current_value:0 "Ring Relocation"
+ ring_relocation_current_value_desc:0 "."
+ mod_country_base_ring_relocation_current_value_produces_add:0 "Monthly Ring Relocation Production"
+ mod_country_ring_relocation_current_value_produces_add:0 "Monthly Ring Relocation Production"
+
+ ring_relocation_current_value_trending_up:0 "Ring Relocation Trending Up"
+ ring_relocation_current_value_trending_down:0 "Ring Relocation Trending Down"
+
+ ring_relocation_desired_value:0 "Ring Relocation Resting Point"
+ ring_relocation_desired_value_desc:0 "The ring relocation value we trend towards over time. It has a base value of 0."
+ mod_country_base_ring_relocation_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_ring_relocation_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_ring_relocation_values_updated:0 "Ring Relocation Values Updated"
+ ring_relocation_values_updated_message:0 "ring_relocation Current [Root.current_ring_relocation_current_value]\nDesired [Root.ring_relocation_new_desired_value]\nChange [Root.current_ring_relocation_desired_value_change]\nDelta [Root.delta_between_current_desired_ring_relocation]"

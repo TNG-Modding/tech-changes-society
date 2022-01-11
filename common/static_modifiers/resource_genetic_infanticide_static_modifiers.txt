@@ -1,0 +1,7 @@
+genetic_infanticide_current_value_trending_up = {
+	country_base_genetic_infanticide_current_value_produces_add = 1
+}
+
+genetic_infanticide_current_value_trending_down = {
+	country_base_genetic_infanticide_current_value_produces_add = -1
+}

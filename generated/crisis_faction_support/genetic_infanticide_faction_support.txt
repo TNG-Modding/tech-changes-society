@@ -1,0 +1,11 @@
+﻿# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_capacity_boosters_causes_genetic_infanticide_static_modifier" } }
+  genetic_infanticide_desired_value_change = 50
+}
+ 
+# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_capacity_boosters_causes_genetic_infanticide_static_modifier" } }
+  genetic_infanticide_desired_value_change = -50
+}

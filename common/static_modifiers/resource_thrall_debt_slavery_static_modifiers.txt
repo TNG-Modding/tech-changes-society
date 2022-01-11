@@ -1,0 +1,7 @@
+thrall_debt_slavery_current_value_trending_up = {
+	country_base_thrall_debt_slavery_current_value_produces_add = 1
+}
+
+thrall_debt_slavery_current_value_trending_down = {
+	country_base_thrall_debt_slavery_current_value_produces_add = -1
+}

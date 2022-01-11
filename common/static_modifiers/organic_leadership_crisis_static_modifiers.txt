@@ -1,0 +1,7 @@
+tech_synthetic_personality_matrix_causes_organic_leadership_crisis_static_modifier = {
+	country_base_organic_leadership_crisis_desired_value_change_produces_add = 75
+}
+
+organic_leadership_crisis_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

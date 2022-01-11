@@ -1,0 +1,23 @@
+onward_and_downward_desired_value_change = {
+	max = 1000000
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+onward_and_downward_current_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+onward_and_downward_desired_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}

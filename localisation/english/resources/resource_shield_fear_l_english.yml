@@ -1,0 +1,22 @@
+﻿l_english:
+
+ shield_fear_desired_value_change:0 "Shield Fear Resting Point Change"
+ shield_fear_desired_value_change_desc:0 "The amount we raise the resting point of our shield fear, ."
+ mod_country_base_shield_fear_desired_value_change_produces_add:0 "Shield Fear Resting Point Change"
+ mod_country_shield_fear_desired_value_change_produces_add:0 "Shield Fear Resting Point Change"
+
+ shield_fear_current_value:0 "Shield Fear"
+ shield_fear_current_value_desc:0 "."
+ mod_country_base_shield_fear_current_value_produces_add:0 "Monthly Shield Fear Production"
+ mod_country_shield_fear_current_value_produces_add:0 "Monthly Shield Fear Production"
+
+ shield_fear_current_value_trending_up:0 "Shield Fear Trending Up"
+ shield_fear_current_value_trending_down:0 "Shield Fear Trending Down"
+
+ shield_fear_desired_value:0 "Shield Fear Resting Point"
+ shield_fear_desired_value_desc:0 "The shield fear value we trend towards over time. It has a base value of 0."
+ mod_country_base_shield_fear_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_shield_fear_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_shield_fear_values_updated:0 "Shield Fear Values Updated"
+ shield_fear_values_updated_message:0 "shield_fear Current [Root.current_shield_fear_current_value]\nDesired [Root.shield_fear_new_desired_value]\nChange [Root.current_shield_fear_desired_value_change]\nDelta [Root.delta_between_current_desired_shield_fear]"

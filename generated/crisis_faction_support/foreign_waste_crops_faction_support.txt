@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_nutrient_replication_causes_foreign_waste_crops_static_modifier" } }
+  foreign_waste_crops_desired_value_change = 50
+}
+ 
+# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_nutrient_replication_causes_foreign_waste_crops_static_modifier" } }
+  foreign_waste_crops_desired_value_change = -50
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ organic_leadership_crisis_desired_value_change:0 "Organic Leadership Crisis Resting Point Change"
+ organic_leadership_crisis_desired_value_change_desc:0 "The amount we raise the resting point of our organic leadership crisis, ."
+ mod_country_base_organic_leadership_crisis_desired_value_change_produces_add:0 "Organic Leadership Crisis Resting Point Change"
+ mod_country_organic_leadership_crisis_desired_value_change_produces_add:0 "Organic Leadership Crisis Resting Point Change"
+
+ organic_leadership_crisis_current_value:0 "Organic Leadership Crisis"
+ organic_leadership_crisis_current_value_desc:0 "."
+ mod_country_base_organic_leadership_crisis_current_value_produces_add:0 "Monthly Organic Leadership Crisis Production"
+ mod_country_organic_leadership_crisis_current_value_produces_add:0 "Monthly Organic Leadership Crisis Production"
+
+ organic_leadership_crisis_current_value_trending_up:0 "Organic Leadership Crisis Trending Up"
+ organic_leadership_crisis_current_value_trending_down:0 "Organic Leadership Crisis Trending Down"
+
+ organic_leadership_crisis_desired_value:0 "Organic Leadership Crisis Resting Point"
+ organic_leadership_crisis_desired_value_desc:0 "The organic leadership crisis value we trend towards over time. It has a base value of 0."
+ mod_country_base_organic_leadership_crisis_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_organic_leadership_crisis_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_organic_leadership_crisis_values_updated:0 "Organic Leadership Crisis Values Updated"
+ organic_leadership_crisis_values_updated_message:0 "organic_leadership_crisis Current [Root.current_organic_leadership_crisis_current_value]\nDesired [Root.organic_leadership_crisis_new_desired_value]\nChange [Root.current_organic_leadership_crisis_desired_value_change]\nDelta [Root.delta_between_current_desired_organic_leadership_crisis]"

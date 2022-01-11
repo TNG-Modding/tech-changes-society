@@ -1,0 +1,7 @@
+bureau_of_bureaus_current_value_trending_up = {
+	country_base_bureau_of_bureaus_current_value_produces_add = 1
+}
+
+bureau_of_bureaus_current_value_trending_down = {
+	country_base_bureau_of_bureaus_current_value_produces_add = -1
+}

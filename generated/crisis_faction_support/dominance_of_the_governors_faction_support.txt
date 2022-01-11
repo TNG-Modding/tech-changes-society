@@ -1,0 +1,11 @@
+﻿# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_colonial_bureaucracy_causes_dominance_of_the_governors_static_modifier" } }
+  dominance_of_the_governors_desired_value_change = 50
+}
+ 
+# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_colonial_bureaucracy_causes_dominance_of_the_governors_static_modifier" } }
+  dominance_of_the_governors_desired_value_change = -50
+}

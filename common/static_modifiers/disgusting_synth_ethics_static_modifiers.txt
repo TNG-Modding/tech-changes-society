@@ -1,0 +1,7 @@
+tech_synthetic_thought_patterns_causes_disgusting_synth_ethics_static_modifier = {
+	country_base_disgusting_synth_ethics_desired_value_change_produces_add = 75
+}
+
+disgusting_synth_ethics_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

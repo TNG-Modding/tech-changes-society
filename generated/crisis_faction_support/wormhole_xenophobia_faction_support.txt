@@ -1,0 +1,11 @@
+﻿# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_wormhole_stabilization_causes_wormhole_xenophobia_static_modifier" } }
+  wormhole_xenophobia_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_wormhole_stabilization_causes_wormhole_xenophobia_static_modifier" } }
+  wormhole_xenophobia_desired_value_change = -50
+}

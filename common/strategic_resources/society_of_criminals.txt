@@ -1,0 +1,23 @@
+society_of_criminals_desired_value_change = {
+	max = 1000000
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+society_of_criminals_current_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}
+
+society_of_criminals_desired_value = {
+	max = 100
+	tooltip_decimals = 1
+	fixed_max_amount = yes
+	
+	ai_weight = { weight = 1 }
+}

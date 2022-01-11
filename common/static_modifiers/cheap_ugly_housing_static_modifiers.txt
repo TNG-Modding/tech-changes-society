@@ -1,0 +1,7 @@
+tech_assembly_patterns_causes_cheap_ugly_housing_static_modifier = {
+	country_base_cheap_ugly_housing_desired_value_change_produces_add = 75
+}
+
+cheap_ugly_housing_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

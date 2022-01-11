@@ -14,7 +14,7 @@
             "specFilePath": "./specs/crises.json",
             "templateDirectoryPath": "./templates/desired_resource/desired_resource_groups",
             "outputDirectoryPath": "../interface/resource_groups",
-            "disabled": false,
+            "disabled": true,
             "dumpContents": true,
             "isBom": false
         },
@@ -50,7 +50,7 @@
             "specFilePath": "./specs/crises.json",
             "templateDirectoryPath": "./templates/desired_resource/desired_resource_main_gui",
             "outputDirectoryPath": "../generated/desired_resources",
-            "disabled": false,
+            "disabled": true,
             "dumpContents": true,
             "isBom": false
         },

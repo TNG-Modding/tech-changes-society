@@ -1,0 +1,22 @@
+﻿l_english:
+
+ chip_avoidance_desired_value_change:0 "Chip Avoidance Resting Point Change"
+ chip_avoidance_desired_value_change_desc:0 "The amount we raise the resting point of our chip avoidance, ."
+ mod_country_base_chip_avoidance_desired_value_change_produces_add:0 "Chip Avoidance Resting Point Change"
+ mod_country_chip_avoidance_desired_value_change_produces_add:0 "Chip Avoidance Resting Point Change"
+
+ chip_avoidance_current_value:0 "Chip Avoidance"
+ chip_avoidance_current_value_desc:0 "."
+ mod_country_base_chip_avoidance_current_value_produces_add:0 "Monthly Chip Avoidance Production"
+ mod_country_chip_avoidance_current_value_produces_add:0 "Monthly Chip Avoidance Production"
+
+ chip_avoidance_current_value_trending_up:0 "Chip Avoidance Trending Up"
+ chip_avoidance_current_value_trending_down:0 "Chip Avoidance Trending Down"
+
+ chip_avoidance_desired_value:0 "Chip Avoidance Resting Point"
+ chip_avoidance_desired_value_desc:0 "The chip avoidance value we trend towards over time. It has a base value of 0."
+ mod_country_base_chip_avoidance_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_chip_avoidance_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_chip_avoidance_values_updated:0 "Chip Avoidance Values Updated"
+ chip_avoidance_values_updated_message:0 "chip_avoidance Current [Root.current_chip_avoidance_current_value]\nDesired [Root.chip_avoidance_new_desired_value]\nChange [Root.current_chip_avoidance_desired_value_change]\nDelta [Root.delta_between_current_desired_chip_avoidance]"

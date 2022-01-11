@@ -1,0 +1,22 @@
+﻿l_english:
+
+ civilian_bombing_desired_value_change:0 "Civilian Bombing Resting Point Change"
+ civilian_bombing_desired_value_change_desc:0 "The amount we raise the resting point of our civilian bombing, ."
+ mod_country_base_civilian_bombing_desired_value_change_produces_add:0 "Civilian Bombing Resting Point Change"
+ mod_country_civilian_bombing_desired_value_change_produces_add:0 "Civilian Bombing Resting Point Change"
+
+ civilian_bombing_current_value:0 "Civilian Bombing"
+ civilian_bombing_current_value_desc:0 "."
+ mod_country_base_civilian_bombing_current_value_produces_add:0 "Monthly Civilian Bombing Production"
+ mod_country_civilian_bombing_current_value_produces_add:0 "Monthly Civilian Bombing Production"
+
+ civilian_bombing_current_value_trending_up:0 "Civilian Bombing Trending Up"
+ civilian_bombing_current_value_trending_down:0 "Civilian Bombing Trending Down"
+
+ civilian_bombing_desired_value:0 "Civilian Bombing Resting Point"
+ civilian_bombing_desired_value_desc:0 "The civilian bombing value we trend towards over time. It has a base value of 0."
+ mod_country_base_civilian_bombing_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_civilian_bombing_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_civilian_bombing_values_updated:0 "Civilian Bombing Values Updated"
+ civilian_bombing_values_updated_message:0 "civilian_bombing Current [Root.current_civilian_bombing_current_value]\nDesired [Root.civilian_bombing_new_desired_value]\nChange [Root.current_civilian_bombing_desired_value_change]\nDelta [Root.delta_between_current_desired_civilian_bombing]"

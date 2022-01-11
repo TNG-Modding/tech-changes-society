@@ -1,0 +1,22 @@
+﻿l_english:
+
+ wormhole_xenophobia_desired_value_change:0 "Wormhole Xenophobia Resting Point Change"
+ wormhole_xenophobia_desired_value_change_desc:0 "The amount we raise the resting point of our wormhole xenophobia, ."
+ mod_country_base_wormhole_xenophobia_desired_value_change_produces_add:0 "Wormhole Xenophobia Resting Point Change"
+ mod_country_wormhole_xenophobia_desired_value_change_produces_add:0 "Wormhole Xenophobia Resting Point Change"
+
+ wormhole_xenophobia_current_value:0 "Wormhole Xenophobia"
+ wormhole_xenophobia_current_value_desc:0 "."
+ mod_country_base_wormhole_xenophobia_current_value_produces_add:0 "Monthly Wormhole Xenophobia Production"
+ mod_country_wormhole_xenophobia_current_value_produces_add:0 "Monthly Wormhole Xenophobia Production"
+
+ wormhole_xenophobia_current_value_trending_up:0 "Wormhole Xenophobia Trending Up"
+ wormhole_xenophobia_current_value_trending_down:0 "Wormhole Xenophobia Trending Down"
+
+ wormhole_xenophobia_desired_value:0 "Wormhole Xenophobia Resting Point"
+ wormhole_xenophobia_desired_value_desc:0 "The wormhole xenophobia value we trend towards over time. It has a base value of 0."
+ mod_country_base_wormhole_xenophobia_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_wormhole_xenophobia_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_wormhole_xenophobia_values_updated:0 "Wormhole Xenophobia Values Updated"
+ wormhole_xenophobia_values_updated_message:0 "wormhole_xenophobia Current [Root.current_wormhole_xenophobia_current_value]\nDesired [Root.wormhole_xenophobia_new_desired_value]\nChange [Root.current_wormhole_xenophobia_desired_value_change]\nDelta [Root.delta_between_current_desired_wormhole_xenophobia]"

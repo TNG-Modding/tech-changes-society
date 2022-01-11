@@ -1,0 +1,11 @@
+﻿# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_planetary_unification_causes_balkanization_static_modifier" } }
+  balkanization_desired_value_change = 50
+}
+ 
+# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_planetary_unification_causes_balkanization_static_modifier" } }
+  balkanization_desired_value_change = -50
+}

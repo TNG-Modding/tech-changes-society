@@ -1,0 +1,22 @@
+﻿l_english:
+
+ colonial_backwaters_desired_value_change:0 "Colonial Backwaters Resting Point Change"
+ colonial_backwaters_desired_value_change_desc:0 "The amount we raise the resting point of our colonial backwaters, ."
+ mod_country_base_colonial_backwaters_desired_value_change_produces_add:0 "Colonial Backwaters Resting Point Change"
+ mod_country_colonial_backwaters_desired_value_change_produces_add:0 "Colonial Backwaters Resting Point Change"
+
+ colonial_backwaters_current_value:0 "Colonial Backwaters"
+ colonial_backwaters_current_value_desc:0 "."
+ mod_country_base_colonial_backwaters_current_value_produces_add:0 "Monthly Colonial Backwaters Production"
+ mod_country_colonial_backwaters_current_value_produces_add:0 "Monthly Colonial Backwaters Production"
+
+ colonial_backwaters_current_value_trending_up:0 "Colonial Backwaters Trending Up"
+ colonial_backwaters_current_value_trending_down:0 "Colonial Backwaters Trending Down"
+
+ colonial_backwaters_desired_value:0 "Colonial Backwaters Resting Point"
+ colonial_backwaters_desired_value_desc:0 "The colonial backwaters value we trend towards over time. It has a base value of 0."
+ mod_country_base_colonial_backwaters_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_colonial_backwaters_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_colonial_backwaters_values_updated:0 "Colonial Backwaters Values Updated"
+ colonial_backwaters_values_updated_message:0 "colonial_backwaters Current [Root.current_colonial_backwaters_current_value]\nDesired [Root.colonial_backwaters_new_desired_value]\nChange [Root.current_colonial_backwaters_desired_value_change]\nDelta [Root.delta_between_current_desired_colonial_backwaters]"

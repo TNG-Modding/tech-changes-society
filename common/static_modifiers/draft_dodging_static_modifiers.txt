@@ -1,0 +1,7 @@
+tech_cloning_causes_draft_dodging_static_modifier = {
+	country_base_draft_dodging_desired_value_change_produces_add = 75
+}
+
+draft_dodging_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

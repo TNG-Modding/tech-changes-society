@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_offworld_trading_company_causes_galactic_trader_dominance_static_modifier" } }
+  galactic_trader_dominance_desired_value_change = 50
+}
+ 
+# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_offworld_trading_company_causes_galactic_trader_dominance_static_modifier" } }
+  galactic_trader_dominance_desired_value_change = -50
+}

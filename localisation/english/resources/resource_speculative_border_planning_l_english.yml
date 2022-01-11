@@ -1,0 +1,22 @@
+﻿l_english:
+
+ speculative_border_planning_desired_value_change:0 "Speculative Border Planning Resting Point Change"
+ speculative_border_planning_desired_value_change_desc:0 "The amount we raise the resting point of our speculative border planning, ."
+ mod_country_base_speculative_border_planning_desired_value_change_produces_add:0 "Speculative Border Planning Resting Point Change"
+ mod_country_speculative_border_planning_desired_value_change_produces_add:0 "Speculative Border Planning Resting Point Change"
+
+ speculative_border_planning_current_value:0 "Speculative Border Planning"
+ speculative_border_planning_current_value_desc:0 "."
+ mod_country_base_speculative_border_planning_current_value_produces_add:0 "Monthly Speculative Border Planning Production"
+ mod_country_speculative_border_planning_current_value_produces_add:0 "Monthly Speculative Border Planning Production"
+
+ speculative_border_planning_current_value_trending_up:0 "Speculative Border Planning Trending Up"
+ speculative_border_planning_current_value_trending_down:0 "Speculative Border Planning Trending Down"
+
+ speculative_border_planning_desired_value:0 "Speculative Border Planning Resting Point"
+ speculative_border_planning_desired_value_desc:0 "The speculative border planning value we trend towards over time. It has a base value of 0."
+ mod_country_base_speculative_border_planning_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_speculative_border_planning_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_speculative_border_planning_values_updated:0 "Speculative Border Planning Values Updated"
+ speculative_border_planning_values_updated_message:0 "speculative_border_planning Current [Root.current_speculative_border_planning_current_value]\nDesired [Root.speculative_border_planning_new_desired_value]\nChange [Root.current_speculative_border_planning_desired_value_change]\nDelta [Root.delta_between_current_desired_speculative_border_planning]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ observation_crisis_desired_value_change:0 "Observation Crisis Resting Point Change"
+ observation_crisis_desired_value_change_desc:0 "The amount we raise the resting point of our observation crisis, ."
+ mod_country_base_observation_crisis_desired_value_change_produces_add:0 "Observation Crisis Resting Point Change"
+ mod_country_observation_crisis_desired_value_change_produces_add:0 "Observation Crisis Resting Point Change"
+
+ observation_crisis_current_value:0 "Observation Crisis"
+ observation_crisis_current_value_desc:0 "."
+ mod_country_base_observation_crisis_current_value_produces_add:0 "Monthly Observation Crisis Production"
+ mod_country_observation_crisis_current_value_produces_add:0 "Monthly Observation Crisis Production"
+
+ observation_crisis_current_value_trending_up:0 "Observation Crisis Trending Up"
+ observation_crisis_current_value_trending_down:0 "Observation Crisis Trending Down"
+
+ observation_crisis_desired_value:0 "Observation Crisis Resting Point"
+ observation_crisis_desired_value_desc:0 "The observation crisis value we trend towards over time. It has a base value of 0."
+ mod_country_base_observation_crisis_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_observation_crisis_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_observation_crisis_values_updated:0 "Observation Crisis Values Updated"
+ observation_crisis_values_updated_message:0 "observation_crisis Current [Root.current_observation_crisis_current_value]\nDesired [Root.observation_crisis_new_desired_value]\nChange [Root.current_observation_crisis_desired_value_change]\nDelta [Root.delta_between_current_desired_observation_crisis]"

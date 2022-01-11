@@ -1,0 +1,22 @@
+﻿l_english:
+
+ balkanization_desired_value_change:0 "Balkanization Resting Point Change"
+ balkanization_desired_value_change_desc:0 "The amount we raise the resting point of our balkanization, ."
+ mod_country_base_balkanization_desired_value_change_produces_add:0 "Balkanization Resting Point Change"
+ mod_country_balkanization_desired_value_change_produces_add:0 "Balkanization Resting Point Change"
+
+ balkanization_current_value:0 "Balkanization"
+ balkanization_current_value_desc:0 "."
+ mod_country_base_balkanization_current_value_produces_add:0 "Monthly Balkanization Production"
+ mod_country_balkanization_current_value_produces_add:0 "Monthly Balkanization Production"
+
+ balkanization_current_value_trending_up:0 "Balkanization Trending Up"
+ balkanization_current_value_trending_down:0 "Balkanization Trending Down"
+
+ balkanization_desired_value:0 "Balkanization Resting Point"
+ balkanization_desired_value_desc:0 "The balkanization value we trend towards over time. It has a base value of 0."
+ mod_country_base_balkanization_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_balkanization_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_balkanization_values_updated:0 "Balkanization Values Updated"
+ balkanization_values_updated_message:0 "balkanization Current [Root.current_balkanization_current_value]\nDesired [Root.balkanization_new_desired_value]\nChange [Root.current_balkanization_desired_value_change]\nDelta [Root.delta_between_current_desired_balkanization]"

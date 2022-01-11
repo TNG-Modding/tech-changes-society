@@ -1,0 +1,22 @@
+﻿l_english:
+
+ architectural_dark_age_desired_value_change:0 "Architectural Dark Age Resting Point Change"
+ architectural_dark_age_desired_value_change_desc:0 "The amount we raise the resting point of our architectural dark age, ."
+ mod_country_base_architectural_dark_age_desired_value_change_produces_add:0 "Architectural Dark Age Resting Point Change"
+ mod_country_architectural_dark_age_desired_value_change_produces_add:0 "Architectural Dark Age Resting Point Change"
+
+ architectural_dark_age_current_value:0 "Architectural Dark Age"
+ architectural_dark_age_current_value_desc:0 "."
+ mod_country_base_architectural_dark_age_current_value_produces_add:0 "Monthly Architectural Dark Age Production"
+ mod_country_architectural_dark_age_current_value_produces_add:0 "Monthly Architectural Dark Age Production"
+
+ architectural_dark_age_current_value_trending_up:0 "Architectural Dark Age Trending Up"
+ architectural_dark_age_current_value_trending_down:0 "Architectural Dark Age Trending Down"
+
+ architectural_dark_age_desired_value:0 "Architectural Dark Age Resting Point"
+ architectural_dark_age_desired_value_desc:0 "The architectural dark age value we trend towards over time. It has a base value of 0."
+ mod_country_base_architectural_dark_age_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_architectural_dark_age_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_architectural_dark_age_values_updated:0 "Architectural Dark Age Values Updated"
+ architectural_dark_age_values_updated_message:0 "architectural_dark_age Current [Root.current_architectural_dark_age_current_value]\nDesired [Root.architectural_dark_age_new_desired_value]\nChange [Root.current_architectural_dark_age_desired_value_change]\nDelta [Root.delta_between_current_desired_architectural_dark_age]"

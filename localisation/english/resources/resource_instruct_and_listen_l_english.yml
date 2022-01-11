@@ -1,0 +1,22 @@
+﻿l_english:
+
+ instruct_and_listen_desired_value_change:0 "Instruct and Listen Resting Point Change"
+ instruct_and_listen_desired_value_change_desc:0 "The amount we raise the resting point of our instruct and listen, ."
+ mod_country_base_instruct_and_listen_desired_value_change_produces_add:0 "Instruct and Listen Resting Point Change"
+ mod_country_instruct_and_listen_desired_value_change_produces_add:0 "Instruct and Listen Resting Point Change"
+
+ instruct_and_listen_current_value:0 "Instruct and Listen"
+ instruct_and_listen_current_value_desc:0 "."
+ mod_country_base_instruct_and_listen_current_value_produces_add:0 "Monthly Instruct and Listen Production"
+ mod_country_instruct_and_listen_current_value_produces_add:0 "Monthly Instruct and Listen Production"
+
+ instruct_and_listen_current_value_trending_up:0 "Instruct and Listen Trending Up"
+ instruct_and_listen_current_value_trending_down:0 "Instruct and Listen Trending Down"
+
+ instruct_and_listen_desired_value:0 "Instruct and Listen Resting Point"
+ instruct_and_listen_desired_value_desc:0 "The instruct and listen value we trend towards over time. It has a base value of 0."
+ mod_country_base_instruct_and_listen_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_instruct_and_listen_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_instruct_and_listen_values_updated:0 "Instruct and Listen Values Updated"
+ instruct_and_listen_values_updated_message:0 "instruct_and_listen Current [Root.current_instruct_and_listen_current_value]\nDesired [Root.instruct_and_listen_new_desired_value]\nChange [Root.current_instruct_and_listen_desired_value_change]\nDelta [Root.delta_between_current_desired_instruct_and_listen]"

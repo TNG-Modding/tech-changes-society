@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_omega_theory_causes_waiting_game_static_modifier" } }
+  waiting_game_desired_value_change = 50
+}
+ 
+# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_omega_theory_causes_waiting_game_static_modifier" } }
+  waiting_game_desired_value_change = -50
+}

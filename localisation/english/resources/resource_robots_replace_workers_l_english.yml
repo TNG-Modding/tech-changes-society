@@ -1,0 +1,22 @@
+﻿l_english:
+
+ robots_replace_workers_desired_value_change:0 "Robots Replace Workers Resting Point Change"
+ robots_replace_workers_desired_value_change_desc:0 "The amount we raise the resting point of our robots replace workers, ."
+ mod_country_base_robots_replace_workers_desired_value_change_produces_add:0 "Robots Replace Workers Resting Point Change"
+ mod_country_robots_replace_workers_desired_value_change_produces_add:0 "Robots Replace Workers Resting Point Change"
+
+ robots_replace_workers_current_value:0 "Robots Replace Workers"
+ robots_replace_workers_current_value_desc:0 "."
+ mod_country_base_robots_replace_workers_current_value_produces_add:0 "Monthly Robots Replace Workers Production"
+ mod_country_robots_replace_workers_current_value_produces_add:0 "Monthly Robots Replace Workers Production"
+
+ robots_replace_workers_current_value_trending_up:0 "Robots Replace Workers Trending Up"
+ robots_replace_workers_current_value_trending_down:0 "Robots Replace Workers Trending Down"
+
+ robots_replace_workers_desired_value:0 "Robots Replace Workers Resting Point"
+ robots_replace_workers_desired_value_desc:0 "The robots replace workers value we trend towards over time. It has a base value of 0."
+ mod_country_base_robots_replace_workers_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_robots_replace_workers_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_robots_replace_workers_values_updated:0 "Robots Replace Workers Values Updated"
+ robots_replace_workers_values_updated_message:0 "robots_replace_workers Current [Root.current_robots_replace_workers_current_value]\nDesired [Root.robots_replace_workers_new_desired_value]\nChange [Root.current_robots_replace_workers_desired_value_change]\nDelta [Root.delta_between_current_desired_robots_replace_workers]"

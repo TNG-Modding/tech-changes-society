@@ -1,0 +1,11 @@
+﻿# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_living_metal_causes_metallurgy_luddism_static_modifier" } }
+  metallurgy_luddism_desired_value_change = 50
+}
+ 
+# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_living_metal_causes_metallurgy_luddism_static_modifier" } }
+  metallurgy_luddism_desired_value_change = -50
+}

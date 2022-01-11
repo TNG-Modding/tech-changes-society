@@ -1,0 +1,11 @@
+﻿# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_automated_exploration_protocols_causes_independent_explorers_static_modifier" } }
+  independent_explorers_desired_value_change = 50
+}
+ 
+# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_automated_exploration_protocols_causes_independent_explorers_static_modifier" } }
+  independent_explorers_desired_value_change = -50
+}

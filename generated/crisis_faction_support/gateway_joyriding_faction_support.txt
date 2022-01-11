@@ -1,0 +1,11 @@
+﻿# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_gateway_construction_causes_gateway_joyriding_static_modifier" } }
+  gateway_joyriding_desired_value_change = 50
+}
+ 
+# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_gateway_construction_causes_gateway_joyriding_static_modifier" } }
+  gateway_joyriding_desired_value_change = -50
+}

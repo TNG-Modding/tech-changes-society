@@ -1,0 +1,22 @@
+﻿l_english:
+
+ missing_officials_desired_value_change:0 "Missing Officials Resting Point Change"
+ missing_officials_desired_value_change_desc:0 "The amount we raise the resting point of our missing officials, ."
+ mod_country_base_missing_officials_desired_value_change_produces_add:0 "Missing Officials Resting Point Change"
+ mod_country_missing_officials_desired_value_change_produces_add:0 "Missing Officials Resting Point Change"
+
+ missing_officials_current_value:0 "Missing Officials"
+ missing_officials_current_value_desc:0 "."
+ mod_country_base_missing_officials_current_value_produces_add:0 "Monthly Missing Officials Production"
+ mod_country_missing_officials_current_value_produces_add:0 "Monthly Missing Officials Production"
+
+ missing_officials_current_value_trending_up:0 "Missing Officials Trending Up"
+ missing_officials_current_value_trending_down:0 "Missing Officials Trending Down"
+
+ missing_officials_desired_value:0 "Missing Officials Resting Point"
+ missing_officials_desired_value_desc:0 "The missing officials value we trend towards over time. It has a base value of 0."
+ mod_country_base_missing_officials_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_missing_officials_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_missing_officials_values_updated:0 "Missing Officials Values Updated"
+ missing_officials_values_updated_message:0 "missing_officials Current [Root.current_missing_officials_current_value]\nDesired [Root.missing_officials_new_desired_value]\nChange [Root.current_missing_officials_desired_value_change]\nDelta [Root.delta_between_current_desired_missing_officials]"

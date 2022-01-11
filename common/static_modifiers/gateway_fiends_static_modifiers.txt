@@ -1,0 +1,7 @@
+tech_gateway_activation_causes_gateway_fiends_static_modifier = {
+	country_base_gateway_fiends_desired_value_change_produces_add = 75
+}
+
+gateway_fiends_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

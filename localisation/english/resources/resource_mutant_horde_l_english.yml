@@ -1,0 +1,22 @@
+﻿l_english:
+
+ mutant_horde_desired_value_change:0 "Mutant Horde Resting Point Change"
+ mutant_horde_desired_value_change_desc:0 "The amount we raise the resting point of our mutant horde, ."
+ mod_country_base_mutant_horde_desired_value_change_produces_add:0 "Mutant Horde Resting Point Change"
+ mod_country_mutant_horde_desired_value_change_produces_add:0 "Mutant Horde Resting Point Change"
+
+ mutant_horde_current_value:0 "Mutant Horde"
+ mutant_horde_current_value_desc:0 "."
+ mod_country_base_mutant_horde_current_value_produces_add:0 "Monthly Mutant Horde Production"
+ mod_country_mutant_horde_current_value_produces_add:0 "Monthly Mutant Horde Production"
+
+ mutant_horde_current_value_trending_up:0 "Mutant Horde Trending Up"
+ mutant_horde_current_value_trending_down:0 "Mutant Horde Trending Down"
+
+ mutant_horde_desired_value:0 "Mutant Horde Resting Point"
+ mutant_horde_desired_value_desc:0 "The mutant horde value we trend towards over time. It has a base value of 0."
+ mod_country_base_mutant_horde_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_mutant_horde_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_mutant_horde_values_updated:0 "Mutant Horde Values Updated"
+ mutant_horde_values_updated_message:0 "mutant_horde Current [Root.current_mutant_horde_current_value]\nDesired [Root.mutant_horde_new_desired_value]\nChange [Root.current_mutant_horde_desired_value_change]\nDelta [Root.delta_between_current_desired_mutant_horde]"

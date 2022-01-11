@@ -1,0 +1,22 @@
+﻿l_english:
+
+ existentialism_desired_value_change:0 "Existentialism Resting Point Change"
+ existentialism_desired_value_change_desc:0 "The amount we raise the resting point of our existentialism, ."
+ mod_country_base_existentialism_desired_value_change_produces_add:0 "Existentialism Resting Point Change"
+ mod_country_existentialism_desired_value_change_produces_add:0 "Existentialism Resting Point Change"
+
+ existentialism_current_value:0 "Existentialism"
+ existentialism_current_value_desc:0 "."
+ mod_country_base_existentialism_current_value_produces_add:0 "Monthly Existentialism Production"
+ mod_country_existentialism_current_value_produces_add:0 "Monthly Existentialism Production"
+
+ existentialism_current_value_trending_up:0 "Existentialism Trending Up"
+ existentialism_current_value_trending_down:0 "Existentialism Trending Down"
+
+ existentialism_desired_value:0 "Existentialism Resting Point"
+ existentialism_desired_value_desc:0 "The existentialism value we trend towards over time. It has a base value of 0."
+ mod_country_base_existentialism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_existentialism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_existentialism_values_updated:0 "Existentialism Values Updated"
+ existentialism_values_updated_message:0 "existentialism Current [Root.current_existentialism_current_value]\nDesired [Root.existentialism_new_desired_value]\nChange [Root.current_existentialism_desired_value_change]\nDelta [Root.delta_between_current_desired_existentialism]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ wasteful_decompression_desired_value_change:0 "Wasteful Decompression Resting Point Change"
+ wasteful_decompression_desired_value_change_desc:0 "The amount we raise the resting point of our wasteful decompression, ."
+ mod_country_base_wasteful_decompression_desired_value_change_produces_add:0 "Wasteful Decompression Resting Point Change"
+ mod_country_wasteful_decompression_desired_value_change_produces_add:0 "Wasteful Decompression Resting Point Change"
+
+ wasteful_decompression_current_value:0 "Wasteful Decompression"
+ wasteful_decompression_current_value_desc:0 "."
+ mod_country_base_wasteful_decompression_current_value_produces_add:0 "Monthly Wasteful Decompression Production"
+ mod_country_wasteful_decompression_current_value_produces_add:0 "Monthly Wasteful Decompression Production"
+
+ wasteful_decompression_current_value_trending_up:0 "Wasteful Decompression Trending Up"
+ wasteful_decompression_current_value_trending_down:0 "Wasteful Decompression Trending Down"
+
+ wasteful_decompression_desired_value:0 "Wasteful Decompression Resting Point"
+ wasteful_decompression_desired_value_desc:0 "The wasteful decompression value we trend towards over time. It has a base value of 0."
+ mod_country_base_wasteful_decompression_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_wasteful_decompression_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_wasteful_decompression_values_updated:0 "Wasteful Decompression Values Updated"
+ wasteful_decompression_values_updated_message:0 "wasteful_decompression Current [Root.current_wasteful_decompression_current_value]\nDesired [Root.wasteful_decompression_new_desired_value]\nChange [Root.current_wasteful_decompression_desired_value_change]\nDelta [Root.delta_between_current_desired_wasteful_decompression]"

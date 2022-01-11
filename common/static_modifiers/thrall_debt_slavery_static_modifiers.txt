@@ -1,0 +1,7 @@
+tech_thrall_worlds_causes_thrall_debt_slavery_static_modifier = {
+	country_base_thrall_debt_slavery_desired_value_change_produces_add = 75
+}
+
+thrall_debt_slavery_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

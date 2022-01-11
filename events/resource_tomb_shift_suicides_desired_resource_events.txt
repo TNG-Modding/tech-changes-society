@@ -1,0 +1,247 @@
+namespace = tomb_shift_suicides_desired_resource_events
+
+# Update tomb_shift_suicides current, desired resting point, and current monthly gain
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.1
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        country_event = { id = tomb_shift_suicides_desired_resource_events.2 }
+        country_event = { id = tomb_shift_suicides_desired_resource_events.3 }
+        country_event = { id = tomb_shift_suicides_desired_resource_events.4 }
+        country_event = { id = tomb_shift_suicides_desired_resource_events.5 }
+        country_event = { id = tomb_shift_suicides_desired_resource_events.6 }
+        country_event = { id = tomb_shift_suicides_desired_resource_events.7 }
+    }	
+}
+
+# Define tomb_shift_suicides_new_desired_value based on tomb_shift_suicides desired point change production
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.2
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        # Get the current production
+        export_resource_income_to_variable = {
+            resource = tomb_shift_suicides_desired_value_change
+            variable = dre_current_tomb_shift_suicides_desired_value_change
+        }
+
+        # Define new desired point
+        set_variable = {
+            which = dre_tomb_shift_suicides_new_desired_value
+            value = 0
+        }
+        change_variable = {
+            which = dre_tomb_shift_suicides_new_desired_value
+            value = dre_current_tomb_shift_suicides_desired_value_change
+        }
+
+        # Clamp desired value to 0 inclusive to 100 inclusive
+        if = {
+            limit = {
+                check_variable = {
+                    which = dre_tomb_shift_suicides_new_desired_value
+                    value > 100
+                }
+            }
+            set_variable = {
+                which = dre_tomb_shift_suicides_new_desired_value
+                value = 100
+            }
+        }
+        else_if = {
+            limit = {
+                check_variable = {
+                    which = dre_tomb_shift_suicides_new_desired_value
+                    value < 0
+                }
+            }
+            set_variable = {
+                which = dre_tomb_shift_suicides_new_desired_value
+                value = 0
+            }
+        }
+        # tomb_shift_suicides_new_desired_value is now the new desired point
+    }
+}
+
+# Set tomb_shift_suicides resting point to tomb_shift_suicides_new_desired_value
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.3
+    hide_window = yes
+    is_triggered_only = yes
+
+    immediate = {
+        # Old desired value
+        export_resource_stockpile_to_variable = {
+            resource = tomb_shift_suicides_desired_value
+            variable = dre_current_tomb_shift_suicides_desired_value
+        }
+
+        # Determine the delta needed to achieve new desired value
+        set_variable = {
+            which = dre_tomb_shift_suicides_desired_value_delta
+            value = dre_tomb_shift_suicides_new_desired_value 
+        }
+        subtract_variable = {
+            which = dre_tomb_shift_suicides_desired_value_delta
+            value = dre_current_tomb_shift_suicides_desired_value
+        }
+        # tomb_shift_suicides_desired_value_delta is now the delta between new and old desired point
+
+        # Set desired value to new desired value
+        add_resource = {
+            tomb_shift_suicides_desired_value = 1
+            mult = dre_tomb_shift_suicides_desired_value_delta
+        }
+    }
+}
+
+# Set delta_between_current_desired_tomb_shift_suicides
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.4
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        # Get current value of tomb_shift_suicides
+        export_resource_stockpile_to_variable = {
+            resource = tomb_shift_suicides_current_value
+            variable = dre_current_tomb_shift_suicides_current_value
+        }
+        set_variable = {
+            which = dre_delta_between_current_desired_tomb_shift_suicides
+            value = dre_tomb_shift_suicides_new_desired_value
+        }
+        subtract_variable = {
+            which = dre_delta_between_current_desired_tomb_shift_suicides
+            value = dre_current_tomb_shift_suicides_current_value
+        }
+        # delta_between_current_desired_tomb_shift_suicides now represents the difference between the values
+    }
+}
+
+# Set next_months_current_tomb_shift_suicides
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.5
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        set_variable = {
+            which = dre_next_months_current_tomb_shift_suicides
+            value = dre_current_tomb_shift_suicides_current_value
+        }
+        export_resource_income_to_variable = {
+            resource = tomb_shift_suicides_current_value
+            variable = dre_tomb_shift_suicides_current_value_production
+        }
+        change_variable = {
+            which = dre_next_months_current_tomb_shift_suicides
+            value = dre_tomb_shift_suicides_current_value_production
+        }
+    }
+}
+
+# Set floored_current_tomb_shift_suicides_value and floored_desired_tomb_shift_suicides_value
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.6
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        set_variable = {
+            which = dre_floored_current_tomb_shift_suicides_value
+            value = dre_current_tomb_shift_suicides_current_value
+        }
+        floor_variable = dre_floored_current_tomb_shift_suicides_value
+        
+        set_variable = {
+            which = dre_floored_desired_tomb_shift_suicides_value
+            value = dre_tomb_shift_suicides_new_desired_value
+        }
+        floor_variable = dre_floored_desired_tomb_shift_suicides_value
+    }
+}
+
+# Set trending current value
+country_event = {
+    id = tomb_shift_suicides_desired_resource_events.7
+    hide_window = yes
+    is_triggered_only = yes
+    
+    immediate = {
+        if = {
+            # If the value is close enough, do nothing
+            limit = {
+                check_variable = {
+                    which = dre_floored_current_tomb_shift_suicides_value
+                    value = dre_floored_desired_tomb_shift_suicides_value
+                }
+            }
+            remove_modifier = tomb_shift_suicides_current_value_trending_up
+            remove_modifier = tomb_shift_suicides_current_value_trending_down
+        }
+        else_if = {
+            # Adding this months resources would put us over the desired point, so just set it equal to the desired point
+            limit = {
+                OR = {
+                    AND = {
+                        check_variable = {
+                            which = dre_current_tomb_shift_suicides_current_value
+                            value < dre_tomb_shift_suicides_new_desired_value
+                        }
+                        check_variable = {
+                            which = dre_next_months_current_tomb_shift_suicides
+                            value >= dre_tomb_shift_suicides_new_desired_value
+                        }
+                    }
+
+                    AND = {
+                        check_variable = {
+                            which = dre_current_tomb_shift_suicides_current_value
+                            value > dre_tomb_shift_suicides_new_desired_value
+                        }
+                        check_variable = {
+                            which = dre_next_months_current_tomb_shift_suicides
+                            value <= dre_tomb_shift_suicides_new_desired_value
+                        }
+                    }
+                }
+                
+            }
+            remove_modifier = tomb_shift_suicides_current_value_trending_up
+            remove_modifier = tomb_shift_suicides_current_value_trending_down
+            add_resource = {
+                tomb_shift_suicides_current_value = 1
+                mult = dre_delta_between_current_desired_tomb_shift_suicides
+            }
+        }
+        else_if = {
+            # If we are far away from our desired value
+            if = {
+                limit = {
+                    check_variable = {
+                        which = dre_tomb_shift_suicides_new_desired_value
+                        value >= dre_current_tomb_shift_suicides_current_value
+                    }
+                }
+                remove_modifier = tomb_shift_suicides_current_value_trending_down
+                add_modifier = {
+                    modifier = tomb_shift_suicides_current_value_trending_up
+                    days = -1
+                }
+            }
+            else = {
+                remove_modifier = tomb_shift_suicides_current_value_trending_up
+                add_modifier = {
+                    modifier = tomb_shift_suicides_current_value_trending_down
+                    days = -1
+                }
+            }
+        }
+    }
+}

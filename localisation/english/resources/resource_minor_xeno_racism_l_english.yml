@@ -1,0 +1,22 @@
+﻿l_english:
+
+ minor_xeno_racism_desired_value_change:0 "Minor Xeno Racism Resting Point Change"
+ minor_xeno_racism_desired_value_change_desc:0 "The amount we raise the resting point of our minor xeno racism, ."
+ mod_country_base_minor_xeno_racism_desired_value_change_produces_add:0 "Minor Xeno Racism Resting Point Change"
+ mod_country_minor_xeno_racism_desired_value_change_produces_add:0 "Minor Xeno Racism Resting Point Change"
+
+ minor_xeno_racism_current_value:0 "Minor Xeno Racism"
+ minor_xeno_racism_current_value_desc:0 "."
+ mod_country_base_minor_xeno_racism_current_value_produces_add:0 "Monthly Minor Xeno Racism Production"
+ mod_country_minor_xeno_racism_current_value_produces_add:0 "Monthly Minor Xeno Racism Production"
+
+ minor_xeno_racism_current_value_trending_up:0 "Minor Xeno Racism Trending Up"
+ minor_xeno_racism_current_value_trending_down:0 "Minor Xeno Racism Trending Down"
+
+ minor_xeno_racism_desired_value:0 "Minor Xeno Racism Resting Point"
+ minor_xeno_racism_desired_value_desc:0 "The minor xeno racism value we trend towards over time. It has a base value of 0."
+ mod_country_base_minor_xeno_racism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_minor_xeno_racism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_minor_xeno_racism_values_updated:0 "Minor Xeno Racism Values Updated"
+ minor_xeno_racism_values_updated_message:0 "minor_xeno_racism Current [Root.current_minor_xeno_racism_current_value]\nDesired [Root.minor_xeno_racism_new_desired_value]\nChange [Root.current_minor_xeno_racism_desired_value_change]\nDelta [Root.delta_between_current_desired_minor_xeno_racism]"

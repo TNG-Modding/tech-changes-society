@@ -1,0 +1,7 @@
+dominance_of_the_governors_current_value_trending_up = {
+	country_base_dominance_of_the_governors_current_value_produces_add = 1
+}
+
+dominance_of_the_governors_current_value_trending_down = {
+	country_base_dominance_of_the_governors_current_value_produces_add = -1
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ sheapish_engineers_desired_value_change:0 "Sheapish Engineers Resting Point Change"
+ sheapish_engineers_desired_value_change_desc:0 "The amount we raise the resting point of our sheapish engineers, ."
+ mod_country_base_sheapish_engineers_desired_value_change_produces_add:0 "Sheapish Engineers Resting Point Change"
+ mod_country_sheapish_engineers_desired_value_change_produces_add:0 "Sheapish Engineers Resting Point Change"
+
+ sheapish_engineers_current_value:0 "Sheapish Engineers"
+ sheapish_engineers_current_value_desc:0 "."
+ mod_country_base_sheapish_engineers_current_value_produces_add:0 "Monthly Sheapish Engineers Production"
+ mod_country_sheapish_engineers_current_value_produces_add:0 "Monthly Sheapish Engineers Production"
+
+ sheapish_engineers_current_value_trending_up:0 "Sheapish Engineers Trending Up"
+ sheapish_engineers_current_value_trending_down:0 "Sheapish Engineers Trending Down"
+
+ sheapish_engineers_desired_value:0 "Sheapish Engineers Resting Point"
+ sheapish_engineers_desired_value_desc:0 "The sheapish engineers value we trend towards over time. It has a base value of 0."
+ mod_country_base_sheapish_engineers_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_sheapish_engineers_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_sheapish_engineers_values_updated:0 "Sheapish Engineers Values Updated"
+ sheapish_engineers_values_updated_message:0 "sheapish_engineers Current [Root.current_sheapish_engineers_current_value]\nDesired [Root.sheapish_engineers_new_desired_value]\nChange [Root.current_sheapish_engineers_desired_value_change]\nDelta [Root.delta_between_current_desired_sheapish_engineers]"

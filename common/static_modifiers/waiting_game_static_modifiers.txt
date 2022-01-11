@@ -1,0 +1,7 @@
+tech_omega_theory_causes_waiting_game_static_modifier = {
+	country_base_waiting_game_desired_value_change_produces_add = 75
+}
+
+waiting_game_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

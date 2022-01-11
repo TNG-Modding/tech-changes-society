@@ -1,0 +1,11 @@
+﻿# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_mote_stabilization_causes_acceptable_xeno_casualities_static_modifier" } }
+  acceptable_xeno_casualities_desired_value_change = 50
+}
+ 
+# imperialist
+produces = {
+  trigger = { owner = { has_modifier = "tech_mote_stabilization_causes_acceptable_xeno_casualities_static_modifier" } }
+  acceptable_xeno_casualities_desired_value_change = -50
+}

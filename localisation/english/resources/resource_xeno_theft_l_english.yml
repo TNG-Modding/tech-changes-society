@@ -1,0 +1,22 @@
+﻿l_english:
+
+ xeno_theft_desired_value_change:0 "Xeno Theft Resting Point Change"
+ xeno_theft_desired_value_change_desc:0 "The amount we raise the resting point of our xeno theft, ."
+ mod_country_base_xeno_theft_desired_value_change_produces_add:0 "Xeno Theft Resting Point Change"
+ mod_country_xeno_theft_desired_value_change_produces_add:0 "Xeno Theft Resting Point Change"
+
+ xeno_theft_current_value:0 "Xeno Theft"
+ xeno_theft_current_value_desc:0 "."
+ mod_country_base_xeno_theft_current_value_produces_add:0 "Monthly Xeno Theft Production"
+ mod_country_xeno_theft_current_value_produces_add:0 "Monthly Xeno Theft Production"
+
+ xeno_theft_current_value_trending_up:0 "Xeno Theft Trending Up"
+ xeno_theft_current_value_trending_down:0 "Xeno Theft Trending Down"
+
+ xeno_theft_desired_value:0 "Xeno Theft Resting Point"
+ xeno_theft_desired_value_desc:0 "The xeno theft value we trend towards over time. It has a base value of 0."
+ mod_country_base_xeno_theft_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_xeno_theft_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_xeno_theft_values_updated:0 "Xeno Theft Values Updated"
+ xeno_theft_values_updated_message:0 "xeno_theft Current [Root.current_xeno_theft_current_value]\nDesired [Root.xeno_theft_new_desired_value]\nChange [Root.current_xeno_theft_desired_value_change]\nDelta [Root.delta_between_current_desired_xeno_theft]"

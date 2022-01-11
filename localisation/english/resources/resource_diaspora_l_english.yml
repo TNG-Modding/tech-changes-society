@@ -1,0 +1,22 @@
+﻿l_english:
+
+ diaspora_desired_value_change:0 "Diaspora Resting Point Change"
+ diaspora_desired_value_change_desc:0 "The amount we raise the resting point of our diaspora, ."
+ mod_country_base_diaspora_desired_value_change_produces_add:0 "Diaspora Resting Point Change"
+ mod_country_diaspora_desired_value_change_produces_add:0 "Diaspora Resting Point Change"
+
+ diaspora_current_value:0 "Diaspora"
+ diaspora_current_value_desc:0 "."
+ mod_country_base_diaspora_current_value_produces_add:0 "Monthly Diaspora Production"
+ mod_country_diaspora_current_value_produces_add:0 "Monthly Diaspora Production"
+
+ diaspora_current_value_trending_up:0 "Diaspora Trending Up"
+ diaspora_current_value_trending_down:0 "Diaspora Trending Down"
+
+ diaspora_desired_value:0 "Diaspora Resting Point"
+ diaspora_desired_value_desc:0 "The diaspora value we trend towards over time. It has a base value of 0."
+ mod_country_base_diaspora_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_diaspora_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_diaspora_values_updated:0 "Diaspora Values Updated"
+ diaspora_values_updated_message:0 "diaspora Current [Root.current_diaspora_current_value]\nDesired [Root.diaspora_new_desired_value]\nChange [Root.current_diaspora_desired_value_change]\nDelta [Root.delta_between_current_desired_diaspora]"

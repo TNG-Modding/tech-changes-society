@@ -1,0 +1,22 @@
+﻿l_english:
+
+ dissapearence_desired_value_change:0 "Dissapearence Resting Point Change"
+ dissapearence_desired_value_change_desc:0 "The amount we raise the resting point of our dissapearence, ."
+ mod_country_base_dissapearence_desired_value_change_produces_add:0 "Dissapearence Resting Point Change"
+ mod_country_dissapearence_desired_value_change_produces_add:0 "Dissapearence Resting Point Change"
+
+ dissapearence_current_value:0 "Dissapearence"
+ dissapearence_current_value_desc:0 "."
+ mod_country_base_dissapearence_current_value_produces_add:0 "Monthly Dissapearence Production"
+ mod_country_dissapearence_current_value_produces_add:0 "Monthly Dissapearence Production"
+
+ dissapearence_current_value_trending_up:0 "Dissapearence Trending Up"
+ dissapearence_current_value_trending_down:0 "Dissapearence Trending Down"
+
+ dissapearence_desired_value:0 "Dissapearence Resting Point"
+ dissapearence_desired_value_desc:0 "The dissapearence value we trend towards over time. It has a base value of 0."
+ mod_country_base_dissapearence_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_dissapearence_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_dissapearence_values_updated:0 "Dissapearence Values Updated"
+ dissapearence_values_updated_message:0 "dissapearence Current [Root.current_dissapearence_current_value]\nDesired [Root.dissapearence_new_desired_value]\nChange [Root.current_dissapearence_desired_value_change]\nDelta [Root.delta_between_current_desired_dissapearence]"

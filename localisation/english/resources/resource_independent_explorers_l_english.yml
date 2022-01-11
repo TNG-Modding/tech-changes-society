@@ -1,0 +1,22 @@
+﻿l_english:
+
+ independent_explorers_desired_value_change:0 "Independent Explorers Resting Point Change"
+ independent_explorers_desired_value_change_desc:0 "The amount we raise the resting point of our independent explorers, ."
+ mod_country_base_independent_explorers_desired_value_change_produces_add:0 "Independent Explorers Resting Point Change"
+ mod_country_independent_explorers_desired_value_change_produces_add:0 "Independent Explorers Resting Point Change"
+
+ independent_explorers_current_value:0 "Independent Explorers"
+ independent_explorers_current_value_desc:0 "."
+ mod_country_base_independent_explorers_current_value_produces_add:0 "Monthly Independent Explorers Production"
+ mod_country_independent_explorers_current_value_produces_add:0 "Monthly Independent Explorers Production"
+
+ independent_explorers_current_value_trending_up:0 "Independent Explorers Trending Up"
+ independent_explorers_current_value_trending_down:0 "Independent Explorers Trending Down"
+
+ independent_explorers_desired_value:0 "Independent Explorers Resting Point"
+ independent_explorers_desired_value_desc:0 "The independent explorers value we trend towards over time. It has a base value of 0."
+ mod_country_base_independent_explorers_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_independent_explorers_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_independent_explorers_values_updated:0 "Independent Explorers Values Updated"
+ independent_explorers_values_updated_message:0 "independent_explorers Current [Root.current_independent_explorers_current_value]\nDesired [Root.independent_explorers_new_desired_value]\nChange [Root.current_independent_explorers_desired_value_change]\nDelta [Root.delta_between_current_desired_independent_explorers]"

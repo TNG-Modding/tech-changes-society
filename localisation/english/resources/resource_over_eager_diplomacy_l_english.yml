@@ -1,0 +1,22 @@
+﻿l_english:
+
+ over_eager_diplomacy_desired_value_change:0 "Over Eager Diplomacy Resting Point Change"
+ over_eager_diplomacy_desired_value_change_desc:0 "The amount we raise the resting point of our over eager diplomacy, ."
+ mod_country_base_over_eager_diplomacy_desired_value_change_produces_add:0 "Over Eager Diplomacy Resting Point Change"
+ mod_country_over_eager_diplomacy_desired_value_change_produces_add:0 "Over Eager Diplomacy Resting Point Change"
+
+ over_eager_diplomacy_current_value:0 "Over Eager Diplomacy"
+ over_eager_diplomacy_current_value_desc:0 "."
+ mod_country_base_over_eager_diplomacy_current_value_produces_add:0 "Monthly Over Eager Diplomacy Production"
+ mod_country_over_eager_diplomacy_current_value_produces_add:0 "Monthly Over Eager Diplomacy Production"
+
+ over_eager_diplomacy_current_value_trending_up:0 "Over Eager Diplomacy Trending Up"
+ over_eager_diplomacy_current_value_trending_down:0 "Over Eager Diplomacy Trending Down"
+
+ over_eager_diplomacy_desired_value:0 "Over Eager Diplomacy Resting Point"
+ over_eager_diplomacy_desired_value_desc:0 "The over eager diplomacy value we trend towards over time. It has a base value of 0."
+ mod_country_base_over_eager_diplomacy_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_over_eager_diplomacy_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_over_eager_diplomacy_values_updated:0 "Over Eager Diplomacy Values Updated"
+ over_eager_diplomacy_values_updated_message:0 "over_eager_diplomacy Current [Root.current_over_eager_diplomacy_current_value]\nDesired [Root.over_eager_diplomacy_new_desired_value]\nChange [Root.current_over_eager_diplomacy_desired_value_change]\nDelta [Root.delta_between_current_desired_over_eager_diplomacy]"

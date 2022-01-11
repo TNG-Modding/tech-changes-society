@@ -1,0 +1,7 @@
+acceptable_xeno_casualities_current_value_trending_up = {
+	country_base_acceptable_xeno_casualities_current_value_produces_add = 1
+}
+
+acceptable_xeno_casualities_current_value_trending_down = {
+	country_base_acceptable_xeno_casualities_current_value_produces_add = -1
+}

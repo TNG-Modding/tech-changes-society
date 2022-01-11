@@ -1,0 +1,22 @@
+﻿l_english:
+
+ monothought_desired_value_change:0 "Monothought Resting Point Change"
+ monothought_desired_value_change_desc:0 "The amount we raise the resting point of our monothought, ."
+ mod_country_base_monothought_desired_value_change_produces_add:0 "Monothought Resting Point Change"
+ mod_country_monothought_desired_value_change_produces_add:0 "Monothought Resting Point Change"
+
+ monothought_current_value:0 "Monothought"
+ monothought_current_value_desc:0 "."
+ mod_country_base_monothought_current_value_produces_add:0 "Monthly Monothought Production"
+ mod_country_monothought_current_value_produces_add:0 "Monthly Monothought Production"
+
+ monothought_current_value_trending_up:0 "Monothought Trending Up"
+ monothought_current_value_trending_down:0 "Monothought Trending Down"
+
+ monothought_desired_value:0 "Monothought Resting Point"
+ monothought_desired_value_desc:0 "The monothought value we trend towards over time. It has a base value of 0."
+ mod_country_base_monothought_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_monothought_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_monothought_values_updated:0 "Monothought Values Updated"
+ monothought_values_updated_message:0 "monothought Current [Root.current_monothought_current_value]\nDesired [Root.monothought_new_desired_value]\nChange [Root.current_monothought_desired_value_change]\nDelta [Root.delta_between_current_desired_monothought]"

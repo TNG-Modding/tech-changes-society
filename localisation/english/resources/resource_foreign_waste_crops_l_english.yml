@@ -1,0 +1,22 @@
+﻿l_english:
+
+ foreign_waste_crops_desired_value_change:0 "Foreign Waste Crops Resting Point Change"
+ foreign_waste_crops_desired_value_change_desc:0 "The amount we raise the resting point of our foreign waste crops, ."
+ mod_country_base_foreign_waste_crops_desired_value_change_produces_add:0 "Foreign Waste Crops Resting Point Change"
+ mod_country_foreign_waste_crops_desired_value_change_produces_add:0 "Foreign Waste Crops Resting Point Change"
+
+ foreign_waste_crops_current_value:0 "Foreign Waste Crops"
+ foreign_waste_crops_current_value_desc:0 "."
+ mod_country_base_foreign_waste_crops_current_value_produces_add:0 "Monthly Foreign Waste Crops Production"
+ mod_country_foreign_waste_crops_current_value_produces_add:0 "Monthly Foreign Waste Crops Production"
+
+ foreign_waste_crops_current_value_trending_up:0 "Foreign Waste Crops Trending Up"
+ foreign_waste_crops_current_value_trending_down:0 "Foreign Waste Crops Trending Down"
+
+ foreign_waste_crops_desired_value:0 "Foreign Waste Crops Resting Point"
+ foreign_waste_crops_desired_value_desc:0 "The foreign waste crops value we trend towards over time. It has a base value of 0."
+ mod_country_base_foreign_waste_crops_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_foreign_waste_crops_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_foreign_waste_crops_values_updated:0 "Foreign Waste Crops Values Updated"
+ foreign_waste_crops_values_updated_message:0 "foreign_waste_crops Current [Root.current_foreign_waste_crops_current_value]\nDesired [Root.foreign_waste_crops_new_desired_value]\nChange [Root.current_foreign_waste_crops_desired_value_change]\nDelta [Root.delta_between_current_desired_foreign_waste_crops]"

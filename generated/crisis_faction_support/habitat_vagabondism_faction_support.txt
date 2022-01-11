@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_orbital_habitats_causes_habitat_vagabondism_static_modifier" } }
+  habitat_vagabondism_desired_value_change = 50
+}
+ 
+# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_orbital_habitats_causes_habitat_vagabondism_static_modifier" } }
+  habitat_vagabondism_desired_value_change = -50
+}

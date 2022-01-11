@@ -1,0 +1,7 @@
+tech_planetary_unification_causes_balkanization_static_modifier = {
+	country_base_balkanization_desired_value_change_produces_add = 75
+}
+
+balkanization_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

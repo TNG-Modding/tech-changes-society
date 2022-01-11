@@ -1,0 +1,7 @@
+tech_grandular_acclimation_causes_migrantism_static_modifier = {
+	country_base_migrantism_desired_value_change_produces_add = 75
+}
+
+migrantism_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

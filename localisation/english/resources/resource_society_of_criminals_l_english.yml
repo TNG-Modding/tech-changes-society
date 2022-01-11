@@ -1,0 +1,22 @@
+﻿l_english:
+
+ society_of_criminals_desired_value_change:0 "Society of Criminals Resting Point Change"
+ society_of_criminals_desired_value_change_desc:0 "The amount we raise the resting point of our society of criminals, ."
+ mod_country_base_society_of_criminals_desired_value_change_produces_add:0 "Society of Criminals Resting Point Change"
+ mod_country_society_of_criminals_desired_value_change_produces_add:0 "Society of Criminals Resting Point Change"
+
+ society_of_criminals_current_value:0 "Society of Criminals"
+ society_of_criminals_current_value_desc:0 "."
+ mod_country_base_society_of_criminals_current_value_produces_add:0 "Monthly Society of Criminals Production"
+ mod_country_society_of_criminals_current_value_produces_add:0 "Monthly Society of Criminals Production"
+
+ society_of_criminals_current_value_trending_up:0 "Society of Criminals Trending Up"
+ society_of_criminals_current_value_trending_down:0 "Society of Criminals Trending Down"
+
+ society_of_criminals_desired_value:0 "Society of Criminals Resting Point"
+ society_of_criminals_desired_value_desc:0 "The society of criminals value we trend towards over time. It has a base value of 0."
+ mod_country_base_society_of_criminals_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_society_of_criminals_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_society_of_criminals_values_updated:0 "Society of Criminals Values Updated"
+ society_of_criminals_values_updated_message:0 "society_of_criminals Current [Root.current_society_of_criminals_current_value]\nDesired [Root.society_of_criminals_new_desired_value]\nChange [Root.current_society_of_criminals_desired_value_change]\nDelta [Root.delta_between_current_desired_society_of_criminals]"

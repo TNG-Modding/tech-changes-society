@@ -1,0 +1,22 @@
+﻿l_english:
+
+ elder_dominance_desired_value_change:0 "Elder Dominance Resting Point Change"
+ elder_dominance_desired_value_change_desc:0 "The amount we raise the resting point of our elder dominance, ."
+ mod_country_base_elder_dominance_desired_value_change_produces_add:0 "Elder Dominance Resting Point Change"
+ mod_country_elder_dominance_desired_value_change_produces_add:0 "Elder Dominance Resting Point Change"
+
+ elder_dominance_current_value:0 "Elder Dominance"
+ elder_dominance_current_value_desc:0 "."
+ mod_country_base_elder_dominance_current_value_produces_add:0 "Monthly Elder Dominance Production"
+ mod_country_elder_dominance_current_value_produces_add:0 "Monthly Elder Dominance Production"
+
+ elder_dominance_current_value_trending_up:0 "Elder Dominance Trending Up"
+ elder_dominance_current_value_trending_down:0 "Elder Dominance Trending Down"
+
+ elder_dominance_desired_value:0 "Elder Dominance Resting Point"
+ elder_dominance_desired_value_desc:0 "The elder dominance value we trend towards over time. It has a base value of 0."
+ mod_country_base_elder_dominance_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_elder_dominance_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_elder_dominance_values_updated:0 "Elder Dominance Values Updated"
+ elder_dominance_values_updated_message:0 "elder_dominance Current [Root.current_elder_dominance_current_value]\nDesired [Root.elder_dominance_new_desired_value]\nChange [Root.current_elder_dominance_desired_value_change]\nDelta [Root.delta_between_current_desired_elder_dominance]"

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ our_savior_desired_value_change:0 "Our Savior Resting Point Change"
+ our_savior_desired_value_change_desc:0 "The amount we raise the resting point of our our savior, ."
+ mod_country_base_our_savior_desired_value_change_produces_add:0 "Our Savior Resting Point Change"
+ mod_country_our_savior_desired_value_change_produces_add:0 "Our Savior Resting Point Change"
+
+ our_savior_current_value:0 "Our Savior"
+ our_savior_current_value_desc:0 "."
+ mod_country_base_our_savior_current_value_produces_add:0 "Monthly Our Savior Production"
+ mod_country_our_savior_current_value_produces_add:0 "Monthly Our Savior Production"
+
+ our_savior_current_value_trending_up:0 "Our Savior Trending Up"
+ our_savior_current_value_trending_down:0 "Our Savior Trending Down"
+
+ our_savior_desired_value:0 "Our Savior Resting Point"
+ our_savior_desired_value_desc:0 "The our savior value we trend towards over time. It has a base value of 0."
+ mod_country_base_our_savior_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_our_savior_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_our_savior_values_updated:0 "Our Savior Values Updated"
+ our_savior_values_updated_message:0 "our_savior Current [Root.current_our_savior_current_value]\nDesired [Root.our_savior_new_desired_value]\nChange [Root.current_our_savior_desired_value_change]\nDelta [Root.delta_between_current_desired_our_savior]"

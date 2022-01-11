@@ -1,0 +1,7 @@
+civilian_mega_shipping_current_value_trending_up = {
+	country_base_civilian_mega_shipping_current_value_produces_add = 1
+}
+
+civilian_mega_shipping_current_value_trending_down = {
+	country_base_civilian_mega_shipping_current_value_produces_add = -1
+}

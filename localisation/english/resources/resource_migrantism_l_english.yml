@@ -1,0 +1,22 @@
+﻿l_english:
+
+ migrantism_desired_value_change:0 "Migrantism Resting Point Change"
+ migrantism_desired_value_change_desc:0 "The amount we raise the resting point of our migrantism, ."
+ mod_country_base_migrantism_desired_value_change_produces_add:0 "Migrantism Resting Point Change"
+ mod_country_migrantism_desired_value_change_produces_add:0 "Migrantism Resting Point Change"
+
+ migrantism_current_value:0 "Migrantism"
+ migrantism_current_value_desc:0 "."
+ mod_country_base_migrantism_current_value_produces_add:0 "Monthly Migrantism Production"
+ mod_country_migrantism_current_value_produces_add:0 "Monthly Migrantism Production"
+
+ migrantism_current_value_trending_up:0 "Migrantism Trending Up"
+ migrantism_current_value_trending_down:0 "Migrantism Trending Down"
+
+ migrantism_desired_value:0 "Migrantism Resting Point"
+ migrantism_desired_value_desc:0 "The migrantism value we trend towards over time. It has a base value of 0."
+ mod_country_base_migrantism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_migrantism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_migrantism_values_updated:0 "Migrantism Values Updated"
+ migrantism_values_updated_message:0 "migrantism Current [Root.current_migrantism_current_value]\nDesired [Root.migrantism_new_desired_value]\nChange [Root.current_migrantism_desired_value_change]\nDelta [Root.delta_between_current_desired_migrantism]"

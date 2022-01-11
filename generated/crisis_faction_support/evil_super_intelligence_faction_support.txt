@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_positronic_ai_causes_evil_super_intelligence_static_modifier" } }
+  evil_super_intelligence_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_positronic_ai_causes_evil_super_intelligence_static_modifier" } }
+  evil_super_intelligence_desired_value_change = -50
+}

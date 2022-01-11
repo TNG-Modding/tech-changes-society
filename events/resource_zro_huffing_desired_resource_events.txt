@@ -39,17 +39,17 @@ country_event = {
             value = dre_current_zro_huffing_desired_value_change
         }
 
-        # Clamp desired value to 0 inclusive to 99 inclusive
+        # Clamp desired value to 0 inclusive to 100 inclusive
         if = {
             limit = {
                 check_variable = {
                     which = dre_zro_huffing_new_desired_value
-                    value > 99
+                    value > 100
                 }
             }
             set_variable = {
                 which = dre_zro_huffing_new_desired_value
-                value = 99
+                value = 100
             }
         }
         else_if = {

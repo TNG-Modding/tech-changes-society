@@ -1,0 +1,22 @@
+﻿l_english:
+
+ onward_and_downward_desired_value_change:0 "Onward and Downward Resting Point Change"
+ onward_and_downward_desired_value_change_desc:0 "The amount we raise the resting point of our onward and downward, ."
+ mod_country_base_onward_and_downward_desired_value_change_produces_add:0 "Onward and Downward Resting Point Change"
+ mod_country_onward_and_downward_desired_value_change_produces_add:0 "Onward and Downward Resting Point Change"
+
+ onward_and_downward_current_value:0 "Onward and Downward"
+ onward_and_downward_current_value_desc:0 "."
+ mod_country_base_onward_and_downward_current_value_produces_add:0 "Monthly Onward and Downward Production"
+ mod_country_onward_and_downward_current_value_produces_add:0 "Monthly Onward and Downward Production"
+
+ onward_and_downward_current_value_trending_up:0 "Onward and Downward Trending Up"
+ onward_and_downward_current_value_trending_down:0 "Onward and Downward Trending Down"
+
+ onward_and_downward_desired_value:0 "Onward and Downward Resting Point"
+ onward_and_downward_desired_value_desc:0 "The onward and downward value we trend towards over time. It has a base value of 0."
+ mod_country_base_onward_and_downward_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_onward_and_downward_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_onward_and_downward_values_updated:0 "Onward and Downward Values Updated"
+ onward_and_downward_values_updated_message:0 "onward_and_downward Current [Root.current_onward_and_downward_current_value]\nDesired [Root.onward_and_downward_new_desired_value]\nChange [Root.current_onward_and_downward_desired_value_change]\nDelta [Root.delta_between_current_desired_onward_and_downward]"

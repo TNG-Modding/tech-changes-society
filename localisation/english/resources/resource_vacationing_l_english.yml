@@ -1,0 +1,22 @@
+﻿l_english:
+
+ vacationing_desired_value_change:0 "Vacationing Resting Point Change"
+ vacationing_desired_value_change_desc:0 "The amount we raise the resting point of our vacationing, ."
+ mod_country_base_vacationing_desired_value_change_produces_add:0 "Vacationing Resting Point Change"
+ mod_country_vacationing_desired_value_change_produces_add:0 "Vacationing Resting Point Change"
+
+ vacationing_current_value:0 "Vacationing"
+ vacationing_current_value_desc:0 "."
+ mod_country_base_vacationing_current_value_produces_add:0 "Monthly Vacationing Production"
+ mod_country_vacationing_current_value_produces_add:0 "Monthly Vacationing Production"
+
+ vacationing_current_value_trending_up:0 "Vacationing Trending Up"
+ vacationing_current_value_trending_down:0 "Vacationing Trending Down"
+
+ vacationing_desired_value:0 "Vacationing Resting Point"
+ vacationing_desired_value_desc:0 "The vacationing value we trend towards over time. It has a base value of 0."
+ mod_country_base_vacationing_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_vacationing_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_vacationing_values_updated:0 "Vacationing Values Updated"
+ vacationing_values_updated_message:0 "vacationing Current [Root.current_vacationing_current_value]\nDesired [Root.vacationing_new_desired_value]\nChange [Root.current_vacationing_desired_value_change]\nDelta [Root.delta_between_current_desired_vacationing]"

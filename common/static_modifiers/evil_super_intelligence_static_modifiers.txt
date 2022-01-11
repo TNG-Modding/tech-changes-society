@@ -1,0 +1,7 @@
+tech_positronic_ai_causes_evil_super_intelligence_static_modifier = {
+	country_base_evil_super_intelligence_desired_value_change_produces_add = 75
+}
+
+evil_super_intelligence_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

@@ -1,0 +1,11 @@
+﻿# traditionalist
+produces = {
+  trigger = { owner = { has_modifier = "tech_arcane_deciphering_causes_existentialism_static_modifier" } }
+  existentialism_desired_value_change = 50
+}
+ 
+# supremacy
+produces = {
+  trigger = { owner = { has_modifier = "tech_arcane_deciphering_causes_existentialism_static_modifier" } }
+  existentialism_desired_value_change = -50
+}

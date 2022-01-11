@@ -1,0 +1,22 @@
+﻿l_english:
+
+ defunct_production_desired_value_change:0 "Defunct Production Resting Point Change"
+ defunct_production_desired_value_change_desc:0 "The amount we raise the resting point of our defunct production, ."
+ mod_country_base_defunct_production_desired_value_change_produces_add:0 "Defunct Production Resting Point Change"
+ mod_country_defunct_production_desired_value_change_produces_add:0 "Defunct Production Resting Point Change"
+
+ defunct_production_current_value:0 "Defunct Production"
+ defunct_production_current_value_desc:0 "."
+ mod_country_base_defunct_production_current_value_produces_add:0 "Monthly Defunct Production Production"
+ mod_country_defunct_production_current_value_produces_add:0 "Monthly Defunct Production Production"
+
+ defunct_production_current_value_trending_up:0 "Defunct Production Trending Up"
+ defunct_production_current_value_trending_down:0 "Defunct Production Trending Down"
+
+ defunct_production_desired_value:0 "Defunct Production Resting Point"
+ defunct_production_desired_value_desc:0 "The defunct production value we trend towards over time. It has a base value of 0."
+ mod_country_base_defunct_production_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_defunct_production_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_defunct_production_values_updated:0 "Defunct Production Values Updated"
+ defunct_production_values_updated_message:0 "defunct_production Current [Root.current_defunct_production_current_value]\nDesired [Root.defunct_production_new_desired_value]\nChange [Root.current_defunct_production_desired_value_change]\nDelta [Root.delta_between_current_desired_defunct_production]"

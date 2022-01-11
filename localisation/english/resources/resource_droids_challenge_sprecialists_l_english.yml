@@ -1,0 +1,22 @@
+﻿l_english:
+
+ droids_challenge_sprecialists_desired_value_change:0 "Droids Challenge Sprecialists Resting Point Change"
+ droids_challenge_sprecialists_desired_value_change_desc:0 "The amount we raise the resting point of our droids challenge sprecialists, ."
+ mod_country_base_droids_challenge_sprecialists_desired_value_change_produces_add:0 "Droids Challenge Sprecialists Resting Point Change"
+ mod_country_droids_challenge_sprecialists_desired_value_change_produces_add:0 "Droids Challenge Sprecialists Resting Point Change"
+
+ droids_challenge_sprecialists_current_value:0 "Droids Challenge Sprecialists"
+ droids_challenge_sprecialists_current_value_desc:0 "."
+ mod_country_base_droids_challenge_sprecialists_current_value_produces_add:0 "Monthly Droids Challenge Sprecialists Production"
+ mod_country_droids_challenge_sprecialists_current_value_produces_add:0 "Monthly Droids Challenge Sprecialists Production"
+
+ droids_challenge_sprecialists_current_value_trending_up:0 "Droids Challenge Sprecialists Trending Up"
+ droids_challenge_sprecialists_current_value_trending_down:0 "Droids Challenge Sprecialists Trending Down"
+
+ droids_challenge_sprecialists_desired_value:0 "Droids Challenge Sprecialists Resting Point"
+ droids_challenge_sprecialists_desired_value_desc:0 "The droids challenge sprecialists value we trend towards over time. It has a base value of 0."
+ mod_country_base_droids_challenge_sprecialists_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_droids_challenge_sprecialists_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_droids_challenge_sprecialists_values_updated:0 "Droids Challenge Sprecialists Values Updated"
+ droids_challenge_sprecialists_values_updated_message:0 "droids_challenge_sprecialists Current [Root.current_droids_challenge_sprecialists_current_value]\nDesired [Root.droids_challenge_sprecialists_new_desired_value]\nChange [Root.current_droids_challenge_sprecialists_desired_value_change]\nDelta [Root.delta_between_current_desired_droids_challenge_sprecialists]"

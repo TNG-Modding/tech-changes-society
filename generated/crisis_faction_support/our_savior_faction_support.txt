@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_selective_lineages_causes_our_savior_static_modifier" } }
+  our_savior_desired_value_change = 50
+}
+ 
+# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_selective_lineages_causes_our_savior_static_modifier" } }
+  our_savior_desired_value_change = -50
+}

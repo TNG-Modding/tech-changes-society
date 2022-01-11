@@ -1,0 +1,11 @@
+﻿# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_interstellar_fleet_traditions_causes_convoluted_fleet_traditions_static_modifier" } }
+  convoluted_fleet_traditions_desired_value_change = 50
+}
+ 
+# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_interstellar_fleet_traditions_causes_convoluted_fleet_traditions_static_modifier" } }
+  convoluted_fleet_traditions_desired_value_change = -50
+}

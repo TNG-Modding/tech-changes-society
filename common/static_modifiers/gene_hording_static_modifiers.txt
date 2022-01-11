@@ -1,0 +1,7 @@
+tech_gene_banks_causes_gene_hording_static_modifier = {
+	country_base_gene_hording_desired_value_change_produces_add = 75
+}
+
+gene_hording_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

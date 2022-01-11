@@ -1,0 +1,7 @@
+tech_offworld_trading_company_causes_galactic_trader_dominance_static_modifier = {
+	country_base_galactic_trader_dominance_desired_value_change_produces_add = 75
+}
+
+galactic_trader_dominance_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

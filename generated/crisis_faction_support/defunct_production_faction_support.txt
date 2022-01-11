@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_global_production_strategy_causes_defunct_production_static_modifier" } }
+  defunct_production_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_global_production_strategy_causes_defunct_production_static_modifier" } }
+  defunct_production_desired_value_change = -50
+}

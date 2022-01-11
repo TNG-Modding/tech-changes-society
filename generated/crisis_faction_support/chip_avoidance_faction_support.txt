@@ -1,0 +1,11 @@
+﻿# totalitarian
+produces = {
+  trigger = { owner = { has_modifier = "tech_neural_implants_causes_chip_avoidance_static_modifier" } }
+  chip_avoidance_desired_value_change = 50
+}
+ 
+# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_neural_implants_causes_chip_avoidance_static_modifier" } }
+  chip_avoidance_desired_value_change = -50
+}

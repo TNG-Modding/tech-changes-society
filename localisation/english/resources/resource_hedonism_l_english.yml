@@ -1,0 +1,22 @@
+﻿l_english:
+
+ hedonism_desired_value_change:0 "Hedonism Resting Point Change"
+ hedonism_desired_value_change_desc:0 "The amount we raise the resting point of our hedonism, ."
+ mod_country_base_hedonism_desired_value_change_produces_add:0 "Hedonism Resting Point Change"
+ mod_country_hedonism_desired_value_change_produces_add:0 "Hedonism Resting Point Change"
+
+ hedonism_current_value:0 "Hedonism"
+ hedonism_current_value_desc:0 "."
+ mod_country_base_hedonism_current_value_produces_add:0 "Monthly Hedonism Production"
+ mod_country_hedonism_current_value_produces_add:0 "Monthly Hedonism Production"
+
+ hedonism_current_value_trending_up:0 "Hedonism Trending Up"
+ hedonism_current_value_trending_down:0 "Hedonism Trending Down"
+
+ hedonism_desired_value:0 "Hedonism Resting Point"
+ hedonism_desired_value_desc:0 "The hedonism value we trend towards over time. It has a base value of 0."
+ mod_country_base_hedonism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_hedonism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_hedonism_values_updated:0 "Hedonism Values Updated"
+ hedonism_values_updated_message:0 "hedonism Current [Root.current_hedonism_current_value]\nDesired [Root.hedonism_new_desired_value]\nChange [Root.current_hedonism_desired_value_change]\nDelta [Root.delta_between_current_desired_hedonism]"

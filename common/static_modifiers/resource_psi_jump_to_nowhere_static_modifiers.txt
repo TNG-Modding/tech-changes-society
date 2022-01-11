@@ -1,0 +1,7 @@
+psi_jump_to_nowhere_current_value_trending_up = {
+	country_base_psi_jump_to_nowhere_current_value_produces_add = 1
+}
+
+psi_jump_to_nowhere_current_value_trending_down = {
+	country_base_psi_jump_to_nowhere_current_value_produces_add = -1
+}

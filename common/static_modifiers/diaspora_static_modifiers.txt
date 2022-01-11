@@ -1,0 +1,7 @@
+tech_galactic_bureaucracy_causes_diaspora_static_modifier = {
+	country_base_diaspora_desired_value_change_produces_add = 75
+}
+
+diaspora_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

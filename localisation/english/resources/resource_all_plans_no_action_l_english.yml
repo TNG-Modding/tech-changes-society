@@ -1,0 +1,22 @@
+﻿l_english:
+
+ all_plans_no_action_desired_value_change:0 "All Plans No Action Resting Point Change"
+ all_plans_no_action_desired_value_change_desc:0 "The amount we raise the resting point of our all plans no action, ."
+ mod_country_base_all_plans_no_action_desired_value_change_produces_add:0 "All Plans No Action Resting Point Change"
+ mod_country_all_plans_no_action_desired_value_change_produces_add:0 "All Plans No Action Resting Point Change"
+
+ all_plans_no_action_current_value:0 "All Plans No Action"
+ all_plans_no_action_current_value_desc:0 "."
+ mod_country_base_all_plans_no_action_current_value_produces_add:0 "Monthly All Plans No Action Production"
+ mod_country_all_plans_no_action_current_value_produces_add:0 "Monthly All Plans No Action Production"
+
+ all_plans_no_action_current_value_trending_up:0 "All Plans No Action Trending Up"
+ all_plans_no_action_current_value_trending_down:0 "All Plans No Action Trending Down"
+
+ all_plans_no_action_desired_value:0 "All Plans No Action Resting Point"
+ all_plans_no_action_desired_value_desc:0 "The all plans no action value we trend towards over time. It has a base value of 0."
+ mod_country_base_all_plans_no_action_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_all_plans_no_action_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_all_plans_no_action_values_updated:0 "All Plans No Action Values Updated"
+ all_plans_no_action_values_updated_message:0 "all_plans_no_action Current [Root.current_all_plans_no_action_current_value]\nDesired [Root.all_plans_no_action_new_desired_value]\nChange [Root.current_all_plans_no_action_desired_value_change]\nDelta [Root.delta_between_current_desired_all_plans_no_action]"

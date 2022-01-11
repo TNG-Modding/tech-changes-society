@@ -1,0 +1,22 @@
+﻿l_english:
+
+ convoluted_fleet_traditions_desired_value_change:0 "Convoluted Fleet Traditions Resting Point Change"
+ convoluted_fleet_traditions_desired_value_change_desc:0 "The amount we raise the resting point of our convoluted fleet traditions, ."
+ mod_country_base_convoluted_fleet_traditions_desired_value_change_produces_add:0 "Convoluted Fleet Traditions Resting Point Change"
+ mod_country_convoluted_fleet_traditions_desired_value_change_produces_add:0 "Convoluted Fleet Traditions Resting Point Change"
+
+ convoluted_fleet_traditions_current_value:0 "Convoluted Fleet Traditions"
+ convoluted_fleet_traditions_current_value_desc:0 "."
+ mod_country_base_convoluted_fleet_traditions_current_value_produces_add:0 "Monthly Convoluted Fleet Traditions Production"
+ mod_country_convoluted_fleet_traditions_current_value_produces_add:0 "Monthly Convoluted Fleet Traditions Production"
+
+ convoluted_fleet_traditions_current_value_trending_up:0 "Convoluted Fleet Traditions Trending Up"
+ convoluted_fleet_traditions_current_value_trending_down:0 "Convoluted Fleet Traditions Trending Down"
+
+ convoluted_fleet_traditions_desired_value:0 "Convoluted Fleet Traditions Resting Point"
+ convoluted_fleet_traditions_desired_value_desc:0 "The convoluted fleet traditions value we trend towards over time. It has a base value of 0."
+ mod_country_base_convoluted_fleet_traditions_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_convoluted_fleet_traditions_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_convoluted_fleet_traditions_values_updated:0 "Convoluted Fleet Traditions Values Updated"
+ convoluted_fleet_traditions_values_updated_message:0 "convoluted_fleet_traditions Current [Root.current_convoluted_fleet_traditions_current_value]\nDesired [Root.convoluted_fleet_traditions_new_desired_value]\nChange [Root.current_convoluted_fleet_traditions_desired_value_change]\nDelta [Root.delta_between_current_desired_convoluted_fleet_traditions]"

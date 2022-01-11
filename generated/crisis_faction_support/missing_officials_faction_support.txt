@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_the_living_state_causes_missing_officials_static_modifier" } }
+  missing_officials_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_the_living_state_causes_missing_officials_static_modifier" } }
+  missing_officials_desired_value_change = -50
+}

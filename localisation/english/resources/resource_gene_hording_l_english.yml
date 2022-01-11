@@ -1,0 +1,22 @@
+﻿l_english:
+
+ gene_hording_desired_value_change:0 "Gene Hording Resting Point Change"
+ gene_hording_desired_value_change_desc:0 "The amount we raise the resting point of our gene hording, ."
+ mod_country_base_gene_hording_desired_value_change_produces_add:0 "Gene Hording Resting Point Change"
+ mod_country_gene_hording_desired_value_change_produces_add:0 "Gene Hording Resting Point Change"
+
+ gene_hording_current_value:0 "Gene Hording"
+ gene_hording_current_value_desc:0 "."
+ mod_country_base_gene_hording_current_value_produces_add:0 "Monthly Gene Hording Production"
+ mod_country_gene_hording_current_value_produces_add:0 "Monthly Gene Hording Production"
+
+ gene_hording_current_value_trending_up:0 "Gene Hording Trending Up"
+ gene_hording_current_value_trending_down:0 "Gene Hording Trending Down"
+
+ gene_hording_desired_value:0 "Gene Hording Resting Point"
+ gene_hording_desired_value_desc:0 "The gene hording value we trend towards over time. It has a base value of 0."
+ mod_country_base_gene_hording_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_gene_hording_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_gene_hording_values_updated:0 "Gene Hording Values Updated"
+ gene_hording_values_updated_message:0 "gene_hording Current [Root.current_gene_hording_current_value]\nDesired [Root.gene_hording_new_desired_value]\nChange [Root.current_gene_hording_desired_value_change]\nDelta [Root.delta_between_current_desired_gene_hording]"

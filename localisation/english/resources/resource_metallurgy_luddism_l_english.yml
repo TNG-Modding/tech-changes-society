@@ -1,0 +1,22 @@
+﻿l_english:
+
+ metallurgy_luddism_desired_value_change:0 "Metallurgy Luddism Resting Point Change"
+ metallurgy_luddism_desired_value_change_desc:0 "The amount we raise the resting point of our metallurgy luddism, ."
+ mod_country_base_metallurgy_luddism_desired_value_change_produces_add:0 "Metallurgy Luddism Resting Point Change"
+ mod_country_metallurgy_luddism_desired_value_change_produces_add:0 "Metallurgy Luddism Resting Point Change"
+
+ metallurgy_luddism_current_value:0 "Metallurgy Luddism"
+ metallurgy_luddism_current_value_desc:0 "."
+ mod_country_base_metallurgy_luddism_current_value_produces_add:0 "Monthly Metallurgy Luddism Production"
+ mod_country_metallurgy_luddism_current_value_produces_add:0 "Monthly Metallurgy Luddism Production"
+
+ metallurgy_luddism_current_value_trending_up:0 "Metallurgy Luddism Trending Up"
+ metallurgy_luddism_current_value_trending_down:0 "Metallurgy Luddism Trending Down"
+
+ metallurgy_luddism_desired_value:0 "Metallurgy Luddism Resting Point"
+ metallurgy_luddism_desired_value_desc:0 "The metallurgy luddism value we trend towards over time. It has a base value of 0."
+ mod_country_base_metallurgy_luddism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_metallurgy_luddism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_metallurgy_luddism_values_updated:0 "Metallurgy Luddism Values Updated"
+ metallurgy_luddism_values_updated_message:0 "metallurgy_luddism Current [Root.current_metallurgy_luddism_current_value]\nDesired [Root.metallurgy_luddism_new_desired_value]\nChange [Root.current_metallurgy_luddism_desired_value_change]\nDelta [Root.delta_between_current_desired_metallurgy_luddism]"

@@ -1,0 +1,7 @@
+tech_xenology_causes_xeno_theft_static_modifier = {
+	country_base_xeno_theft_desired_value_change_produces_add = 75
+}
+
+xeno_theft_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

@@ -1,0 +1,7 @@
+onward_and_downward_current_value_trending_up = {
+	country_base_onward_and_downward_current_value_produces_add = 1
+}
+
+onward_and_downward_current_value_trending_down = {
+	country_base_onward_and_downward_current_value_produces_add = -1
+}

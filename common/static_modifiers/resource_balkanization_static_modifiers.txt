@@ -1,0 +1,7 @@
+balkanization_current_value_trending_up = {
+	country_base_balkanization_current_value_produces_add = 1
+}
+
+balkanization_current_value_trending_down = {
+	country_base_balkanization_current_value_produces_add = -1
+}

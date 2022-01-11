@@ -1,0 +1,7 @@
+tech_colonial_centralization_causes_colonial_backwaters_static_modifier = {
+	country_base_colonial_backwaters_desired_value_change_produces_add = 75
+}
+
+colonial_backwaters_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

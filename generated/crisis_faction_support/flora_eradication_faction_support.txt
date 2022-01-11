@@ -1,0 +1,11 @@
+﻿# prosperity
+produces = {
+  trigger = { owner = { has_modifier = "tech_terrestial_sculpting_causes_flora_eradication_static_modifier" } }
+  flora_eradication_desired_value_change = 50
+}
+ 
+# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_terrestial_sculpting_causes_flora_eradication_static_modifier" } }
+  flora_eradication_desired_value_change = -50
+}

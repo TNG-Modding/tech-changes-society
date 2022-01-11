@@ -1,0 +1,22 @@
+﻿l_english:
+
+ psi_jump_to_nowhere_desired_value_change:0 "Psi Jump to Nowhere Resting Point Change"
+ psi_jump_to_nowhere_desired_value_change_desc:0 "The amount we raise the resting point of our psi jump to nowhere, ."
+ mod_country_base_psi_jump_to_nowhere_desired_value_change_produces_add:0 "Psi Jump to Nowhere Resting Point Change"
+ mod_country_psi_jump_to_nowhere_desired_value_change_produces_add:0 "Psi Jump to Nowhere Resting Point Change"
+
+ psi_jump_to_nowhere_current_value:0 "Psi Jump to Nowhere"
+ psi_jump_to_nowhere_current_value_desc:0 "."
+ mod_country_base_psi_jump_to_nowhere_current_value_produces_add:0 "Monthly Psi Jump to Nowhere Production"
+ mod_country_psi_jump_to_nowhere_current_value_produces_add:0 "Monthly Psi Jump to Nowhere Production"
+
+ psi_jump_to_nowhere_current_value_trending_up:0 "Psi Jump to Nowhere Trending Up"
+ psi_jump_to_nowhere_current_value_trending_down:0 "Psi Jump to Nowhere Trending Down"
+
+ psi_jump_to_nowhere_desired_value:0 "Psi Jump to Nowhere Resting Point"
+ psi_jump_to_nowhere_desired_value_desc:0 "The psi jump to nowhere value we trend towards over time. It has a base value of 0."
+ mod_country_base_psi_jump_to_nowhere_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_psi_jump_to_nowhere_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_psi_jump_to_nowhere_values_updated:0 "Psi Jump to Nowhere Values Updated"
+ psi_jump_to_nowhere_values_updated_message:0 "psi_jump_to_nowhere Current [Root.current_psi_jump_to_nowhere_current_value]\nDesired [Root.psi_jump_to_nowhere_new_desired_value]\nChange [Root.current_psi_jump_to_nowhere_desired_value_change]\nDelta [Root.delta_between_current_desired_psi_jump_to_nowhere]"

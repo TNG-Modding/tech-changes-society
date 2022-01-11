@@ -1,0 +1,11 @@
+﻿# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_psi_jump_drive_causes_psi_jump_to_nowhere_static_modifier" } }
+  psi_jump_to_nowhere_desired_value_change = 50
+}
+ 
+# supremacist
+produces = {
+  trigger = { owner = { has_modifier = "tech_psi_jump_drive_causes_psi_jump_to_nowhere_static_modifier" } }
+  psi_jump_to_nowhere_desired_value_change = -50
+}

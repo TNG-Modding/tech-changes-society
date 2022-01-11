@@ -1,0 +1,7 @@
+tech_dark_matter_drawing_causes_the_void_static_modifier = {
+	country_base_the_void_desired_value_change_produces_add = 75
+}
+
+the_void_static_modifier = {
+	job_criminal_per_pop = 0.05
+}

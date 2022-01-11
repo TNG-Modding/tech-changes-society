@@ -1,0 +1,7 @@
+xeno_theft_current_value_trending_up = {
+	country_base_xeno_theft_current_value_produces_add = 1
+}
+
+xeno_theft_current_value_trending_down = {
+	country_base_xeno_theft_current_value_produces_add = -1
+}

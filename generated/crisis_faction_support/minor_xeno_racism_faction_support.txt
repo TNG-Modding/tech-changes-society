@@ -1,0 +1,11 @@
+﻿# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_epigenetic_triggers_causes_minor_xeno_racism_static_modifier" } }
+  minor_xeno_racism_desired_value_change = 50
+}
+ 
+# technologist
+produces = {
+  trigger = { owner = { has_modifier = "tech_epigenetic_triggers_causes_minor_xeno_racism_static_modifier" } }
+  minor_xeno_racism_desired_value_change = -50
+}

@@ -1,0 +1,22 @@
+﻿l_english:
+
+ habitat_vagabondism_desired_value_change:0 "Habitat Vagabondism Resting Point Change"
+ habitat_vagabondism_desired_value_change_desc:0 "The amount we raise the resting point of our habitat vagabondism, ."
+ mod_country_base_habitat_vagabondism_desired_value_change_produces_add:0 "Habitat Vagabondism Resting Point Change"
+ mod_country_habitat_vagabondism_desired_value_change_produces_add:0 "Habitat Vagabondism Resting Point Change"
+
+ habitat_vagabondism_current_value:0 "Habitat Vagabondism"
+ habitat_vagabondism_current_value_desc:0 "."
+ mod_country_base_habitat_vagabondism_current_value_produces_add:0 "Monthly Habitat Vagabondism Production"
+ mod_country_habitat_vagabondism_current_value_produces_add:0 "Monthly Habitat Vagabondism Production"
+
+ habitat_vagabondism_current_value_trending_up:0 "Habitat Vagabondism Trending Up"
+ habitat_vagabondism_current_value_trending_down:0 "Habitat Vagabondism Trending Down"
+
+ habitat_vagabondism_desired_value:0 "Habitat Vagabondism Resting Point"
+ habitat_vagabondism_desired_value_desc:0 "The habitat vagabondism value we trend towards over time. It has a base value of 0."
+ mod_country_base_habitat_vagabondism_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_habitat_vagabondism_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_habitat_vagabondism_values_updated:0 "Habitat Vagabondism Values Updated"
+ habitat_vagabondism_values_updated_message:0 "habitat_vagabondism Current [Root.current_habitat_vagabondism_current_value]\nDesired [Root.habitat_vagabondism_new_desired_value]\nChange [Root.current_habitat_vagabondism_desired_value_change]\nDelta [Root.delta_between_current_desired_habitat_vagabondism]"

@@ -1,0 +1,11 @@
+﻿# xenoist
+produces = {
+  trigger = { owner = { has_modifier = "tech_matter_decompressor_causes_wasteful_decompression_static_modifier" } }
+  wasteful_decompression_desired_value_change = 50
+}
+ 
+# progressive
+produces = {
+  trigger = { owner = { has_modifier = "tech_matter_decompressor_causes_wasteful_decompression_static_modifier" } }
+  wasteful_decompression_desired_value_change = -50
+}

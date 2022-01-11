@@ -1,0 +1,22 @@
+﻿l_english:
+
+ galactic_trader_dominance_desired_value_change:0 "Galactic Trader Dominance Resting Point Change"
+ galactic_trader_dominance_desired_value_change_desc:0 "The amount we raise the resting point of our galactic trader dominance, ."
+ mod_country_base_galactic_trader_dominance_desired_value_change_produces_add:0 "Galactic Trader Dominance Resting Point Change"
+ mod_country_galactic_trader_dominance_desired_value_change_produces_add:0 "Galactic Trader Dominance Resting Point Change"
+
+ galactic_trader_dominance_current_value:0 "Galactic Trader Dominance"
+ galactic_trader_dominance_current_value_desc:0 "."
+ mod_country_base_galactic_trader_dominance_current_value_produces_add:0 "Monthly Galactic Trader Dominance Production"
+ mod_country_galactic_trader_dominance_current_value_produces_add:0 "Monthly Galactic Trader Dominance Production"
+
+ galactic_trader_dominance_current_value_trending_up:0 "Galactic Trader Dominance Trending Up"
+ galactic_trader_dominance_current_value_trending_down:0 "Galactic Trader Dominance Trending Down"
+
+ galactic_trader_dominance_desired_value:0 "Galactic Trader Dominance Resting Point"
+ galactic_trader_dominance_desired_value_desc:0 "The galactic trader dominance value we trend towards over time. It has a base value of 0."
+ mod_country_base_galactic_trader_dominance_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_galactic_trader_dominance_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_galactic_trader_dominance_values_updated:0 "Galactic Trader Dominance Values Updated"
+ galactic_trader_dominance_values_updated_message:0 "galactic_trader_dominance Current [Root.current_galactic_trader_dominance_current_value]\nDesired [Root.galactic_trader_dominance_new_desired_value]\nChange [Root.current_galactic_trader_dominance_desired_value_change]\nDelta [Root.delta_between_current_desired_galactic_trader_dominance]"

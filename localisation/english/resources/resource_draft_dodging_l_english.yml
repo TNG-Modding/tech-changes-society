@@ -1,0 +1,22 @@
+﻿l_english:
+
+ draft_dodging_desired_value_change:0 "Draft Dodging Resting Point Change"
+ draft_dodging_desired_value_change_desc:0 "The amount we raise the resting point of our draft dodging, ."
+ mod_country_base_draft_dodging_desired_value_change_produces_add:0 "Draft Dodging Resting Point Change"
+ mod_country_draft_dodging_desired_value_change_produces_add:0 "Draft Dodging Resting Point Change"
+
+ draft_dodging_current_value:0 "Draft Dodging"
+ draft_dodging_current_value_desc:0 "."
+ mod_country_base_draft_dodging_current_value_produces_add:0 "Monthly Draft Dodging Production"
+ mod_country_draft_dodging_current_value_produces_add:0 "Monthly Draft Dodging Production"
+
+ draft_dodging_current_value_trending_up:0 "Draft Dodging Trending Up"
+ draft_dodging_current_value_trending_down:0 "Draft Dodging Trending Down"
+
+ draft_dodging_desired_value:0 "Draft Dodging Resting Point"
+ draft_dodging_desired_value_desc:0 "The draft dodging value we trend towards over time. It has a base value of 0."
+ mod_country_base_draft_dodging_desired_value_produces_add:0 "This shouldn't be visible"
+ mod_country_draft_dodging_desired_value_produces_add:0 "This shouldn't be visible"
+
+ message_draft_dodging_values_updated:0 "Draft Dodging Values Updated"
+ draft_dodging_values_updated_message:0 "draft_dodging Current [Root.current_draft_dodging_current_value]\nDesired [Root.draft_dodging_new_desired_value]\nChange [Root.current_draft_dodging_desired_value_change]\nDelta [Root.delta_between_current_desired_draft_dodging]"
