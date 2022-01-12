@@ -1,0 +1,11 @@
+on_game_start_country = {
+	events = {
+		over_eager_diplomacy_desired_resource_events.1
+	}
+}
+
+on_monthly_pulse_country = {
+	events = {
+		over_eager_diplomacy_desired_resource_events.1
+	}
+}

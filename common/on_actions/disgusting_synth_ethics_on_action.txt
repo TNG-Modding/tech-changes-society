@@ -1,0 +1,11 @@
+on_game_start_country = {
+	events = {
+		disgusting_synth_ethics_desired_resource_events.1
+	}
+}
+
+on_monthly_pulse_country = {
+	events = {
+		disgusting_synth_ethics_desired_resource_events.1
+	}
+}

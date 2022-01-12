@@ -109,6 +109,15 @@
             "isBom": false
         },
         {
+            "name": "Crisis Desired Resource On Action",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_on_action",
+            "outputDirectoryPath": "../common/on_actions",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
             "name": "Crisis Event Localizations",
             "specFilePath": "./specs/crises.json",
             "templateDirectoryPath": "./templates/crises/crisis_event_localization",

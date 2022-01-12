@@ -1,0 +1,11 @@
+on_game_start_country = {
+	events = {
+		all_plans_no_action_desired_resource_events.1
+	}
+}
+
+on_monthly_pulse_country = {
+	events = {
+		all_plans_no_action_desired_resource_events.1
+	}
+}
