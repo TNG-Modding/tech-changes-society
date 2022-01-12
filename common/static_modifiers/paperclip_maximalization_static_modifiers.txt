@@ -1,5 +1,5 @@
 tech_administrative_ai_causes_paperclip_maximalization_static_modifier = {
-	country_base_paperclip_maximalization_desired_value_change_produces_add = 75
+	country_base_paperclip_maximalization_desired_value_change_produces_add = 50
 }
 
 paperclip_maximalization_static_modifier = {

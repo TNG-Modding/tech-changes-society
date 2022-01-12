@@ -1,5 +1,5 @@
 tech_capacity_boosters_causes_genetic_infanticide_static_modifier = {
-	country_base_genetic_infanticide_desired_value_change_produces_add = 75
+	country_base_genetic_infanticide_desired_value_change_produces_add = 50
 }
 
 genetic_infanticide_static_modifier = {

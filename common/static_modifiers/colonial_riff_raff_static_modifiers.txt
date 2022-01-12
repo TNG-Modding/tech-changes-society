@@ -1,5 +1,5 @@
-tech_self_aware_colony_ships_causes_colonial_riff_raff_static_modifier = {
-	country_base_colonial_riff_raff_desired_value_change_produces_add = 75
+tech_cryostasis_2_causes_colonial_riff_raff_static_modifier = {
+	country_base_colonial_riff_raff_desired_value_change_produces_add = 50
 }
 
 colonial_riff_raff_static_modifier = {

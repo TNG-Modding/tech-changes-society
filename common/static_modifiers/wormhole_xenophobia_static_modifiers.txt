@@ -1,5 +1,5 @@
 tech_wormhole_stabilization_causes_wormhole_xenophobia_static_modifier = {
-	country_base_wormhole_xenophobia_desired_value_change_produces_add = 75
+	country_base_wormhole_xenophobia_desired_value_change_produces_add = 50
 }
 
 wormhole_xenophobia_static_modifier = {

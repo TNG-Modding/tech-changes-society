@@ -1,5 +1,5 @@
 tech_precognition_interface_causes_artificial_friendly_fire_static_modifier = {
-	country_base_artificial_friendly_fire_desired_value_change_produces_add = 75
+	country_base_artificial_friendly_fire_desired_value_change_produces_add = 50
 }
 
 artificial_friendly_fire_static_modifier = {

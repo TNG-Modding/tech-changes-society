@@ -1,11 +1,11 @@
 ﻿# traditionalist
 produces = {
-  trigger = { owner = { has_modifier = "tech_interplanetary_research_initiative_causes_entrenched_academia_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_global_research_initiative_causes_entrenched_academia_static_modifier" } }
   entrenched_academia_desired_value_change = 50
 }
  
 # prosperity
 produces = {
-  trigger = { owner = { has_modifier = "tech_interplanetary_research_initiative_causes_entrenched_academia_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_global_research_initiative_causes_entrenched_academia_static_modifier" } }
   entrenched_academia_desired_value_change = -50
 }

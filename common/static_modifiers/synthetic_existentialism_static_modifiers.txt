@@ -1,5 +1,5 @@
-tech_synthetics_causes_synthetic_existentialism_static_modifier = {
-	country_base_synthetic_existentialism_desired_value_change_produces_add = 75
+tech_synthetic_workers_causes_synthetic_existentialism_static_modifier = {
+	country_base_synthetic_existentialism_desired_value_change_produces_add = 50
 }
 
 synthetic_existentialism_static_modifier = {

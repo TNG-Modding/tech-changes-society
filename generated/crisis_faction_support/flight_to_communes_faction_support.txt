@@ -1,11 +1,11 @@
 ﻿# progressive
 produces = {
-  trigger = { owner = { has_modifier = "tech_agrarian_utopias_causes_flight_to_communes_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_housing_agrarian_idyll_causes_flight_to_communes_static_modifier" } }
   flight_to_communes_desired_value_change = 50
 }
  
 # technologist
 produces = {
-  trigger = { owner = { has_modifier = "tech_agrarian_utopias_causes_flight_to_communes_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_housing_agrarian_idyll_causes_flight_to_communes_static_modifier" } }
   flight_to_communes_desired_value_change = -50
 }

@@ -1,5 +1,5 @@
 {{triggeredByTechnology}}_causes_{{varname}}_static_modifier = {
-	country_base_{{varname}}_desired_value_change_produces_add = 75
+	country_base_{{varname}}_desired_value_change_produces_add = 50
 }
 
 {{varname}}_static_modifier = {

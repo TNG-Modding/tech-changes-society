@@ -1,11 +1,11 @@
 ﻿# totalitarian
 produces = {
-  trigger = { owner = { has_modifier = "tech_ecological_adapation_causes_foreign_corvee_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_ecological_adaptation_causes_foreign_corvee_static_modifier" } }
   foreign_corvee_desired_value_change = 50
 }
  
 # traditionalist
 produces = {
-  trigger = { owner = { has_modifier = "tech_ecological_adapation_causes_foreign_corvee_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_ecological_adaptation_causes_foreign_corvee_static_modifier" } }
   foreign_corvee_desired_value_change = -50
 }

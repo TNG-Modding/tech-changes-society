@@ -1,5 +1,5 @@
-tech_mote_stabilization_causes_acceptable_xeno_casualities_static_modifier = {
-	country_base_acceptable_xeno_casualities_desired_value_change_produces_add = 75
+tech_mine_volatile_motes_causes_acceptable_xeno_casualities_static_modifier = {
+	country_base_acceptable_xeno_casualities_desired_value_change_produces_add = 50
 }
 
 acceptable_xeno_casualities_static_modifier = {

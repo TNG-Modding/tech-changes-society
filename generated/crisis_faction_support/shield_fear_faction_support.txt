@@ -1,11 +1,11 @@
 ﻿# prosperity
 produces = {
-  trigger = { owner = { has_modifier = "tech_planetary_shields_causes_shield_fear_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_planetary_shield_generator_causes_shield_fear_static_modifier" } }
   shield_fear_desired_value_change = 50
 }
  
 # imperialist
 produces = {
-  trigger = { owner = { has_modifier = "tech_planetary_shields_causes_shield_fear_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_planetary_shield_generator_causes_shield_fear_static_modifier" } }
   shield_fear_desired_value_change = -50
 }

@@ -1,5 +1,5 @@
 tech_cloning_causes_draft_dodging_static_modifier = {
-	country_base_draft_dodging_desired_value_change_produces_add = 75
+	country_base_draft_dodging_desired_value_change_produces_add = 50
 }
 
 draft_dodging_static_modifier = {

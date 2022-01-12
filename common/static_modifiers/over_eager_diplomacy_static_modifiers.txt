@@ -1,5 +1,5 @@
 tech_interstellar_assembly_causes_over_eager_diplomacy_static_modifier = {
-	country_base_over_eager_diplomacy_desired_value_change_produces_add = 75
+	country_base_over_eager_diplomacy_desired_value_change_produces_add = 50
 }
 
 over_eager_diplomacy_static_modifier = {

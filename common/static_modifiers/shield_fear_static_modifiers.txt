@@ -1,5 +1,5 @@
-tech_planetary_shields_causes_shield_fear_static_modifier = {
-	country_base_shield_fear_desired_value_change_produces_add = 75
+tech_planetary_shield_generator_causes_shield_fear_static_modifier = {
+	country_base_shield_fear_desired_value_change_produces_add = 50
 }
 
 shield_fear_static_modifier = {

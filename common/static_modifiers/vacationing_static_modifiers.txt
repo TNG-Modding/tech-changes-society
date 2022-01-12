@@ -1,5 +1,5 @@
-tech_resort_worlds_causes_vacationing_static_modifier = {
-	country_base_vacationing_desired_value_change_produces_add = 75
+tech_resort_colonies_causes_vacationing_static_modifier = {
+	country_base_vacationing_desired_value_change_produces_add = 50
 }
 
 vacationing_static_modifier = {

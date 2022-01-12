@@ -1,5 +1,5 @@
 tech_genome_mapping_causes_healthcare_crisis_static_modifier = {
-	country_base_healthcare_crisis_desired_value_change_produces_add = 75
+	country_base_healthcare_crisis_desired_value_change_produces_add = 50
 }
 
 healthcare_crisis_static_modifier = {

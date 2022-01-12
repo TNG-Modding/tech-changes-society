@@ -1,5 +1,5 @@
-tech_selective_lineages_causes_our_savior_static_modifier = {
-	country_base_our_savior_desired_value_change_produces_add = 75
+tech_selected_lineages_causes_our_savior_static_modifier = {
+	country_base_our_savior_desired_value_change_produces_add = 50
 }
 
 our_savior_static_modifier = {

@@ -1,5 +1,5 @@
-tech_mega_art_installation_causes_gaudy_art_static_modifier = {
-	country_base_gaudy_art_desired_value_change_produces_add = 75
+tech_mega_art_causes_gaudy_art_static_modifier = {
+	country_base_gaudy_art_desired_value_change_produces_add = 50
 }
 
 gaudy_art_static_modifier = {

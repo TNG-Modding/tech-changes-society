@@ -1,5 +1,5 @@
 tech_thought_enforcement_causes_monothought_static_modifier = {
-	country_base_monothought_desired_value_change_produces_add = 75
+	country_base_monothought_desired_value_change_produces_add = 50
 }
 
 monothought_static_modifier = {

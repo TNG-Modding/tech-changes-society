@@ -1,11 +1,11 @@
 ﻿# technologist
 produces = {
-  trigger = { owner = { has_modifier = "tech_jump_drive_causes_jump_crime_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_jump_drive_1_causes_jump_crime_static_modifier" } }
   jump_crime_desired_value_change = 50
 }
  
 # imperialist
 produces = {
-  trigger = { owner = { has_modifier = "tech_jump_drive_causes_jump_crime_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_jump_drive_1_causes_jump_crime_static_modifier" } }
   jump_crime_desired_value_change = -50
 }

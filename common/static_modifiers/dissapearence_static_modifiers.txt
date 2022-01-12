@@ -1,5 +1,5 @@
 tech_tracking_implants_causes_dissapearence_static_modifier = {
-	country_base_dissapearence_desired_value_change_produces_add = 75
+	country_base_dissapearence_desired_value_change_produces_add = 50
 }
 
 dissapearence_static_modifier = {

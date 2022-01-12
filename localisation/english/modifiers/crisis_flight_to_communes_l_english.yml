@@ -1,4 +1,4 @@
 ﻿l_english:
 
- tech_agrarian_utopias_causes_flight_to_communes_static_modifier:0 "$tech_agrarian_utopias$ and Flight to Communes"
+ tech_housing_agrarian_idyll_causes_flight_to_communes_static_modifier:0 "$tech_housing_agrarian_idyll$ and Flight to Communes"
  flight_to_communes_static_modifier:0 "Flight to Communes Crisis!"

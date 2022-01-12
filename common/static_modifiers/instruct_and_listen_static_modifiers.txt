@@ -1,5 +1,5 @@
-tech_doctrine_strange_loop_causes_instruct_and_listen_static_modifier = {
-	country_base_instruct_and_listen_desired_value_change_produces_add = 75
+tech_akx_worm_2_causes_instruct_and_listen_static_modifier = {
+	country_base_instruct_and_listen_desired_value_change_produces_add = 50
 }
 
 instruct_and_listen_static_modifier = {

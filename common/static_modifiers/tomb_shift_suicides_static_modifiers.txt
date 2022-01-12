@@ -1,5 +1,5 @@
-tech_tomb_world_adapation_causes_tomb_shift_suicides_static_modifier = {
-	country_base_tomb_shift_suicides_desired_value_change_produces_add = 75
+tech_tomb_world_adaption_causes_tomb_shift_suicides_static_modifier = {
+	country_base_tomb_shift_suicides_desired_value_change_produces_add = 50
 }
 
 tomb_shift_suicides_static_modifier = {

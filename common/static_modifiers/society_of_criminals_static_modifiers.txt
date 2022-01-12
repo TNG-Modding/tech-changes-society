@@ -1,5 +1,5 @@
 tech_penal_colonies_causes_society_of_criminals_static_modifier = {
-	country_base_society_of_criminals_desired_value_change_produces_add = 75
+	country_base_society_of_criminals_desired_value_change_produces_add = 50
 }
 
 society_of_criminals_static_modifier = {

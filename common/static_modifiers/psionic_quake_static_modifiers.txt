@@ -1,5 +1,5 @@
 tech_psionic_theory_causes_psionic_quake_static_modifier = {
-	country_base_psionic_quake_desired_value_change_produces_add = 75
+	country_base_psionic_quake_desired_value_change_produces_add = 50
 }
 
 psionic_quake_static_modifier = {

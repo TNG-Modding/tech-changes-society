@@ -1,5 +1,5 @@
 tech_construction_templates_causes_architectural_dark_age_static_modifier = {
-	country_base_architectural_dark_age_desired_value_change_produces_add = 75
+	country_base_architectural_dark_age_desired_value_change_produces_add = 50
 }
 
 architectural_dark_age_static_modifier = {

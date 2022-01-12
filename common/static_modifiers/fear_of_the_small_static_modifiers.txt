@@ -1,5 +1,5 @@
 tech_nanite_transmutation_causes_fear_of_the_small_static_modifier = {
-	country_base_fear_of_the_small_desired_value_change_produces_add = 75
+	country_base_fear_of_the_small_desired_value_change_produces_add = 50
 }
 
 fear_of_the_small_static_modifier = {

@@ -1,11 +1,11 @@
 ﻿# totalitarian
 produces = {
-  trigger = { owner = { has_modifier = "tech_tomb_world_adapation_causes_tomb_shift_suicides_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_tomb_world_adaption_causes_tomb_shift_suicides_static_modifier" } }
   tomb_shift_suicides_desired_value_change = 50
 }
  
 # xenoist
 produces = {
-  trigger = { owner = { has_modifier = "tech_tomb_world_adapation_causes_tomb_shift_suicides_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_tomb_world_adaption_causes_tomb_shift_suicides_static_modifier" } }
   tomb_shift_suicides_desired_value_change = -50
 }

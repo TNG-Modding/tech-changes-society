@@ -1,11 +1,11 @@
 ﻿# imperialist
 produces = {
-  trigger = { owner = { has_modifier = "tech_doctrine_strange_loop_causes_instruct_and_listen_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_akx_worm_2_causes_instruct_and_listen_static_modifier" } }
   instruct_and_listen_desired_value_change = 50
 }
  
 # xenoist
 produces = {
-  trigger = { owner = { has_modifier = "tech_doctrine_strange_loop_causes_instruct_and_listen_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_akx_worm_2_causes_instruct_and_listen_static_modifier" } }
   instruct_and_listen_desired_value_change = -50
 }

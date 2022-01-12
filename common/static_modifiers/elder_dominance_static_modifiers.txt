@@ -1,5 +1,5 @@
 tech_vitality_boosters_causes_elder_dominance_static_modifier = {
-	country_base_elder_dominance_desired_value_change_produces_add = 75
+	country_base_elder_dominance_desired_value_change_produces_add = 50
 }
 
 elder_dominance_static_modifier = {

@@ -1,5 +1,5 @@
 tech_subdermal_stimulation_causes_hedonism_static_modifier = {
-	country_base_hedonism_desired_value_change_produces_add = 75
+	country_base_hedonism_desired_value_change_produces_add = 50
 }
 
 hedonism_static_modifier = {

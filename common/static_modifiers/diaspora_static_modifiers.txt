@@ -1,5 +1,5 @@
 tech_galactic_bureaucracy_causes_diaspora_static_modifier = {
-	country_base_diaspora_desired_value_change_produces_add = 75
+	country_base_diaspora_desired_value_change_produces_add = 50
 }
 
 diaspora_static_modifier = {

@@ -1,5 +1,5 @@
 tech_climate_restoration_causes_civilian_bombing_static_modifier = {
-	country_base_civilian_bombing_desired_value_change_produces_add = 75
+	country_base_civilian_bombing_desired_value_change_produces_add = 50
 }
 
 civilian_bombing_static_modifier = {

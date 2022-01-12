@@ -1,5 +1,5 @@
 tech_nutrient_replication_causes_foreign_waste_crops_static_modifier = {
-	country_base_foreign_waste_crops_desired_value_change_produces_add = 75
+	country_base_foreign_waste_crops_desired_value_change_produces_add = 50
 }
 
 foreign_waste_crops_static_modifier = {

@@ -1,5 +1,5 @@
-tech_orbital_habitats_causes_habitat_vagabondism_static_modifier = {
-	country_base_habitat_vagabondism_desired_value_change_produces_add = 75
+tech_habitat_1_causes_habitat_vagabondism_static_modifier = {
+	country_base_habitat_vagabondism_desired_value_change_produces_add = 50
 }
 
 habitat_vagabondism_static_modifier = {

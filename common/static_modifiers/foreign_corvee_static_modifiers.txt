@@ -1,5 +1,5 @@
-tech_ecological_adapation_causes_foreign_corvee_static_modifier = {
-	country_base_foreign_corvee_desired_value_change_produces_add = 75
+tech_ecological_adaptation_causes_foreign_corvee_static_modifier = {
+	country_base_foreign_corvee_desired_value_change_produces_add = 50
 }
 
 foreign_corvee_static_modifier = {

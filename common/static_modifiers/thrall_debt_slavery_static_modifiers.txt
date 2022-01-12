@@ -1,5 +1,5 @@
-tech_thrall_worlds_causes_thrall_debt_slavery_static_modifier = {
-	country_base_thrall_debt_slavery_desired_value_change_produces_add = 75
+tech_slave_colonies_causes_thrall_debt_slavery_static_modifier = {
+	country_base_thrall_debt_slavery_desired_value_change_produces_add = 50
 }
 
 thrall_debt_slavery_static_modifier = {

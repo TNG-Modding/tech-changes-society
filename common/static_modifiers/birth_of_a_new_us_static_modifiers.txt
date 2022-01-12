@@ -1,5 +1,5 @@
-tech_targeted_gene_expressions_causes_birth_of_a_new_us_static_modifier = {
-	country_base_birth_of_a_new_us_desired_value_change_produces_add = 75
+tech_gene_expressions_causes_birth_of_a_new_us_static_modifier = {
+	country_base_birth_of_a_new_us_desired_value_change_produces_add = 50
 }
 
 birth_of_a_new_us_static_modifier = {

@@ -1,5 +1,5 @@
-tech_galatic_markets_causes_non-competative_market_static_modifier = {
-	country_base_non-competative_market_desired_value_change_produces_add = 75
+tech_galactic_markets_causes_non-competative_market_static_modifier = {
+	country_base_non-competative_market_desired_value_change_produces_add = 50
 }
 
 non-competative_market_static_modifier = {

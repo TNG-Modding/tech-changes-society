@@ -1,5 +1,5 @@
 tech_ring_world_causes_ring_relocation_static_modifier = {
-	country_base_ring_relocation_desired_value_change_produces_add = 75
+	country_base_ring_relocation_desired_value_change_produces_add = 50
 }
 
 ring_relocation_static_modifier = {

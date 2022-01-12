@@ -1,11 +1,11 @@
 ﻿# prosperity
 produces = {
-  trigger = { owner = { has_modifier = "tech_synthetics_causes_synthetic_existentialism_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_synthetic_workers_causes_synthetic_existentialism_static_modifier" } }
   synthetic_existentialism_desired_value_change = 50
 }
  
 # xenoist
 produces = {
-  trigger = { owner = { has_modifier = "tech_synthetics_causes_synthetic_existentialism_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_synthetic_workers_causes_synthetic_existentialism_static_modifier" } }
   synthetic_existentialism_desired_value_change = -50
 }

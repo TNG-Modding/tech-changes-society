@@ -1,5 +1,5 @@
-tech_sapient_combat_ai_causes_ai_warlordism_static_modifier = {
-	country_base_ai_warlordism_desired_value_change_produces_add = 75
+tech_combat_computers_3_causes_ai_warlordism_static_modifier = {
+	country_base_ai_warlordism_desired_value_change_produces_add = 50
 }
 
 ai_warlordism_static_modifier = {

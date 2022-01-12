@@ -1,5 +1,5 @@
 tech_neural_implants_causes_chip_avoidance_static_modifier = {
-	country_base_chip_avoidance_desired_value_change_produces_add = 75
+	country_base_chip_avoidance_desired_value_change_produces_add = 50
 }
 
 chip_avoidance_static_modifier = {

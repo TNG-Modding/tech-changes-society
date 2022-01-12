@@ -1,5 +1,5 @@
 tech_morphogenetic_field_mastery_causes_mutant_horde_static_modifier = {
-	country_base_mutant_horde_desired_value_change_produces_add = 75
+	country_base_mutant_horde_desired_value_change_produces_add = 50
 }
 
 mutant_horde_static_modifier = {

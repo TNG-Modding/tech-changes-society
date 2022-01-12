@@ -1,11 +1,11 @@
 ﻿# traditionalist
 produces = {
-  trigger = { owner = { has_modifier = "tech_mega_art_installation_causes_gaudy_art_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_mega_art_causes_gaudy_art_static_modifier" } }
   gaudy_art_desired_value_change = 50
 }
  
 # supremacy
 produces = {
-  trigger = { owner = { has_modifier = "tech_mega_art_installation_causes_gaudy_art_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_mega_art_causes_gaudy_art_static_modifier" } }
   gaudy_art_desired_value_change = -50
 }

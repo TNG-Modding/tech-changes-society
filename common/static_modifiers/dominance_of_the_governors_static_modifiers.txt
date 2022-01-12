@@ -1,5 +1,5 @@
 tech_colonial_bureaucracy_causes_dominance_of_the_governors_static_modifier = {
-	country_base_dominance_of_the_governors_desired_value_change_produces_add = 75
+	country_base_dominance_of_the_governors_desired_value_change_produces_add = 50
 }
 
 dominance_of_the_governors_static_modifier = {

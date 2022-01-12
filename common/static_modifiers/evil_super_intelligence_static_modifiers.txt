@@ -1,5 +1,5 @@
-tech_positronic_ai_causes_evil_super_intelligence_static_modifier = {
-	country_base_evil_super_intelligence_desired_value_change_produces_add = 75
+tech_sapient_ai_causes_evil_super_intelligence_static_modifier = {
+	country_base_evil_super_intelligence_desired_value_change_produces_add = 50
 }
 
 evil_super_intelligence_static_modifier = {

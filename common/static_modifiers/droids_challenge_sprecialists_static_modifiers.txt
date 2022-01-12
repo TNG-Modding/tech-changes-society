@@ -1,5 +1,5 @@
-tech_droids_causes_droids_challenge_sprecialists_static_modifier = {
-	country_base_droids_challenge_sprecialists_desired_value_change_produces_add = 75
+tech_droid_workers_causes_droids_challenge_sprecialists_static_modifier = {
+	country_base_droids_challenge_sprecialists_desired_value_change_produces_add = 50
 }
 
 droids_challenge_sprecialists_static_modifier = {

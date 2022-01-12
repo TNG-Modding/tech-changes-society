@@ -1,5 +1,5 @@
 tech_gateway_construction_causes_gateway_joyriding_static_modifier = {
-	country_base_gateway_joyriding_desired_value_change_produces_add = 75
+	country_base_gateway_joyriding_desired_value_change_produces_add = 50
 }
 
 gateway_joyriding_static_modifier = {

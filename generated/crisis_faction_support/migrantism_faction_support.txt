@@ -1,11 +1,11 @@
 ﻿# xenoist
 produces = {
-  trigger = { owner = { has_modifier = "tech_grandular_acclimation_causes_migrantism_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_glandular_acclimation_causes_migrantism_static_modifier" } }
   migrantism_desired_value_change = 50
 }
  
 # prosperity
 produces = {
-  trigger = { owner = { has_modifier = "tech_grandular_acclimation_causes_migrantism_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_glandular_acclimation_causes_migrantism_static_modifier" } }
   migrantism_desired_value_change = -50
 }

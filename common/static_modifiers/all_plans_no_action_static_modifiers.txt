@@ -1,5 +1,5 @@
-tech_strategic_coordination_center_causes_all_plans_no_action_static_modifier = {
-	country_base_all_plans_no_action_desired_value_change_produces_add = 75
+tech_strategic_coordination_causes_all_plans_no_action_static_modifier = {
+	country_base_all_plans_no_action_desired_value_change_produces_add = 50
 }
 
 all_plans_no_action_static_modifier = {

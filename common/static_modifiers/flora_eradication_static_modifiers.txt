@@ -1,5 +1,5 @@
-tech_terrestial_sculpting_causes_flora_eradication_static_modifier = {
-	country_base_flora_eradication_desired_value_change_produces_add = 75
+tech_terrestrial_sculpting_causes_flora_eradication_static_modifier = {
+	country_base_flora_eradication_desired_value_change_produces_add = 50
 }
 
 flora_eradication_static_modifier = {

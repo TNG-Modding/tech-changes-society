@@ -1,5 +1,5 @@
 tech_artificial_moral_codes_causes_ethical_hellhole_static_modifier = {
-	country_base_ethical_hellhole_desired_value_change_produces_add = 75
+	country_base_ethical_hellhole_desired_value_change_produces_add = 50
 }
 
 ethical_hellhole_static_modifier = {

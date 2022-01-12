@@ -1,5 +1,5 @@
 tech_arcane_deciphering_causes_existentialism_static_modifier = {
-	country_base_existentialism_desired_value_change_produces_add = 75
+	country_base_existentialism_desired_value_change_produces_add = 50
 }
 
 existentialism_static_modifier = {

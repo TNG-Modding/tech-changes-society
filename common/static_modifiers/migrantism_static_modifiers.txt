@@ -1,5 +1,5 @@
-tech_grandular_acclimation_causes_migrantism_static_modifier = {
-	country_base_migrantism_desired_value_change_produces_add = 75
+tech_glandular_acclimation_causes_migrantism_static_modifier = {
+	country_base_migrantism_desired_value_change_produces_add = 50
 }
 
 migrantism_static_modifier = {

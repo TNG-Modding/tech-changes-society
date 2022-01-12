@@ -1,5 +1,5 @@
 tech_robotic_workers_causes_robots_replace_workers_static_modifier = {
-	country_base_robots_replace_workers_desired_value_change_produces_add = 75
+	country_base_robots_replace_workers_desired_value_change_produces_add = 50
 }
 
 robots_replace_workers_static_modifier = {

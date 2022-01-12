@@ -1,5 +1,5 @@
 tech_sentry_array_causes_observation_crisis_static_modifier = {
-	country_base_observation_crisis_desired_value_change_produces_add = 75
+	country_base_observation_crisis_desired_value_change_produces_add = 50
 }
 
 observation_crisis_static_modifier = {

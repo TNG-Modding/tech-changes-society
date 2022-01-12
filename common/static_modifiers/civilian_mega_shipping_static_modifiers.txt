@@ -1,5 +1,5 @@
 tech_mega_shipyard_causes_civilian_mega_shipping_static_modifier = {
-	country_base_civilian_mega_shipping_desired_value_change_produces_add = 75
+	country_base_civilian_mega_shipping_desired_value_change_produces_add = 50
 }
 
 civilian_mega_shipping_static_modifier = {

@@ -1,5 +1,5 @@
 tech_epigenetic_triggers_causes_minor_xeno_racism_static_modifier = {
-	country_base_minor_xeno_racism_desired_value_change_produces_add = 75
+	country_base_minor_xeno_racism_desired_value_change_produces_add = 50
 }
 
 minor_xeno_racism_static_modifier = {

@@ -1,5 +1,5 @@
 tech_planetary_unification_causes_balkanization_static_modifier = {
-	country_base_balkanization_desired_value_change_produces_add = 75
+	country_base_balkanization_desired_value_change_produces_add = 50
 }
 
 balkanization_static_modifier = {

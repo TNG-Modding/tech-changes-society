@@ -1,5 +1,5 @@
 tech_dyson_sphere_causes_energy_crisis_static_modifier = {
-	country_base_energy_crisis_desired_value_change_produces_add = 75
+	country_base_energy_crisis_desired_value_change_produces_add = 50
 }
 
 energy_crisis_static_modifier = {

@@ -1,11 +1,11 @@
 ﻿# supremacist
 produces = {
-  trigger = { owner = { has_modifier = "tech_targeted_gene_expressions_causes_birth_of_a_new_us_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_gene_expressions_causes_birth_of_a_new_us_static_modifier" } }
   birth_of_a_new_us_desired_value_change = 50
 }
  
 # technologist
 produces = {
-  trigger = { owner = { has_modifier = "tech_targeted_gene_expressions_causes_birth_of_a_new_us_static_modifier" } }
+  trigger = { owner = { has_modifier = "tech_gene_expressions_causes_birth_of_a_new_us_static_modifier" } }
   birth_of_a_new_us_desired_value_change = -50
 }
