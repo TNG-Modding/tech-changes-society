@@ -1,7 +1,0 @@
-tech_dangerous_wildlife_causes_bigger_game_hunting_static_modifier = {
-	country_base_bigger_game_hunting_desired_value_change_produces_add = 75
-}
-
-bigger_game_hunting_static_modifier = {
-	job_criminal_per_pop = 0.05
-}
