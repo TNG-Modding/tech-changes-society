@@ -6,7 +6,7 @@ country_event = {
 
 	title = tech_galactic_markets_triggers_non-competative_market_events.1.title
 	desc = tech_galactic_markets_triggers_non-competative_market_events.1.desc
-	picture = GFX_evt_zro_1
+	picture = GFX_evt_tradestation_interior
 	show_sound = event_factions
 
 	is_triggered_only = no
@@ -40,7 +40,7 @@ country_event = {
 
 	title = tech_galactic_markets_triggers_non-competative_market_events.2.title
 	desc = tech_galactic_markets_triggers_non-competative_market_events.2.desc
-	picture = GFX_evt_zro_1
+	picture = GFX_evt_tradestation_interior
 	show_sound = event_factions
 
 	is_triggered_only = no
@@ -67,7 +67,7 @@ country_event = {
 
 	title = tech_galactic_markets_triggers_non-competative_market_events.3.title
 	desc = tech_galactic_markets_triggers_non-competative_market_events.3.desc
-	picture = GFX_evt_zro_1
+	picture = GFX_evt_tradestation_interior
 	show_sound = event_factions
 
 	is_triggered_only = no

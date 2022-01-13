@@ -11,7 +11,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "atmospheric_entry",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -22,11 +22,11 @@
         "triggeredByTechnology": "tech_experimental_subspace_navigation",
         "supportingFaction": "imperialist",
         "opposingFaction": "progressive",
-        "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
-        "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
-        "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
+        "brewingCrisisDesc": "With the advent of §Y$tech_experimental_subspace_navigation$§!, many generals within the §H[Root.GetName]§! have drawn up claims on remote systems that were previously too hard to reach via hyperlane. Our explansion plans have not gone unnoticed by our galatic neighbors, and many worry that we might take this opprotunity to claim lands that are theirs. These days, all our exploration vessels are crewed by at least a few §HImperialist§! minded officials, while those inclined towards §Hegalitarian§! are calling for an equal sharing of remote reaches. If the these speculators are allowed to make a mess of our borders, others may take part in this new wave of §Himperialism§!.",
+        "crisisDesc": "The §YSpeculative Border Planning Crisis§! is reaching a boiling point. Piles of holofiles litter §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! desk, offering claims on remote systems no one has ever heard of, and those we have heard of belond to others. The brazen claiming of far off system has become commonplace.",
+        "crisisResolutionDesc": "We've finally gotten through all of our claims paperwork, and through the establishment of a new Bureau of Outer Systems we can once again efficently expand and lay claim as is our right without upsetting our neighbors. We can truly say that §YSpeculative Border Planning Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "partition",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -37,11 +37,11 @@
         "triggeredByTechnology": "tech_colonial_bureaucracy",
         "supportingFaction": "imperialist",
         "opposingFaction": "supremacist",
-        "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
-        "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
-        "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
+        "brewingCrisisDesc": "With the advent of §Y$tech_colonial_bureaucracy$§!, the role of colonial governor has streadily grown in prominence within the §H[Root.GetName]§!. Governors play an integral part in any galactic empire, but the military needs that spring from colonial ventures can also §Hmilitarize§! our colonists. It is not uncommon for our colonists to buy our latest personal weaponry enmasse. An armed colonial cadre can spell danger, and those inclined towards §Hxenophobia§! are calling for us to clamp down our our colonial offshoots, less they grow too powerful. If the governors are allowed to militarize and consolidate power, we might see a general militarization of our populace.",
+        "crisisDesc": "The §YDominance of the Governors Crisis§! is reaching a boiling point. Colonial governors, along with their military fleets and armies pose a direct threat to §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]'s§! rule. While we can attempt to divide an concur, turning our populace against our colonies through §Hxenophobia§! may be our only option.",
+        "crisisResolutionDesc": "The periphery serves the core! Slowly and delicately we have tightened our grip on our colonial ventures, and all recognize that the core worlds of our empire are the real jewel that must be maintained by the colonies. We can truly say that §YDominance of the Governors Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "acquire_asset",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -52,11 +52,11 @@
         "triggeredByTechnology": "tech_galactic_bureaucracy",
         "supportingFaction": "imperialist",
         "opposingFaction": "supremacist",
-        "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
-        "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
-        "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
+        "brewingCrisisDesc": "With the advent of §Y$tech_galactic_bureaucracy$§!, many within the §H[Root.GetName]§! are deciding to migrate across our empire. To see, to go, to conquer as the §HImperialists§! adage goes. With plasma rifle in hand and fleet at the back, are people are poised to emmigrate across the empire with newly ratified, galactic holowork. Those inclined towards §Hxenophobia§! urge us to stipulate new clauses in our holowork guidelines that encourage colonial profits to flow back into the core worlds. If these militarized settlers are allowed to emmigrate and set up petty states of their own within our borders, they may go out of reach of our core world bureaucracy.",
+        "crisisDesc": "The §YDiaspora Crisis§! is reaching a boiling point. Settlements within our borders that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has never even heard of have grown in independence and strength. The natural buildup of colonial munitions signifies the greater militarization of our newly emmigrated subjects. It will be incredibly difficult to bring the colonial diaspora back in line with core world interests.",
+        "crisisResolutionDesc": "By passing key laws restricting colonials and facilating observation of the outer worlds, we have reigned in the diaspora of our citizenry, and regained a measure of control and positive trade flow back to our core worlds. We can truly say that the §YDiaspora Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "fleet_neutral",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -67,11 +67,11 @@
         "triggeredByTechnology": "tech_colonial_centralization",
         "supportingFaction": "imperialist",
         "opposingFaction": "technologist",
-        "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
-        "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
-        "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
+        "brewingCrisisDesc": "With the advent of §Y$tech_colonial_centralization$§!, many §Himperialist§! minded colonials within the §H[Root.GetName]§! are pushing our colonial offices harder and harder as we strain to manage the centralization of our colonial holdings.  §HImperialists§! would see us spread and concolidate our powers at a nigh constant rate without sufficiently maturing our colonies, while those inclined toward §Hmatreialism§! are pushing the boundaries of colonial communication technology that might alleviate our colonial strain. If we don't curtial the expansion plans of our imperialists with fitting technological solutions, our colonies will have such outdated tech that they will have to turn to §Hmilitarization§! to avoid collapse.",
+        "crisisDesc": "The §YColonial Backwaters Crisis§! is reaching a boiling point. Colonial holdings within the §H[Root.GetName]§! are decades behind our coreworlds, and the personal affects of §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! seemed like sorcery to our colonial citizenry. Where they lack in technology, the colonials have turned to weapons manufacturing and expansion to counteract.",
+        "crisisResolutionDesc": "Through education outreach programs and key technological innovations, we have been able to bring our colonial technology logistics up to speed with our core worlds. No longer will a colonial need to travel ten hyperlane jump-points just for a energizer for their phantobulator. The §YColonial Backwaters Crisis§! is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "big_landing_ship",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -82,11 +82,11 @@
         "triggeredByTechnology": "tech_planetary_unification",
         "supportingFaction": "imperialist",
         "opposingFaction": "totalitarian",
-        "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
-        "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
-        "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
+        "brewingCrisisDesc": "With the advent of §Ytech_planetary_unification§!, many within the §H[Root.GetName]§! have begun to take our united identity for granted. §HImperialists§! have begun to through their weight around, and while they have plans for expansion, executed poorly we may have many, individually united worlds with no imperial purpose. Those inclined towards §Hauthoritarianism§! are already hard at work planning the consolidation of our colonial worlds under the boot of our core system. If we expand withput controling our colonies, we may fail at creating a truly imperial system, and end up with balkanized planets bound for §Hmilitarization§! on their own.",
+        "crisisDesc": "The §YBalkanization Crisis§! is reaching a boiling point. Many planetary leaders do not answer to §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! and have setup petty planet-empires. They have turned to their own §Hprivatized militaries§!. There is much work to be done to unify not just our planet, but our empire",
+        "crisisResolutionDesc": "The empire is ours! Nevermore shall planetary leaders rule as emperors, but as governors and subjects once more.The §YBalkanization Crisis§!",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_segregation",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -101,7 +101,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "organic_oppression",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -131,7 +131,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "spy_network",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -146,7 +146,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "strategic_coordination_center",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -161,7 +161,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "black_hole",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -176,7 +176,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "ship_in_orbit",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -191,7 +191,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "l-gateway",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -206,7 +206,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "gaia_planet",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -221,7 +221,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "gaia_planet",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -236,7 +236,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "arena",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -251,7 +251,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_segregation",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -266,7 +266,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "tradestation_interior",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -281,7 +281,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "megashipyard",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -296,7 +296,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_city",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -311,7 +311,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "organic_oppression",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -326,7 +326,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "shielded_planet",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -341,7 +341,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "dyson_sphere",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -356,7 +356,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "smugglers_in_bar",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -371,7 +371,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "salute",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -386,7 +386,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "gunrunning",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -401,7 +401,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "planet_beam",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -416,7 +416,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "news_room",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -431,7 +431,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "galactic_market",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -446,7 +446,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "archaeological_dig",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -461,7 +461,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "machine_sapience",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -476,7 +476,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "tradestation_interior",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -491,7 +491,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "wormhole",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -521,7 +521,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_segregation",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -536,7 +536,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "voting",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -551,7 +551,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "spy_network",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -566,7 +566,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "spy_network",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -581,7 +581,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_segregation",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -596,7 +596,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "organic_oppression",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -611,7 +611,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "busy_spaceport",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -626,7 +626,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "synth_sabotage",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -641,7 +641,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "synth_organic_relations",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -656,7 +656,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "think_tank",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -671,7 +671,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "synth_organic_relations",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -686,7 +686,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "shrouded_planet",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -701,7 +701,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "space_station",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -716,7 +716,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "emergency_workers",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -731,7 +731,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "board_meeting",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -746,7 +746,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "spy_network",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -761,7 +761,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "smear_campaign",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -776,7 +776,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "spymaster",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -791,7 +791,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_propaganda",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -806,7 +806,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_propaganda",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -821,7 +821,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_propaganda",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -836,7 +836,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "cover_blown",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -851,7 +851,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "colony_settlement",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -866,7 +866,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "tomb_world",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -881,7 +881,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "ringworld",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -896,7 +896,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "cover_blown",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -911,7 +911,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "black_hole",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -926,7 +926,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "think_tank",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -941,7 +941,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "black_hole",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -971,7 +971,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "psionic_battle",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -986,7 +986,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "alien_propaganda",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1001,7 +1001,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "mega_art_installation",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1016,7 +1016,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "l-gateway",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1031,7 +1031,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "megastructure_construction",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1046,7 +1046,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "megastructure_construction",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1061,7 +1061,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "colony_settlement",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1076,7 +1076,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "organic_oppression",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1091,7 +1091,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "matter_decompressor",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1106,7 +1106,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "black_hole",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1121,7 +1121,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "psionics",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1136,7 +1136,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "fleet_from_surface",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1151,7 +1151,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "society_research",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1166,7 +1166,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "society_research",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1181,7 +1181,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "interstellar_assembly",
         "baseValue": 0,
         "changePerMonth": 1
       },
@@ -1196,7 +1196,7 @@
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",
         "crisisResolutionDesc": "Through the establishment of planetary reserves, weapons confiscations, and the codification of humane hunting laws we have been able to curtial bigger game hunting. We can truly say that §YBigger Game Crisis§! as a national phenomena is at an end.",
         "maxValue": 100,
-        "eventPicture": "zro_1",
+        "eventPicture": "derelict_interior",
         "baseValue": 0,
         "changePerMonth": 1
       }
