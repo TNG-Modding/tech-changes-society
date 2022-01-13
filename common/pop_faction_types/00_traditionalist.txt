@@ -16,9 +16,85 @@ traditionalist = {
 		}
 
 		produces = {
+			trigger = { owner = { has_modifier = "tech_global_research_initiative_causes_entrenched_academia_static_modifier" } }
+			entrenched_academia_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_arcane_deciphering_causes_existentialism_static_modifier" } }
+			existentialism_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_nanite_transmutation_causes_fear_of_the_small_static_modifier" } }
+			fear_of_the_small_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mega_art_causes_gaudy_art_static_modifier" } }
+			gaudy_art_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mine_living_metal_causes_metallurgy_luddism_static_modifier" } }
+			metallurgy_luddism_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_1_causes_onward_and_downward_static_modifier" } }
+			onward_and_downward_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_psionic_theory_causes_psionic_quake_static_modifier" } }
+			psionic_quake_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mega_engineering_causes_sheapish_engineers_static_modifier" } }
+			sheapish_engineers_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mine_dark_matter_causes_the_void_static_modifier" } }
+			the_void_desired_value_change = 50
+		  }
+		  produces = {
 			trigger = { owner = { has_modifier = "tech_mine_zro_causes_zro_huffing_static_modifier" } }
 			zro_huffing_desired_value_change = 50
-		}
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_precognition_interface_causes_artificial_friendly_fire_static_modifier" } }
+			artificial_friendly_fire_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_assembly_pattern_causes_cheap_ugly_housing_static_modifier" } }
+			cheap_ugly_housing_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_climate_restoration_causes_civilian_bombing_static_modifier" } }
+			civilian_bombing_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mega_shipyard_causes_civilian_mega_shipping_static_modifier" } }
+			civilian_mega_shipping_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_cloning_causes_draft_dodging_static_modifier" } }
+			draft_dodging_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_ecological_adaptation_causes_foreign_corvee_static_modifier" } }
+			foreign_corvee_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_thought_enforcement_causes_monothought_static_modifier" } }
+			monothought_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_morphogenetic_field_mastery_causes_mutant_horde_static_modifier" } }
+			mutant_horde_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_galactic_markets_causes_non-competative_market_static_modifier" } }
+			non-competative_market_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_telepathy_causes_state_secret_leaks_static_modifier" } }
+			state_secret_leaks_desired_value_change = -50
+		  }
 	}
 
 	is_potential = {

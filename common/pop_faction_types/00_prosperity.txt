@@ -28,6 +28,86 @@ prosperity = {
 		produces = {
 			influence = 2
 		}
+		produces = {
+			trigger = { owner = { has_modifier = "tech_construction_templates_causes_architectural_dark_age_static_modifier" } }
+			architectural_dark_age_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_global_production_strategy_causes_defunct_production_static_modifier" } }
+			defunct_production_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_dyson_sphere_causes_energy_crisis_static_modifier" } }
+			energy_crisis_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_terrestrial_sculpting_causes_flora_eradication_static_modifier" } }
+			flora_eradication_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_nutrient_replication_causes_foreign_waste_crops_static_modifier" } }
+			foreign_waste_crops_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_space_trading_causes_galactic_trader_dominance_static_modifier" } }
+			galactic_trader_dominance_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_living_state_causes_missing_officials_static_modifier" } }
+			missing_officials_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_planetary_shield_generator_causes_shield_fear_static_modifier" } }
+			shield_fear_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_penal_colonies_causes_society_of_criminals_static_modifier" } }
+			society_of_criminals_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_workers_causes_synthetic_existentialism_static_modifier" } }
+			synthetic_existentialism_desired_value_change = 50
+		  }
+		produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_thought_patterns_causes_disgusting_synth_ethics_static_modifier" } }
+			disgusting_synth_ethics_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_global_research_initiative_causes_entrenched_academia_static_modifier" } }
+			entrenched_academia_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_gateway_activation_causes_gateway_fiends_static_modifier" } }
+			gateway_fiends_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_gateway_construction_causes_gateway_joyriding_static_modifier" } }
+			gateway_joyriding_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_glandular_acclimation_causes_migrantism_static_modifier" } }
+			migrantism_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_1_causes_onward_and_downward_static_modifier" } }
+			onward_and_downward_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_selected_lineages_causes_our_savior_static_modifier" } }
+			our_savior_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_slave_colonies_causes_thrall_debt_slavery_static_modifier" } }
+			thrall_debt_slavery_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_resort_colonies_causes_vacationing_static_modifier" } }
+			vacationing_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_3_causes_waiting_game_static_modifier" } }
+			waiting_game_desired_value_change = -50
+		  }
 	}
 
 	can_join_pre_triggers = {

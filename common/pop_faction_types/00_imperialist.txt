@@ -15,10 +15,81 @@ imperialist = {
 			influence = 2
 		}
 		produces = {
-			trigger = { owner = { has_modifier = "tech_dangerous_wildlife_causes_bigger_game_hunting_static_modifier" } }
-			bigger_game_hunting_desired_value_change = 50
-		}
-		
+			trigger = { owner = { has_modifier = "tech_strategic_coordination_causes_all_plans_no_action_static_modifier" } }
+			all_plans_no_action_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_precognition_interface_causes_artificial_friendly_fire_static_modifier" } }
+			artificial_friendly_fire_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_planetary_unification_causes_balkanization_static_modifier" } }
+			balkanization_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_colonial_centralization_causes_colonial_backwaters_static_modifier" } }
+			colonial_backwaters_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_galactic_bureaucracy_causes_diaspora_static_modifier" } }
+			diaspora_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_colonial_bureaucracy_causes_dominance_of_the_governors_static_modifier" } }
+			dominance_of_the_governors_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_cloning_causes_draft_dodging_static_modifier" } }
+			draft_dodging_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_2_causes_instruct_and_listen_static_modifier" } }
+			instruct_and_listen_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_morphogenetic_field_mastery_causes_mutant_horde_static_modifier" } }
+			mutant_horde_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_experimental_subspace_navigation_causes_speculative_border_planning_static_modifier" } }
+			speculative_border_planning_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mine_volatile_motes_causes_acceptable_xeno_casualities_static_modifier" } }
+			acceptable_xeno_casualities_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_combat_computers_3_causes_ai_warlordism_static_modifier" } }
+			ai_warlordism_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_cryostasis_2_causes_colonial_riff_raff_static_modifier" } }
+			colonial_riff_raff_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_automated_exploration_causes_independent_explorers_static_modifier" } }
+			independent_explorers_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_jump_drive_1_causes_jump_crime_static_modifier" } }
+			jump_crime_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_administrative_ai_causes_paperclip_maximalization_static_modifier" } }
+			paperclip_maximalization_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_planetary_shield_generator_causes_shield_fear_static_modifier" } }
+			shield_fear_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mine_dark_matter_causes_the_void_static_modifier" } }
+			the_void_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_ftl_inhibitor_causes_xeno_parking_inhibition_static_modifier" } }
+			xeno_parking_inhibition_desired_value_change = -50
+		  }
 	}
 
 	is_potential = {

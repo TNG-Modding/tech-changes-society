@@ -102,8 +102,17 @@
         {
             "name": "Crisis Faction Support",
             "specFilePath": "./specs/crises.json",
-            "templateDirectoryPath": "./templates/crises/crisis_faction_support_oppose",
+            "templateDirectoryPath": "./templates/crises/crisis_support",
             "outputDirectoryPath": "../generated/crisis_faction_support",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Crisis Faction Prevent",
+            "specFilePath": "./specs/crises.json",
+            "templateDirectoryPath": "./templates/crises/crisis_prevent",
+            "outputDirectoryPath": "../generated/crisis_faction_prevent",
             "disabled": false,
             "dumpContents": true,
             "isBom": false

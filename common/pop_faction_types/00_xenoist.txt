@@ -15,9 +15,81 @@ xenoist = {
 			influence = 2
 		}
 		produces = {
-			trigger = { owner = { has_modifier = "tech_dangerous_wildlife_causes_bigger_game_hunting_static_modifier" } }
-			bigger_game_hunting_desired_value_change = -50
-		}
+			trigger = { owner = { has_modifier = "tech_cryostasis_2_causes_colonial_riff_raff_static_modifier" } }
+			colonial_riff_raff_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_sapient_ai_causes_evil_super_intelligence_static_modifier" } }
+			evil_super_intelligence_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_gene_banks_causes_gene_hording_static_modifier" } }
+			gene_hording_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_habitat_1_causes_habitat_vagabondism_static_modifier" } }
+			habitat_vagabondism_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_glandular_acclimation_causes_migrantism_static_modifier" } }
+			migrantism_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_selected_lineages_causes_our_savior_static_modifier" } }
+			our_savior_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_interstellar_assembly_causes_over_eager_diplomacy_static_modifier" } }
+			over_eager_diplomacy_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_3_causes_waiting_game_static_modifier" } }
+			waiting_game_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_matter_decompressor_causes_wasteful_decompression_static_modifier" } }
+			wasteful_decompression_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_alien_life_studies_causes_xeno_theft_static_modifier" } }
+			xeno_theft_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_strategic_coordination_causes_all_plans_no_action_static_modifier" } }
+			all_plans_no_action_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_construction_templates_causes_architectural_dark_age_static_modifier" } }
+			architectural_dark_age_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_akx_worm_2_causes_instruct_and_listen_static_modifier" } }
+			instruct_and_listen_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_leaders_causes_organic_leadership_crisis_static_modifier" } }
+			organic_leadership_crisis_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_ring_world_causes_ring_relocation_static_modifier" } }
+			ring_relocation_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_robotic_workers_causes_robots_replace_workers_static_modifier" } }
+			robots_replace_workers_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_mega_engineering_causes_sheapish_engineers_static_modifier" } }
+			sheapish_engineers_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_workers_causes_synthetic_existentialism_static_modifier" } }
+			synthetic_existentialism_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_tomb_world_adaption_causes_tomb_shift_suicides_static_modifier" } }
+			tomb_shift_suicides_desired_value_change = -50
+		  }
 	}
 
 	is_potential = {

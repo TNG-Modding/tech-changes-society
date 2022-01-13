@@ -15,6 +15,86 @@ technologist = {
 		produces = {
 			influence = 2
 		}
+		produces = {
+			trigger = { owner = { has_modifier = "tech_combat_computers_3_causes_ai_warlordism_static_modifier" } }
+			ai_warlordism_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_interstellar_fleet_traditions_causes_convoluted_fleet_traditions_static_modifier" } }
+			convoluted_fleet_traditions_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_thought_patterns_causes_disgusting_synth_ethics_static_modifier" } }
+			disgusting_synth_ethics_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_vitality_boosters_causes_elder_dominance_static_modifier" } }
+			elder_dominance_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_science_nexus_causes_foreign_scientist_craze_static_modifier" } }
+			foreign_scientist_craze_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_genome_mapping_causes_healthcare_crisis_static_modifier" } }
+			healthcare_crisis_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_jump_drive_1_causes_jump_crime_static_modifier" } }
+			jump_crime_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_synthetic_leaders_causes_organic_leadership_crisis_static_modifier" } }
+			organic_leadership_crisis_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_administrative_ai_causes_paperclip_maximalization_static_modifier" } }
+			paperclip_maximalization_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_psi_jump_drive_1_causes_psi_jump_to_nowhere_static_modifier" } }
+			psi_jump_to_nowhere_desired_value_change = 50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_gene_expressions_causes_birth_of_a_new_us_static_modifier" } }
+			birth_of_a_new_us_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_galactic_administration_causes_bureau_of_bureaus_static_modifier" } }
+			bureau_of_bureaus_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_neural_implants_causes_chip_avoidance_static_modifier" } }
+			chip_avoidance_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_colonial_centralization_causes_colonial_backwaters_static_modifier" } }
+			colonial_backwaters_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_artificial_moral_codes_causes_ethical_hellhole_static_modifier" } }
+			ethical_hellhole_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_housing_agrarian_idyll_causes_flight_to_communes_static_modifier" } }
+			flight_to_communes_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_nutrient_replication_causes_foreign_waste_crops_static_modifier" } }
+			foreign_waste_crops_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_capacity_boosters_causes_genetic_infanticide_static_modifier" } }
+			genetic_infanticide_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_subdermal_stimulation_causes_hedonism_static_modifier" } }
+			hedonism_desired_value_change = -50
+		  }
+		  produces = {
+			trigger = { owner = { has_modifier = "tech_epigenetic_triggers_causes_minor_xeno_racism_static_modifier" } }
+			minor_xeno_racism_desired_value_change = -50
+		  }
 	}
 
 	is_potential = {

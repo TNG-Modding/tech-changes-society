@@ -5,7 +5,7 @@
         "name": "civilian bombing",
         "Name": "Civilian Bombing",
         "triggeredByTechnology": "tech_climate_restoration",
-        "supportingFaction": "imperialism",
+        "supportingFaction": "imperialist",
         "opposingFaction": "traditionalist",
         "brewingCrisisDesc": "With the advent of §YDangerous Wildlife Removal§! techniques, many within the §H[Root.GetName]§! have set their sights on the dangerous indigenous fauna living on our planets. This quest for ever bigger game is outside the bounds of the law, regardless of how lucrative the sale of the titatic carcuses are. §HImperialists§! everywhere have taken to their speeders and plasma rifles, while those inclined towards §Hxenophilia§! are calling for us to circumvent the hunters. If the poachers are allowed free reign, others may find a taste for §Hxeno hunting§!.",
         "crisisDesc": "The §YBigger Game Crisis§! is reaching a boiling point. Networks of poachers have spread throughout the §H[Root.GetName]§!, and it is even speculated that §B[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]§! has game trophies in their domicile. We are already seeing the greater militarization of our citizenry. While we may have made a few high profile poacher arrests, the horns and secretions of the beasts still pull an enormous profit.",

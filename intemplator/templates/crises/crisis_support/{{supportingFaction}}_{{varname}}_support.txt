@@ -1,0 +1,4 @@
+﻿produces = {
+  trigger = { owner = { has_modifier = "{{triggeredByTechnology}}_causes_{{varname}}_static_modifier" } }
+  {{varname}}_desired_value_change = 50
+}
